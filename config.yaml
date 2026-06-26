@@ -1,66 +1,112 @@
 # ==========================================================================
-# Indonesia News Trends — configuration
-# Edit this file to control sources, how many trends, and output options.
+# Indonesia Tech & AI News Trends — configuration
+# Niche: technology, AI, startups, gadgets, digital economy in Indonesia.
+# Style: hype hook + short explainer payoff.
 # ==========================================================================
 
-# How far back to consider an article "recent" (Google News supports when:Xd)
-lookback_days: 1
-
-# Max number of trending stories to turn into social posts
+lookback_days: 2          # tech moves a bit slower than breaking news; 2d gives volume
 top_stories: 8
-
-# Min number of distinct sources/articles a topic must appear in to count as a trend
 min_cluster_size: 2
+caption_lang: id          # "id" or "en"
+caption_style: mix        # "mix" (hook + explainer), "hype", or "explainer"
 
-# Language for captions: "id" (Indonesian) or "en" (English)
-caption_lang: id
-
-# ---- Google News Indonesia (reliable backbone, no API key needed) ----
+# ---- Google News Indonesia backbone ----
 google_news:
   enabled: true
   hl: id
   gl: ID
   ceid: "ID:id"
-  # Topic sections to pull from Google News Indonesia
+  # Keep the tech-relevant sections only
   topics:
-    - NATION
-    - BUSINESS
     - TECHNOLOGY
-    - ENTERTAINMENT
-    - SPORTS
     - SCIENCE
-    - HEALTH
+    - BUSINESS        # captures startup funding / digital economy stories
 
-# ---- Major Indonesian portals ----
-# Pulled THROUGH Google News `site:` search so they keep working even when a
-# portal's own RSS goes down. Set `direct_rss` if you prefer the native feed.
+# ---- Niche search queries (Google News search, no API key) ----
+# These pull tech/AI stories from ALL Indonesian media at once.
+search_queries:
+  - "kecerdasan buatan OR AI Indonesia"
+  - "startup Indonesia pendanaan"
+  - "teknologi terbaru Indonesia"
+  - "gadget OR smartphone rilis Indonesia"
+  - "fintech OR ecommerce Indonesia"
+  - "data center OR cloud Indonesia"
+  - "keamanan siber OR cyber security Indonesia"
+  - "Gojek OR Tokopedia OR GoTo OR Bukalapak"
+
+# ---- Tech-focused Indonesian portals ----
+# Pulled THROUGH Google News site: search so they keep working even if a
+# portal's own RSS is down.
 portals:
-  - name: Detik
-    site: detik.com
-    direct_rss: "https://rss.detik.com/index.php/detikcom"
-  - name: Kompas
-    site: kompas.com
+  - name: Detik Inet
+    site: inet.detik.com
     direct_rss: ""
-  - name: CNN Indonesia
-    site: cnnindonesia.com
-    direct_rss: "https://www.cnnindonesia.com/nasional/rss"
-  - name: Antara
-    site: antaranews.com
-    direct_rss: "https://www.antaranews.com/rss/terkini.xml"
-  - name: Tempo
-    site: tempo.co
-    direct_rss: "https://rss.tempo.co/nasional"
-  - name: Tribun
-    site: tribunnews.com
-    direct_rss: "https://www.tribunnews.com/rss"
-  - name: Liputan6
-    site: liputan6.com
+  - name: Kompas Tekno
+    site: tekno.kompas.com
+    direct_rss: ""
+  - name: CNBC Indonesia Tech
+    site: cnbcindonesia.com/tech
+    direct_rss: ""
+  - name: DailySocial
+    site: dailysocial.id
+    direct_rss: ""
+  - name: Tech in Asia ID
+    site: id.techinasia.com
+    direct_rss: ""
+  - name: Uzone
+    site: uzone.id
+    direct_rss: ""
+  - name: Kumparan Tech
+    site: kumparan.com/kumparantech
     direct_rss: ""
 
-# Prefer the portal's native RSS feed when one is configured above.
-# If false (default), everything routes through Google News for consistency.
 prefer_direct_rss: false
 
-# Output locations (relative to repo root)
+# ---- Niche keyword filter ----
+# An article is kept only if its title contains at least one of these terms.
+# This keeps the feed on-topic even when a broad source slips in.
+# Set `enabled: false` to keep everything the sources return.
+keyword_filter:
+  enabled: true
+  any_of:
+    - ai
+    - "artificial intelligence"
+    - kecerdasan buatan
+    - chatgpt
+    - openai
+    - gemini
+    - teknologi
+    - tech
+    - startup
+    - aplikasi
+    - aplikasi
+    - gadget
+    - smartphone
+    - hp
+    - iphone
+    - samsung
+    - laptop
+    - fintech
+    - ecommerce
+    - e-commerce
+    - digital
+    - internet
+    - data
+    - cloud
+    - siber
+    - cyber
+    - robot
+    - software
+    - chip
+    - semikonduktor
+    - gojek
+    - tokopedia
+    - goto
+    - shopee
+    - bukalapak
+    - blockchain
+    - kripto
+    - crypto
+
 output_dir: output
 data_dir: data
