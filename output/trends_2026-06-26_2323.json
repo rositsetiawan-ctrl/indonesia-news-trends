@@ -1,0 +1,704 @@
+{
+  "generated_at": "2026-06-26T23:23:10.800837+00:00",
+  "total_articles": 364,
+  "trending_keywords": [
+    {
+      "term": "com",
+      "count": 103
+    },
+    {
+      "term": "kompas",
+      "count": 73
+    },
+    {
+      "term": "kompas com",
+      "count": 72
+    },
+    {
+      "term": "cnbc",
+      "count": 61
+    },
+    {
+      "term": "detikinet",
+      "count": 60
+    },
+    {
+      "term": "harga",
+      "count": 42
+    },
+    {
+      "term": "uzone",
+      "count": 37
+    },
+    {
+      "term": "baru",
+      "count": 27
+    },
+    {
+      "term": "dunia",
+      "count": 22
+    },
+    {
+      "term": "cara",
+      "count": 21
+    },
+    {
+      "term": "china",
+      "count": 21
+    },
+    {
+      "term": "kumparan",
+      "count": 20
+    },
+    {
+      "term": "kumparan com",
+      "count": 20
+    },
+    {
+      "term": "bikin",
+      "count": 17
+    },
+    {
+      "term": "samsung",
+      "count": 16
+    },
+    {
+      "term": "rilis",
+      "count": 15
+    },
+    {
+      "term": "pakai",
+      "count": 14
+    },
+    {
+      "term": "mulai",
+      "count": 14
+    },
+    {
+      "term": "juli",
+      "count": 14
+    },
+    {
+      "term": "tahun",
+      "count": 13
+    },
+    {
+      "term": "resmi",
+      "count": 13
+    },
+    {
+      "term": "cnn",
+      "count": 12
+    },
+    {
+      "term": "gta",
+      "count": 12
+    },
+    {
+      "term": "telset",
+      "count": 12
+    },
+    {
+      "term": "pro",
+      "count": 12
+    }
+  ],
+  "trending_stories": [
+    {
+      "topic": "com",
+      "headline": "China Makin Serius Ingin Saingi Starlink - Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnpMbGxmaE5xVkMyU0dMVm1ITHdpYkhZSTVUemNkYkNSUUVtclpORkdabGpnQy1BYWhQMzJUM2pjeFFXWUZNMTlfSWJZTFI1OHp6cU5uYzJ0UHJ0cXd3djYzUkoyaU1qYk1GV2ptY092TWRiWnJrb0xfcE9kNG1GbzhVZEd6c2dEWjJ2M2poeThZMHdB?oc=5",
+      "article_count": 93,
+      "source_count": 5,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Technology)",
+        "Google News (Top)",
+        "Kompas Tekno",
+        "Kumparan Tech"
+      ],
+      "keywords": [
+        "com",
+        "kompas",
+        "kumparan",
+        "harga",
+        "cara"
+      ],
+      "score": 201,
+      "samples": [
+        "Pengamat Sebut Safari Politik Jokowi ke Lampung Konsolidasi untuk Pemenangan Pileg 2029 - Kompas.com",
+        "23.470 Pekerja Kena PHK pada 2026, Ini Sebaran Kasusnya di 34 Provinsi - Kompas.com",
+        "Terungkap, Raja Charles III Bayar Pajak Pribadi Rp 712 M sejak 2022 - Kompas.com",
+        "Harga Pre-order GTA 6 Versi PS5 dan Xbox, Versi PC Kapan Rilis? - kumparan.com - Kumparan.com",
+        "Setelah Tantri Kotak, Sejumlah Korban Speak Up Ditipu Poppy Nupitasari - Kompas.com"
+      ]
+    },
+    {
+      "topic": "cnbc",
+      "headline": "Prabowo Mau Pakai AI di Program MBG, Buat Apa? - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFlzQkFQRVNmYi1lOWdKUURXWXdwc2VHWHhLVlhxOWNVLUJMRGxiZDcxTjhBS0hHd0JxVDFNcUJEcW9aeDFIdkx6TmhHTEgzWDNSQzQ5UUtVS3V0VXZRZ1FJSlhPcE5IMUJBZ19FWEJyUzJrYVN2d2ZTdGpXNTl0b1o3MURoTkVnMDBVb0w5bEdtWUpTSDRKUWRUVmZ1bjZzV1FrMjJCQ3RBMTRi0gGsAUFVX3lxTE44WXNCQVBFU2ZiLWU5Z0pRRFdZd3BzZUdYeEtWWHE5Y1UtQkxEbGJkNzFOOEFLSEd3QnFUMU1xQkRxb1p4MUh2THpOaEdMSDNYM1JDNDlRS1VLdXRVdlFnUUlKWE9wTkgxQkFnX0VYQnJTMmthU3Z3ZlN0alc1OXRvWjcxRGhORWcwMFVvTDlsR21ZSlNINEpRZFRWZnVuNnNXUWsyMkJDdEExNGI?oc=5",
+      "article_count": 61,
+      "source_count": 4,
+      "sources": [
+        "CNBC Indonesia Tech",
+        "Google News (Business)",
+        "Google News (Technology)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "cnbc",
+        "china",
+        "amerika",
+        "baru",
+        "ungkap",
+        "negara"
+      ],
+      "score": 134,
+      "samples": [
+        "24 Jam Mencekam! Gempa Besar Hantam Berbagai Negara, Kebetulan? - CNBC Indonesia",
+        "Kabar Baik! Harga Emas & Perak Akhirnya Bangkit - CNBC Indonesia",
+        "Daftar 19 Negara Lolos 32 Besar Piala Dunia 2026, Terbaru Ada Jepang - CNBC Indonesia",
+        "Waspada Undangan Pernikahan Palsu di WhatsApp, Segera Lakukan Ini - CNBC Indonesia",
+        "Panda Bond: Cara Purbaya Lepaskan RI dari Ketergantungan Dolar - CNBC Indonesia"
+      ]
+    },
+    {
+      "topic": "detikinet",
+      "headline": "Rahasia Rumah Nyaman Ala Choi Minho - detikInet",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkVkODZaRDkxRi1Cb1VxbTBscU5hZ3NKZ056eGFYZEt2N0E2aFZyVzk4aW5NT0tpTHptM05fMldTLVVSQU5tVVlzelBzSVJiNkNCU3JEb2Q0dF9GdVlmMTVmSmgxd0psODE3UURkUTFBck1tU0JkSEphZ19rcF9rN2lfd9IBiAFBVV95cUxQWFZ2VmZlY0Y4RjU3TnZ1aklCT1BNNHFvSUhIX0FmRzVNeUROMWR1dC1QMlJ2czd3UEN4TXA3VHlhX3Rxdk1sRVhCeFlfZXExSWJHNkR4V2psSGI0YTE5b2ZWd1BBalBGZGFkUkh2aXdGMmtnMFlhR2F1RjBXbHVGNEZSTmJwMkgx?oc=5",
+      "article_count": 60,
+      "source_count": 4,
+      "sources": [
+        "Detik Inet",
+        "Google News (Business)",
+        "Google News (Technology)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "detikinet",
+        "bikin",
+        "mini",
+        "dunia",
+        "gta",
+        "langsung"
+      ],
+      "score": 132,
+      "samples": [
+        "Ilmuwan Bikin 'Alam Semesta Mini' untuk Buktikan Waktu Sungguh Ada - detikInet",
+        "Smartphone Korea Utara, Download Aplikasi Tertentu Harus Datang Langsung - detikInet",
+        "Apple Peringatkan Jangan Lakukan Ini Kalau iPhone Dicuri - detikInet",
+        "Terima File Ini di WhatsApp? Jangan Dibuka, Perangkatmu Bisa Dikendalikan - detikInet",
+        "Elon Musk Bikin Konstelasi Raksasa Baru, Namanya Starmind - detikInet"
+      ]
+    },
+    {
+      "topic": "uzone",
+      "headline": "Uzone - Informasi Teknologi Terkini - uzone.id",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4cUN4MTUyTXdwZU5yNlBTMGlCWjZUa0xrcXZJZGs5a3FIdndERkNRM254eEh1WFd6dnV6YVdYanJaZ19yQ0JNYkRmdEM0U0ozWFJXQ0dKV08?oc=5",
+      "article_count": 31,
+      "source_count": 1,
+      "sources": [
+        "Uzone"
+      ],
+      "keywords": [
+        "uzone",
+        "listrik",
+        "honda",
+        "vario",
+        "evo",
+        "jakarta"
+      ],
+      "score": 65,
+      "samples": [
+        "Uzone - Informasi Teknologi Terkini - uzone.id",
+        "15 Tahun Eksis, Pajero Sport Tetap Andalan Penggemar SUV Diesel - uzone.id",
+        "PC AI Bisa Bantu Warga RI Tingkatkan Adopsi AI? - uzone.id",
+        "IIMS 2027: Lebih Canggih dan Luas, Rute Test Drive ke Luar JIExpo! - uzone.id",
+        "Maxim Bebaskan Tarif Aplikasi Khusus untuk Mitra Driver Disabilitas - uzone.id"
+      ]
+    },
+    {
+      "topic": "harga",
+      "headline": "Harga Bitcoin Anjlok! - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWVWpRcGVhZkVmQW9mU3ZZSExEaFZIV3p4ZjExcVpmVXZaa0JpcTV4YTY0dWU5RFNOVmZyWGNON0NOVHlDMTZKRl9oZENoaHMtNG5wVlRCWVo5dDZkWnFMWUppWGVrb3ZwZ0JMVjRiX09kZ9IBd0FVX3lxTFB3bXZ6U1FFek1qT29VQUJ2MF9KU3h5OUxveTBSazZOR3h3MGNXdTNrMnVxUzJXNU1hNmRadnREN1VsVjdFMGJJT3BtU0JYOWREZFRDV3RhZi01Q3ZyMUpqWHU1cGVZeFE1Y080bzFhcVlHaGNRQUpV?oc=5",
+      "article_count": 19,
+      "source_count": 4,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Technology)",
+        "Google News (Top)",
+        "Uzone"
+      ],
+      "keywords": [
+        "harga",
+        "uzone",
+        "pro",
+        "jutaan",
+        "naik",
+        "iphone"
+      ],
+      "score": 50,
+      "samples": [
+        "Harga Bitcoin Anjlok! - detikFinance",
+        "Harga Produk Apple Naik, MacBook dan iPad Paling Terdampak - Validnews.id",
+        "Xbox Kembali Naikkan Harga Console Hingga $150 - Jagat Play",
+        "Huawei Rilis MatePad Mini, Tablet Super Tipis Harga Rp9 Juta - CNN Indonesia",
+        "Daftar Harga iPhone 17 Terbaru Juni 2026 Resmi Indonesia: Pro Max, Pro, Air, Reguler - JournalArta"
+      ]
+    },
+    {
+      "topic": "cnn",
+      "headline": "Daftar 7 Bank Tutup per Juni 2026 - CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzMyUFJQdUF0Y0FiTlhhMmJLWU1vS3RNTHIxWnVDdXRRay1wRUU0T2Y1Um9ybHpjamlOaW54THBocVRadWxxdHVmVjVoclg4REM4cFQyM283UEFaVTF4aVAtYWMyUXUtLVlya1ZwcDZ5V3lDV2ZVOVliNnNyR1BxV2Z3QzFvNEVYVTZ3dUg3R1NPcnBfSkNYYjRTOU7SAaIBQVVfeXFMT042OFRMVFBZWWU1eUVLY28yOWJGckZRQTNveEM5U3B2cU85VG55WE1zTEduZ0tUbk5iQUhWc1FnRGpYS0hWWERRSjJ2QmFXZlN1SnV3bGlVSjk2b2ZSSmJDWDdKOFRyWVE4dVlBQjViSXhpNDV2X1ZjaDNsXzJCQ3I4WnRpcUMwS1owVkJwWkNjRTg4R2NVbUI4V0dEMTZOLWln?oc=5",
+      "article_count": 9,
+      "source_count": 2,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "cnn",
+        "hotel",
+        "razman",
+        "arif",
+        "nasution",
+        "dijebloskan"
+      ],
+      "score": 24,
+      "samples": [
+        "Razman Arif Nasution Dijebloskan Ke Lapas Cipinang - CNN Indonesia",
+        "BPS Jelaskan Alasan Pertanyaan Sensus Ekonomi 2026 Lebih Rinci - CNN Indonesia",
+        "Netanyahu: Saya Tidak Pernah Minta Izin Trump Serang Iran - CNN Indonesia",
+        "Novita Hardini: Jangan Jadikan Penambahan Layar Bioskop Solusi Instan - CNN Indonesia",
+        "Guns N' Roses Akan Konser di Stadion Madya Jakarta 21 November - CNN Indonesia"
+      ]
+    },
+    {
+      "topic": "telset",
+      "headline": "Microsoft Perpanjang Dukungan Windows 10 hingga 2027 - Telset.id",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkIyNGFtcnV3SHMxMThYT0RIdHhkRTdoR2pNU3N5R0pvSWpCY0VHWnZQbFJHdlBtTkFScmhlUVhOSVQ2YTIxYm5mTkZweTcyX1dGZ0JpRVZmaEcyb3BuaFVoQ3hUNmJJUXZ5Qk5hVjBJbEhKc05zU3QxTHVaOHVFWDhaTGdkek0?oc=5",
+      "article_count": 9,
+      "source_count": 2,
+      "sources": [
+        "Google News (Technology)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "telset",
+        "machine",
+        "data",
+        "nasa",
+        "temukan",
+        "bukti"
+      ],
+      "score": 24,
+      "samples": [
+        "NASA Temukan Bukti Organik Kompleks di Mars, Petunjuk Kehidupan Kuno - Telset.id",
+        "Stim Machine Alternatif Steam Machine dengan GPU RDNA 4 Lebih Kencang - Telset.id",
+        "Apple Ubah Strategi Chip M6, Hanya Versi Dasar Tanpa Pro dan Max - Telset.id",
+        "Level Home Tutup, PHK Massal Karyawan Seusai Diakuisisi Assa Abloy - Telset.id",
+        "Data Center Raksasa di Slough Perparah Gelombang Panas Warga - Telset.id"
+      ]
+    },
+    {
+      "topic": "baru",
+      "headline": "Tarif Batas Atas Baru Tiket Pesawat Ditunda! - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDJhN3hzRDJTZjN0U1VJYS1xMHdFNXFXeHljWHQyMDJZNElkZTdoc3ZtdWJqN0hmU0I5c1ZGbGFySnVNR2gxZWI5ZWxKUEZ3Tk5pQkI1dkkyVDNpeS1vTVZYTnpFclZVMzcwUXVxTWdEZTc1ZS1yVlJKMGgwanJJVy1vbUx6VVRjaVRrajlUajhyVGdwR2stY3NWeUlleFBqR2Jn0gGoAUFVX3lxTFB6bE85dUk4OFZON29rbjFlV18wSjBQSG13eHZTZ2Q4OGgzZDQ4QjdrSXB1ZUs1NkNEendwbFJmSllBSWdMV2pWWGpaeG9aeHFBQmlqTUNXNVdxRG1YVjZBdGc0UTBMVFRNaW9nR1ZrV25hcUJ4QVZRR21SQ0lZN1JnWXJjZVJ4NDJQMllYd0Q3eXBWTEJQRzlCVDB6cnVNX3V2YU5fRktMeA?oc=5",
+      "article_count": 7,
+      "source_count": 3,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Technology)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "baru",
+        "suzuki",
+        "desain",
+        "harianbanyuasin",
+        "disway",
+        "harian"
+      ],
+      "score": 23,
+      "samples": [
+        "Mengungkap Fakta Penemuan Spesies Baru Hiu Hantu Laut Kosta Rika - Harapan Rakyat",
+        "Dragon's Dogma 2: Dark Arisen Hadirkan Wilayah Baru dan 12 Dungeon Menantang - Esports ID",
+        "Bocoran Update Minecraft 26.3: Bioma Baru dan Item Wol yang Dinanti - Industry.co.id",
+        "Suzuki Carry Minivan 2026 Siap Jadi Primadona Baru, Tawarkan Desain Modern dan Konsumsi BBM Irit - harianbanyuasin.disway.id - Harian Banyuasin",
+        "Suzuki Karimun 2026 Bikin Terkejut! Desain Baru, Kabin Lebih Luas, Teknologi Makin Canggih - harianbanyuasin.disway.id - Harian Banyuasin"
+      ]
+    },
+    {
+      "topic": "tahun",
+      "headline": "Bahlil Sempat Curiga Batu Bara PLN Habis Tengah Tahun: Ada Sesuatu - CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTVSYmlKVlI0c2dKcnZCX09MSHZ6SEdQRVNYMWRrTzhfZm5sdUNPa0tISjRpbVVWVEwyajlYV3VIV1gwZU9vX0xzbU9QSmN1MDBUZmtYc3Q0TGpCd3gzRUxBbndnTXFXRi1Zd2FLV005WlFYSXJJQU9YOUlzMDV4Yk54LVBxVDJKamt3WFNPbno1TVk0cW92dlI5NEFRTmJ4eE1YZVltdXlINDRyT0o5N1JhUnVSUjYxOFd4QkNPZXh2bG54WFBZ0gHMAUFVX3lxTE83TU8yYlBIZ3NDSlRuMnRZWkVhSm50N1l1ZGx0NkdSNDR2Q2Ntb21ORFlWNjFxVUY5blZLWURZWU9KMzR3YXBNUTFzSWI0TnI2Y2FuTi1LMTN3VFlSM0VlaHJTVXhYU3ItLUViR1lHU1BjTXQxSUdfOU96b2h5eXEyVUx2SWp0QUNYNWFIaDQ5TXcwdHlpY2xNblRSMXdEQWkyWkxqTE13cFk3blVWbXRJS19WZ2MyZzJRLThVZmx2MlZSeXNpSFdFME1VMQ?oc=5",
+      "article_count": 5,
+      "source_count": 2,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "tahun",
+        "lagi",
+        "diskon",
+        "malang",
+        "disway",
+        "steam"
+      ],
+      "score": 16,
+      "samples": [
+        "Steam Summer Sale Balik Lagi di Tahun 2026 dengan Diskon-diskon Besar! - The Lazy Media",
+        "Amanda Manopo Konsultasi ke Polisi, 2 Tahun Hadapi Sederet Dugaan Masalah Hukum - detikHOT",
+        "Bahlil Sempat Curiga Batu Bara PLN Habis Tengah Tahun: Ada Sesuatu - CNN Indonesia",
+        "Barito Pacific (BRPT) Bagi Dividen Lagi Setelah Vakum 1 Tahun, Segini Besarannya - kontan.co.id",
+        "Yadea Osta P Tawarkan Garansi 5 Tahun dan Jarak Tempuh 150 Km, Ini Fitur Unggulannya - malang.disway.id - Disway Malang"
+      ]
+    },
+    {
+      "topic": "ungkap",
+      "headline": "Tim Sweeney Kritik Kewajiban Ungkap Penggunaan AI di Steam - Esports ID",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSFlKYmNEc2hVN2NLVFpOMGNZdEcyV0NlOFZIQzA2MDBHV1ZHaXlBbkxULXJHR1E0YWV2X3hVOG9PVGhGb3pqaElOdVhhY185dzRSUnZKaUVHUTJLTjhmSnUwX1ZwTzlNOE90OWU4QkZsUjMyMnNiWEJ2R2xXLXpVbUg1aWpvclM1TW83VnJUNWpIMVpLNlZz0gGWAUFVX3lxTE5qeG15UGdFdVhGRTN5OHM4YVpONUw5MkhMSDcydnNKaFVzbldyRE5pUEVBdHVWbVNQdTN1NDdtcU5OMDVrMl8wMUFiWFJVTTZyMk1HdkpDSlRkWDJSU2dGU3ptWU1aTWdMRlE2Rkpqd1FoVndtYW42ZlpPVXVJM29BZVB4ckVQS2w0Rk16b3BKYUF2RFhnZw?oc=5",
+      "article_count": 3,
+      "source_count": 3,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Technology)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "ungkap",
+        "detiknews",
+        "rshs",
+        "sejumlah",
+        "belatung",
+        "ditemukan"
+      ],
+      "score": 15,
+      "samples": [
+        "RSHS Ungkap Sejumlah Belatung Ditemukan di Kepala Wanita Korban Taufik Hidayat - detikNews",
+        "Tim Sweeney Kritik Kewajiban Ungkap Penggunaan AI di Steam - Esports ID",
+        "Andi Gani Ungkap Potensi PHK di Depan Mata, Yakinkan Buruh Pemerintah Gerak Cepat - detikNews"
+      ]
+    },
+    {
+      "topic": "terbaik",
+      "headline": "7 HP 1 Jutaan Terbaik 2026: RAM 8GB, Kamera 50MP, Baterai 5000mAh - JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjVlJyUi1ZeF84TVpQN0NiUnl1czFISDZzUzUzWGxaSEFrZ0VDRG1LUlExX2c3VzFhZjNEZXUxZTVCdl82RVdBOVlVcWlaMnJPOFlxZDNWc0tabUlzNjlyNzBBaE43OUxLdWJBVUV6S3hrM2c?oc=5",
+      "article_count": 4,
+      "source_count": 2,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "terbaik",
+        "jutaan",
+        "ram",
+        "8gb",
+        "kamera",
+        "50mp"
+      ],
+      "score": 14,
+      "samples": [
+        "7 HP 1 Jutaan Terbaik 2026: RAM 8GB, Kamera 50MP, Baterai 5000mAh - JournalArta",
+        "5 HP Rp800 Ribuan Terbaik untuk Pelajar 2026, Lancar Belajar Online, Chat, dan Tugas Sekolah - VIVA.co.id",
+        "Panduan Memilih Smartphone Terbaik, Ikuti Tips Ampuhnya Berikut Ini! - techdaily.id",
+        "12 Mobil Bekas Terbaik 2026, Layak Dibeli dan Tahan Banting, Irit BBM Plus Suku Cadang Melimpah - radarcirebon.disway.id - Radar Cirebon"
+      ]
+    },
+    {
+      "topic": "detikfinance",
+      "headline": "RKAB Nikel 2026 Belum Diputuskan, Dirjen ESDM Buka Suara - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOLTBncHRkNEpmSkJiZ0hRTXJlMGJJLVJxYjVzMEVDZ3ZFZEl5NzVxODBBOTk1WElpbmtxVWtzYkxaOTg4ZWlHRy13YjhNSWVNdy1OWlh1cHp3bVU5aU0zVGF4VG80YzlVaUNJYWY2UEI2RlVGT0JLSldXbkF0VE9DY05OSndqVFRUT3lCMmQzUVJ0c2dkUUF5cHdwcnA2TVnSAaQBQVVfeXFMTjlFU2pGWjJOMzFLMDYwemIydW5ITlN1c2E4aFdZd3N1WUdGRjVnQW1GVjUtbXhLZzJKM1JTNkhMSEFfS2xTQ3dTTFlqckx6bUkxZzVxU0xsY21yREdQU0o0d0hrdUVyc016VW1rc3ptSWJqRlV5amI0SmF4OUpVX0ZqOGZqQXd4QzFmT2lJVzdNa0JmMFVsTEpKNWY0LTdyalJsQjE?oc=5",
+      "article_count": 5,
+      "source_count": 1,
+      "sources": [
+        "Google News (Business)"
+      ],
+      "keywords": [
+        "detikfinance",
+        "naik",
+        "jaga",
+        "lagi",
+        "makan",
+        "tabungan"
+      ],
+      "score": 13,
+      "samples": [
+        "Tak Lagi Makan Tabungan, Rekening Masyarakat di Bawah Rp 100 Juta Naik - detikFinance",
+        "RKAB Nikel 2026 Belum Diputuskan, Dirjen ESDM Buka Suara - detikFinance",
+        "Istana Sebut 2 Raksasa Otomotif Jepang Tunda Rencana Cabut dari RI - detikFinance",
+        "Harita Nickel Jadi Perusahaan RI Pertama yang Jalani Audit RMAP+ - detikFinance",
+        "Jaga-jaga Pertalite Diserbu Usai Pertamax Naik, Pasokan ke SPBU Digenjot - detikFinance"
+      ]
+    },
+    {
+      "topic": "dunia",
+      "headline": "Lenovo Kenalkan Laptop Edisi Piala Dunia 2026, Berapa Harganya? - Monitorday",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc2dmZlFBY2tPSjk2eHZLajdoR0xsZmxCbWYwcUVZaHlnNGxaMDRMdGtMVjRzQU4tWEVkVEU4ZC1GOEhVREV2dFVXaERqcld1Yks3QUg1NnJBTlpNUnhWUnRERzFhazJXTEE1WFQxLS1XcGFaVUNNRjIzWlBHQjRWOW9IRWpmVnQyQzNHTkRn?oc=5",
+      "article_count": 3,
+      "source_count": 2,
+      "sources": [
+        "Google News (Science)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "dunia",
+        "perhutani",
+        "kph",
+        "kedu",
+        "selatan",
+        "serahkan"
+      ],
+      "score": 12,
+      "samples": [
+        "Perhutani KPH Kedu Selatan Serahkan Santunan kepada Keluarga Tenaga Outsourcing yang Meninggal Dunia - Perhutani",
+        "Lenovo Kenalkan Laptop Edisi Piala Dunia 2026, Berapa Harganya? - Monitorday",
+        "Misi Pertama di Dunia Coba Selamatkan Teleskop Antariksa NASA yang Hampir Jatuh ke Bumi - Media Indonesia"
+      ]
+    },
+    {
+      "topic": "cara",
+      "headline": "Urutan Rank PUBG: Daftar Reward Eksklusif & Cara Cepat Push Rank - OLX Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbTNqT0x6T3FNanoxN1ZJa01VYzl4eV9fd19MZE4yTUR1Z1pwYTI1Z20wNVhLb0Q2OUQ2YUxhbUMwaVptSkJUQ2VQWXI0ZkxxQ2d6dTVFN2ZYV2FhRjV0TXpOLV8yUXYyQWw1UTNqaXhmMVBxcXhZd05yMUJ0Y3B0SUt1RVlUZVZ4ODRsLUwxU2tLWVFNS2x3bXRVTF9XSDYwV25KbHFOOWxTTmFJNVJncTlScEY?oc=5",
+      "article_count": 3,
+      "source_count": 2,
+      "sources": [
+        "Google News (Science)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "cara",
+        "rank",
+        "paling",
+        "mudah",
+        "menguasai",
+        "survival"
+      ],
+      "score": 12,
+      "samples": [
+        "Cara Paling Mudah Menguasai Survival Minecraft dari Awal hingga End Game - VIVA.co.id",
+        "Urutan Rank PUBG: Daftar Reward Eksklusif & Cara Cepat Push Rank - OLX Indonesia",
+        "Misteri Terpecahkan Begini Cara Sel Otak Miliaran Jumlahnya Mengatur Diri Tanpa Tersesat - Media Indonesia"
+      ]
+    },
+    {
+      "topic": "saham",
+      "headline": "Saham Astra (ASII) Kemurahan, Mestinya Segini - investor.id",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWXVkUFNjY1BpTjNmajMzSUMwZ1U3R3VfTUV1LWNCeXB2UlFmbjNiTDY3aldLTGZ1ZmxWN3oyRDU2U09KbHVoYXNPZ19rakdwNW95SjBIdTNGWVczWjFucTZBX2RnLVdsbEZVeG5FdzVMLWVSejFpZE83SlFna0NFcHp3?oc=5",
+      "article_count": 3,
+      "source_count": 2,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "saham",
+        "investor",
+        "ihsg",
+        "anjlok",
+        "terseret",
+        "arb"
+      ],
+      "score": 12,
+      "samples": [
+        "IHSG Anjlok 2% Lebih, Saham-Saham Ini Terseret hingga ARB - investor.id",
+        "Saham Astra (ASII) Kemurahan, Mestinya Segini - investor.id",
+        "Merdeka Gold Resources Debut di Bursa Hong Kong, Saham Sempat Turun 9 Persen - IDX Channel"
+      ]
+    },
+    {
+      "topic": "media",
+      "headline": "Rumor Nokia Lumia Max 2026, Berikut Perkiraan Spesifikasi dan Harganya - Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk9PWklVZ3NDeHNoS1M0TmV6Mjc3Szg5THVGVW5Wa1U2WG4wUTlEVDA3X1hxeGVvTTN2dHNMcU1HdHRqdzlRV3E0M2VhNDZqM1ZUcDZ1QlhMMnlCdTU3YzZzbkRGNFpXdHFxWm5sQlNHU2NnVktpclluNXRSZTBoZjJ3UWpSbXpzRlhRSUkwVmNWSUtxS1l3cWhhVVNQY2x4UzV3N2xWVzZPNUFxQlc4SXBnUQ?oc=5",
+      "article_count": 3,
+      "source_count": 2,
+      "sources": [
+        "Google News (Science)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "media",
+        "kolaborasi",
+        "spesial",
+        "silent",
+        "hill",
+        "fatal"
+      ],
+      "score": 12,
+      "samples": [
+        "Kolaborasi Spesial Silent Hill f x Fatal Frame II: Crimson Butterfly REMAKE Hadir Gratis! - The Lazy Media",
+        "Rumor Nokia Lumia Max 2026, Berikut Perkiraan Spesifikasi dan Harganya - Media Indonesia",
+        "Menakjubkan Teleskop Euclid Berhasil Tangkap Foto Jarak Dekat Terbesar Jantung Galaksi Bima Sakti - Media Indonesia"
+      ]
+    },
+    {
+      "topic": "detiknews",
+      "headline": "50 Ribu Orang Masih Hilang Usai Gempa Kembar Guncang Venezuela - detikNews",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcmVpOWhCMEczc0hpbE5fZUNyLTVsY3Nxd0VBaWNVVHZ1dWVKaVRpOHIyR3ZKZVMxcUxnNGpvSmNwQjBpWk96SkRxRUdkc3R6blVDN0dVU2xuZ3I1Z2pUS1FrUG5NY3RIZVFoUGRMbzQ2Q1pDeUZ3MjVIWFpiR2JEREwtZlNGLU0yN3hkdHpkM3FVUHFpYmFfN0FKakxma3VRLUhWRFJETUhXSXNCYVHSAbMBQVVfeXFMTmo3bTNfbWRaa01jVWlmNWJIRkdFeGJrUFBMSG9sQUZ2bnRtSS1RY2FvbGg5UUlUbnpETEZldUFDRy1MV282OWN5aWdWUWc0eGZaM25YcVBaTFhoN0FyQ3dLVTY1RFp5X1Q1NEFVUDBLelpUZjRQanRzQWlqbUpSTFZBSDIxZ0p2SzFWZTFwcGpMYk41Q3B1NFpQOW1lMUtYdjQ5TFkwcUJZVzN2b1FBWDc3anc?oc=5",
+      "article_count": 4,
+      "source_count": 1,
+      "sources": [
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "detiknews",
+        "istana",
+        "jelaskan",
+        "maksud",
+        "prabowo",
+        "bilang"
+      ],
+      "score": 11,
+      "samples": [
+        "Istana Jelaskan Maksud Prabowo Bilang 4 Kali Kalah tapi Tak Ganggu Pemimpin - detikNews",
+        "50 Ribu Orang Masih Hilang Usai Gempa Kembar Guncang Venezuela - detikNews",
+        "Daftar 4 Peserta SPPI KDMP-KNMP Meninggal Saat Latihan Militer - detikNews",
+        "Imbas Panas Ekstrem, Prancis Matikan Reaktor Nuklir-Larang Konsumsi Miras - detikNews"
+      ]
+    },
+    {
+      "topic": "rilis",
+      "headline": "Bisa Jadi 'Pembunuh' Aerox, Kapan Honda Ryden Rilis di Indonesia? - detikoto",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWFrS0l5aU9vSkNFNUE0QTBNVjZoXzVRUFl0Z2hpWmNBT1dlQTdvUEo3OVhpTDZadkdhMWl4NUpnekd1Mi1BNTRrSUo1b2FKRFVxTlh3NzZmQ1RMZFFnZWdIemVRMVp1RklqUVJtN1kzYU9tVURhLUJ6YkNGVXZZWjdlU0R0WEd4XzBtTU1ObGlZQWlZX3M5emd0QXM4aWo10gGmAUFVX3lxTE4zLUJoaTNmVnpfa0JCX1UxeFZPX2d5aWl4TF9nTmFfOE40MWhBQ0Nmb292R3dJeTZ4WEZmZTdOUVgtMTFVV3JSdGcyb2NsSkpoSnIyVTIxNENWNnJVVWc3YlMwM29KbkNPYVF5bEpncnR1WnYtOUwyVV80Ui1lUGs1QVVETUttLS11ekY1U2g3VnRhaGVlVzRBV0Z1cG0tUk5DVUtBX1E?oc=5",
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "rilis",
+        "ditunggu",
+        "oppo",
+        "reno16",
+        "pro",
+        "akhirnya"
+      ],
+      "score": 10,
+      "samples": [
+        "Yang Ditunggu: Oppo Reno16 dan 16 Pro Akhirnya Rilis Secara Global - CaraPandang",
+        "Bisa Jadi 'Pembunuh' Aerox, Kapan Honda Ryden Rilis di Indonesia? - detikoto"
+      ]
+    },
+    {
+      "topic": "teknologi",
+      "headline": "6 Inovasi Teknologi Elektronik Canggih yang Memudahkan Kehidupan Rumah Tangga Anda - kalselpos",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlJ5d0kzTnJiWThrS1VkU0RSb3pHM1YwWjZINnktTUhaZGlGVGFqc29vX2xnRGxzMnA0RzNuSDJQQk02bkVSczZibWdRMldjcWtNTGd0S0c5U2ZRT2c4cWtZQTQyTEJPWVRFWWpTclZTbXdjY1hIQ3VnN1R0NjFSdkc2TE1JdjV3aC1hM1JXcFRoNXBuejhvTTJjeFdnSzdVdkpLY2hTMTdoRzMwUS1sanJ2S3BLcnc?oc=5",
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "Google News (Technology)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "brin",
+        "teknologi",
+        "inovasi",
+        "duta",
+        "agro",
+        "lestari"
+      ],
+      "score": 10,
+      "samples": [
+        "BRIN dan Duta Agro Lestari Kembangkan Teknologi Pemanfaatan Limbah Karet dan Sawit - BRIN - Badan Riset dan Inovasi Nasional",
+        "6 Inovasi Teknologi Elektronik Canggih yang Memudahkan Kehidupan Rumah Tangga Anda - kalselpos"
+      ]
+    },
+    {
+      "topic": "mulai",
+      "headline": "Bank Mulai Jual Dolar AS Rp 18.000 Lagi - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWVWTXBTSTZQdGxXRkFxbS1Ia2dGTGVCbzNpZHd4VDJVaTNfR1p4QUJQZUZpdXBhV1RDQ0FvbEVBRi1DaTFaaHVHbExKZnh2a25FdkRfaEh5WWNrbEtUR2tkWmdiLUVDakIxdDBjckpHdUVpZFFmcGd3c1p3MW9xOWJ4QjFWY0QySnZTa0pmaGQ3Yzk5cFHSAZsBQVVfeXFMTTVDWDNObHlVT1U5d05uNHJwX2FxTjAzeVB0bmplS0ppRHRCeVRSRWtQaGdhVjRSM1RINFlEM0g5S1A2b3dobE8zQ0h1UzVtRF9XV2FhVUR3SjVWZGZiZVdSMDZ6MWZ5T3NsS1EwbzEtTzVMbWl3NkVlU05ER2dhMnNtaXVZTnlFOVlKOWlPMUNoclh3QTZqVEI0V2c?oc=5",
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (Business)"
+      ],
+      "keywords": [
+        "mulai",
+        "dealer",
+        "detikoto",
+        "bank",
+        "jual",
+        "dolar"
+      ],
+      "score": 9,
+      "samples": [
+        "Bank Mulai Jual Dolar AS Rp 18.000 Lagi - detikFinance",
+        "MPV Pintu Geser BYD Mulai Dikirim ke Dealer-dealer - detikoto",
+        "Sudah Bisa Dipesan, SUV Eropa Ini Harganya Mulai Rp 110 Jutaan - detikoto"
+      ]
+    },
+    {
+      "topic": "juli",
+      "headline": "CNG Pengganti LPG 3 Kg Diproduksi Juli - detikFinance",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM21CS1oyYmEyZzJvbm42a0phZDNtTnhQSFBRSk1vMS1UdmJqYmNEdHdhc2FLdnJsT0VlRVVrXzRxYVRHRkpaTmhkeHJoZ19yMS1YMFFmY2lBTU0wYjMtSldQUmFvSUl1THdNT2hZMURNWWhQYXZyMERFZk53dnN0b2FfRE92T0tl0gGOAUFVX3lxTE9YTjQ5WGszd25SQWlZN1J2YUFxMXR3RHd1eGMwMzM1SElRMlNoMk5VRGt2MFVuU0l5c1pxaDluRTd4NC0xanN2Y19nNVVXX3MtS0FSSHJoNDZITkF2QmhHYVcySkhEVnZoTVZDcENPd3ZUVml0b0FpRmo5bndyRDRfS3o3cjhuUlVSbXB5dVE?oc=5",
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (Business)"
+      ],
+      "keywords": [
+        "juli",
+        "detikfinance",
+        "prabowo",
+        "bakal",
+        "luncurkan",
+        "program"
+      ],
+      "score": 9,
+      "samples": [
+        "Prabowo Bakal Luncurkan Program B50 1 Juli - detikFinance",
+        "CNG Pengganti LPG 3 Kg Diproduksi Juli - detikFinance",
+        "Indofood CBP (ICBP) Tetapkan Dividen Rp265 per Saham, Dibayar Akhir Juli 2026 - IDX Channel"
+      ]
+    },
+    {
+      "topic": "samsung",
+      "headline": "Samsung Terapkan Biaya Berlangganan SmartThings API Mulai Oktober - Telset.id",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb01ZX1FYQjUtSVV4dGZuV20tM1V4NDY2RmxESDFyWnJhWjVORk1XQzlYQVVQSUJzaUZkN0RIV2YtMURRNHJqUWdjWWRndzFxcVNXZG1tbXIxVGFhV2stSEZPNlJWSUpkSWxJTHRtd0FjbzlBYnJNbVB6YXhqLVBPVWpPOWtRM0JNQTkzaWVJM0RpZzQ?oc=5",
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "samsung",
+        "telset",
+        "terapkan",
+        "biaya",
+        "berlangganan",
+        "smartthings"
+      ],
+      "score": 7,
+      "samples": [
+        "Samsung Terapkan Biaya Berlangganan SmartThings API Mulai Oktober - Telset.id",
+        "Samsung Galaxy Unpacked Juli 2026: Bocoran Lengkap Z Fold 8 hingga Kacamata XR - Telset.id"
+      ]
+    },
+    {
+      "topic": "fitur",
+      "headline": "YouTube kini hadirkan fitur 2x speed di Shorts - ANTARA News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNem5UZm00bDZRTENKdm41ZlVIcFRIR201d2FqVHZVenhuRnVQTlRWclM2TzJWOGlQQ2lINmZRVTJ0RnZxcnUxSmE2bG1qWjJfUHhlR1ZWMmo4MXMtbjFONG5BOGV1UjdKUUNFOEV0RXJVdGJEMW1lTThtRF8xa0RuVnJac3Nzc1MwNTEtbTlPOElPZ9IBlAFBVV95cUxNNnVKeTNEY1hhcXBwdGxBa0xzdnJ1bk9IaldsaHAxTmZMaFFUWjFsOVZac1NRS25MaV92b1NfNWV5Q1NvTXk5MDREYS03WEhXWFExdmFGVTZVa1lYS0tfS3NqbWNKZDI0d0FMYzU2X0dReUtBNjJTWTFwT3hta1NIRTZ4ak4tQnlLOEVhdEFuQXN2Qmxt?oc=5",
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "fitur",
+        "aktifkan",
+        "tersembunyi",
+        "mengurangi",
+        "lag",
+        "meningkatkan"
+      ],
+      "score": 7,
+      "samples": [
+        "Aktifkan Fitur Tersembunyi Ini Bisa Mengurangi Lag dan Meningkatkan Performa Gameplay Mobile Legends - VIVA.co.id",
+        "YouTube kini hadirkan fitur 2x speed di Shorts - ANTARA News"
+      ]
+    }
+  ]
+}
