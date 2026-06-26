@@ -1,0 +1,240 @@
+{
+  "generated_at": "2026-06-26T07:33:04.904306+00:00",
+  "total_articles": 20,
+  "trending_keywords": [
+    {
+      "term": "gempa",
+      "count": 5
+    },
+    {
+      "term": "jakarta",
+      "count": 5
+    },
+    {
+      "term": "cianjur",
+      "count": 4
+    },
+    {
+      "term": "timnas",
+      "count": 4
+    },
+    {
+      "term": "vietnam",
+      "count": 4
+    },
+    {
+      "term": "gempa cianjur",
+      "count": 3
+    },
+    {
+      "term": "rupiah",
+      "count": 3
+    },
+    {
+      "term": "banjir",
+      "count": 3
+    },
+    {
+      "term": "warga",
+      "count": 2
+    },
+    {
+      "term": "rumah",
+      "count": 2
+    },
+    {
+      "term": "bmkg",
+      "count": 2
+    },
+    {
+      "term": "akibat",
+      "count": 2
+    },
+    {
+      "term": "tertekan",
+      "count": 2
+    },
+    {
+      "term": "rupiah tertekan",
+      "count": 2
+    },
+    {
+      "term": "lawan",
+      "count": 2
+    },
+    {
+      "term": "lawan vietnam",
+      "count": 2
+    },
+    {
+      "term": "harga",
+      "count": 2
+    },
+    {
+      "term": "bbm",
+      "count": 2
+    },
+    {
+      "term": "pertamina",
+      "count": 2
+    },
+    {
+      "term": "daftar",
+      "count": 2
+    },
+    {
+      "term": "harga bbm",
+      "count": 2
+    },
+    {
+      "term": "bbm pertamina",
+      "count": 2
+    },
+    {
+      "term": "sejumlah",
+      "count": 2
+    },
+    {
+      "term": "hujan",
+      "count": 2
+    }
+  ],
+  "trending_stories": [
+    {
+      "topic": "jakarta",
+      "headline": "Banjir Jakarta Hari Ini: Sejumlah Ruas Jalan Lumpuh Total",
+      "link": "https://example.com/15",
+      "article_count": 5,
+      "source_count": 5,
+      "sources": [
+        "Antara",
+        "CNN Indonesia",
+        "Detik",
+        "Liputan6",
+        "Tribun"
+      ],
+      "keywords": [
+        "jakarta",
+        "banjir",
+        "sejumlah",
+        "hujan",
+        "rendam",
+        "wilayah"
+      ],
+      "score": 25,
+      "samples": [
+        "Banjir Rendam Sejumlah Wilayah Jakarta, Ketinggian Air Capai 1 Meter",
+        "Banjir Jakarta Hari Ini: Sejumlah Ruas Jalan Lumpuh Total",
+        "BPBD Jakarta: Banjir Akibat Hujan Deras dan Luapan Sungai",
+        "Konser Coldplay Jakarta Diserbu Penggemar, Tiket Ludes Terjual",
+        "Cuaca Jakarta Hari Ini Diprediksi Hujan Disertai Angin Kencang"
+      ]
+    },
+    {
+      "topic": "gempa",
+      "headline": "Gempa Cianjur Hari Ini: BMKG Sebut Tidak Berpotensi Tsunami",
+      "link": "https://example.com/2",
+      "article_count": 4,
+      "source_count": 4,
+      "sources": [
+        "Antara",
+        "CNN Indonesia",
+        "Detik",
+        "Kompas"
+      ],
+      "keywords": [
+        "gempa",
+        "cianjur",
+        "warga",
+        "rumah",
+        "bmkg",
+        "magnitudo"
+      ],
+      "score": 20,
+      "samples": [
+        "Gempa Magnitudo 5,8 Guncang Cianjur, Warga Berhamburan Keluar Rumah",
+        "Gempa Cianjur Hari Ini: BMKG Sebut Tidak Berpotensi Tsunami",
+        "BMKG: Gempa Cianjur Akibat Sesar Aktif, Waspada Gempa Susulan",
+        "Update Gempa Cianjur, Puluhan Rumah Rusak dan Warga Mengungsi"
+      ]
+    },
+    {
+      "topic": "timnas",
+      "headline": "Timnas Indonesia Puncaki Grup Usai Kalahkan Vietnam",
+      "link": "https://example.com/10",
+      "article_count": 4,
+      "source_count": 4,
+      "sources": [
+        "Antara",
+        "CNN Indonesia",
+        "Google News (Sports)",
+        "Tribun"
+      ],
+      "keywords": [
+        "timnas",
+        "vietnam",
+        "lawan",
+        "menang",
+        "kualifikasi",
+        "piala"
+      ],
+      "score": 20,
+      "samples": [
+        "Timnas Indonesia Menang 2-1 Lawan Vietnam di Kualifikasi Piala Dunia",
+        "Hasil Timnas Indonesia vs Vietnam: Garuda Comeback Dramatis",
+        "Timnas Indonesia Puncaki Grup Usai Kalahkan Vietnam",
+        "Pelatih Timnas Indonesia Puji Mental Pemain Lawan Vietnam"
+      ]
+    },
+    {
+      "topic": "rupiah",
+      "headline": "Rupiah Melemah ke Rp16.300 per Dolar AS Pagi Ini",
+      "link": "https://example.com/5",
+      "article_count": 3,
+      "source_count": 3,
+      "sources": [
+        "Detik",
+        "Kompas",
+        "Tempo"
+      ],
+      "keywords": [
+        "rupiah",
+        "tertekan",
+        "melemah",
+        "rp16",
+        "dolar",
+        "pagi"
+      ],
+      "score": 15,
+      "samples": [
+        "Rupiah Melemah ke Rp16.300 per Dolar AS Pagi Ini",
+        "Kurs Rupiah Hari Ini Tertekan, Investor Pantau Kebijakan The Fed",
+        "Rupiah Tertekan, Bank Indonesia Siapkan Intervensi Pasar"
+      ]
+    },
+    {
+      "topic": "harga",
+      "headline": "Daftar Harga BBM Terbaru Pertamina, Shell, dan BP di SPBU",
+      "link": "https://example.com/13",
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "Detik",
+        "Kompas"
+      ],
+      "keywords": [
+        "harga",
+        "bbm",
+        "pertamina",
+        "daftar",
+        "naik",
+        "mulai"
+      ],
+      "score": 10,
+      "samples": [
+        "Harga BBM Pertamina Naik Mulai Hari Ini, Ini Daftar Lengkapnya",
+        "Daftar Harga BBM Terbaru Pertamina, Shell, dan BP di SPBU"
+      ]
+    }
+  ]
+}

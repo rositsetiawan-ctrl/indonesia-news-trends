@@ -1,0 +1,66 @@
+# ==========================================================================
+# Indonesia News Trends — configuration
+# Edit this file to control sources, how many trends, and output options.
+# ==========================================================================
+
+# How far back to consider an article "recent" (Google News supports when:Xd)
+lookback_days: 1
+
+# Max number of trending stories to turn into social posts
+top_stories: 8
+
+# Min number of distinct sources/articles a topic must appear in to count as a trend
+min_cluster_size: 2
+
+# Language for captions: "id" (Indonesian) or "en" (English)
+caption_lang: id
+
+# ---- Google News Indonesia (reliable backbone, no API key needed) ----
+google_news:
+  enabled: true
+  hl: id
+  gl: ID
+  ceid: "ID:id"
+  # Topic sections to pull from Google News Indonesia
+  topics:
+    - NATION
+    - BUSINESS
+    - TECHNOLOGY
+    - ENTERTAINMENT
+    - SPORTS
+    - SCIENCE
+    - HEALTH
+
+# ---- Major Indonesian portals ----
+# Pulled THROUGH Google News `site:` search so they keep working even when a
+# portal's own RSS goes down. Set `direct_rss` if you prefer the native feed.
+portals:
+  - name: Detik
+    site: detik.com
+    direct_rss: "https://rss.detik.com/index.php/detikcom"
+  - name: Kompas
+    site: kompas.com
+    direct_rss: ""
+  - name: CNN Indonesia
+    site: cnnindonesia.com
+    direct_rss: "https://www.cnnindonesia.com/nasional/rss"
+  - name: Antara
+    site: antaranews.com
+    direct_rss: "https://www.antaranews.com/rss/terkini.xml"
+  - name: Tempo
+    site: tempo.co
+    direct_rss: "https://rss.tempo.co/nasional"
+  - name: Tribun
+    site: tribunnews.com
+    direct_rss: "https://www.tribunnews.com/rss"
+  - name: Liputan6
+    site: liputan6.com
+    direct_rss: ""
+
+# Prefer the portal's native RSS feed when one is configured above.
+# If false (default), everything routes through Google News for consistency.
+prefer_direct_rss: false
+
+# Output locations (relative to repo root)
+output_dir: output
+data_dir: data
