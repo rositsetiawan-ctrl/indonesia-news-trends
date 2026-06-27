@@ -13,7 +13,7 @@ import os
 from datetime import datetime, timezone
 
 from analyze_trends import analyze
-from fetch_news import fetch_all
+from fetch_news import apply_keyword_filter, fetch_all
 from generate_posts import make_posts
 from utils import load_config, repo_path
 
@@ -24,13 +24,13 @@ def _load_articles(cfg):
     if fixture:
         with open(fixture, "r", encoding="utf-8") as fh:
             print(f"Using fixture: {fixture}")
-            return json.load(fh)
+            return apply_keyword_filter(json.load(fh), cfg)
     return fetch_all(cfg)
 
 
 def _render_markdown(posts, analysis, date_str) -> str:
     lines = [
-        f"# 🇮🇩 Trending News Indonesia — {date_str}",
+        f"# 🇮🇩 Tech & AI Indonesia — Trending {date_str}",
         "",
         f"_Analyzed **{analysis['total_articles']}** articles · "
         f"**{len(analysis['trending_stories'])}** trending stories detected._",
@@ -54,6 +54,11 @@ def _render_markdown(posts, analysis, date_str) -> str:
             f"**Coverage:** {p['article_count']} articles  ·  "
             f"**Sources:** {', '.join(p['sources'])}",
             f"- **Source link:** {p['link']}",
+            "",
+            f"**🖼️ On-image header:** `{p.get('image_hook', '')}`  ·  "
+            f"**Sub:** {p.get('image_subtitle', '')}"
+            + (f"  ·  **Featured:** {', '.join(p['image_entities'])}"
+               if p.get('image_entities') else ""),
             "",
             "**🎨 Nano Banana image prompt**",
             "",

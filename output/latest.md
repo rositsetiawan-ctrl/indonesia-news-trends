@@ -1,243 +1,166 @@
-# 🇮🇩 Trending News Indonesia — 2026-06-26
+# 🇮🇩 Tech & AI Indonesia — Trending 2026-06-26
 
-_Analyzed **364** articles · **23** trending stories detected._
+_Analyzed **15** articles · **5** trending stories detected._
 
 ## 🔝 Top trending keywords
 
-`com` (103), `kompas` (73), `kompas com` (72), `cnbc` (61), `detikinet` (60), `harga` (42), `uzone` (37), `baru` (27), `dunia` (22), `cara` (21), `china` (21), `kumparan` (20), `kumparan com` (20), `bikin` (17), `samsung` (16), `rilis` (15), `pakai` (14), `mulai` (14), `juli` (14), `tahun` (13)
+`openai` (3), `startup` (3), `pendanaan` (3), `samsung` (3), `galaxy` (3), `s26` (3), `galaxy s26` (3), `data` (3), `resmi` (2), `buka` (2), `kantor` (2), `jakarta` (2), `buka kantor` (2), `asia` (2), `tenggara` (2), `asia tenggara` (2), `seri` (2), `pendanaan seri` (2), `investor` (2), `samsung galaxy` (2)
 
 ---
 
 ## 📲 Social posts (Nano Banana prompt + caption + hashtags)
 
-### 1. China Makin Serius Ingin Saingi Starlink - Kompas.com
+### 1. OpenAI Buka Kantor Asia Tenggara di Jakarta, Ini Dampaknya
 
-- **Topic anchor:** `com`  ·  **Coverage:** 93 articles  ·  **Sources:** Google News (Business), Google News (Technology), Google News (Top), Kompas Tekno, Kumparan Tech
-- **Source link:** https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnpMbGxmaE5xVkMyU0dMVm1ITHdpYkhZSTVUemNkYkNSUUVtclpORkdabGpnQy1BYWhQMzJUM2pjeFFXWUZNMTlfSWJZTFI1OHp6cU5uYzJ0UHJ0cXd3djYzUkoyaU1qYk1GV2ptY092TWRiWnJrb0xfcE9kNG1GbzhVZEd6c2dEWjJ2M2poeThZMHdB?oc=5
+- **Topic anchor:** `openai`  ·  **Coverage:** 3 articles  ·  **Sources:** DailySocial, Detik Inet, Kompas Tekno
+- **Source link:** https://example.com/3
+
+**🖼️ On-image header:** `OPENAI BUKA KANTOR ASIA TENGGARA DI JAKARTA`  ·  **Sub:** Ekspansi besar ke pasar Indonesia  ·  **Featured:** OpenAI, Jakarta
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial news illustration, 1:1 square, social-media ready. Subject: China Makin Serius Ingin Saingi Starlink - Kompas.com. Scene: glowing neural-network motifs over a modern Indonesian skyline. Style: clean modern infographic-poster, bold focal subject, soft depth of field, professional photojournalism lighting, high contrast, vibrant but credible colors. Composition: leave clear negative space at the top for a headline overlay. Add a subtle Indonesian red-and-white color accent. No real recognizable faces, no text in the image, no watermarks, no logos. Photorealistic with a touch of editorial graphic design. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a grand-opening / expansion scene: a sleek modern corporate tech headquarters in Jakarta's business district at golden hour, ribbon-cutting atmosphere, optimistic and premium. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: OpenAI, Jakarta. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "OPENAI BUKA KANTOR ASIA TENGGARA DI JAKARTA"; a smaller sub-headline below it reading "Ekspansi besar ke pasar Indonesia". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
 
 ```text
-🔥 LAGI RAME DI INDONESIA
+🚨 KABAR TEKNO INDONESIA
 
-China Makin Serius Ingin Saingi Starlink - Kompas.com
+OpenAI Buka Kantor Asia Tenggara di Jakarta, Ini Dampaknya
 
-Topik ini lagi jadi sorotan — dibahas di 93 pemberitaan (Google News (Business), Google News (Technology), Google News (Top)). Menurut kamu gimana? 👇
+Kenapa penting: kabar ini dibahas di 3 media (DailySocial, Detik Inet, Kompas Tekno) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
-Simpan & bagikan biar nggak ketinggalan berita terbaru.
+Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#BeritaIndonesia #TrendingIndonesia #NewsUpdate #Indonesia #Com #Kompas #Kumparan #Harga #Cara
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Openai #Kantor #Jakarta #Garap
 
 ---
 
-### 2. Prabowo Mau Pakai AI di Program MBG, Buat Apa? - CNBC Indonesia
+### 2. Startup AI Lokal Raih Pendanaan Seri B Rp1,5 Triliun
 
-- **Topic anchor:** `cnbc`  ·  **Coverage:** 61 articles  ·  **Sources:** CNBC Indonesia Tech, Google News (Business), Google News (Technology), Google News (Top)
-- **Source link:** https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFlzQkFQRVNmYi1lOWdKUURXWXdwc2VHWHhLVlhxOWNVLUJMRGxiZDcxTjhBS0hHd0JxVDFNcUJEcW9aeDFIdkx6TmhHTEgzWDNSQzQ5UUtVS3V0VXZRZ1FJSlhPcE5IMUJBZ19FWEJyUzJrYVN2d2ZTdGpXNTl0b1o3MURoTkVnMDBVb0w5bEdtWUpTSDRKUWRUVmZ1bjZzV1FrMjJCQ3RBMTRi0gGsAUFVX3lxTE44WXNCQVBFU2ZiLWU5Z0pRRFdZd3BzZUdYeEtWWHE5Y1UtQkxEbGJkNzFOOEFLSEd3QnFUMU1xQkRxb1p4MUh2THpOaEdMSDNYM1JDNDlRS1VLdXRVdlFnUUlKWE9wTkgxQkFnX0VYQnJTMmthU3Z3ZlN0alc1OXRvWjcxRGhORWcwMFVvTDlsR21ZSlNINEpRZFRWZnVuNnNXUWsyMkJDdEExNGI?oc=5
+- **Topic anchor:** `startup`  ·  **Coverage:** 3 articles  ·  **Sources:** CNBC Indonesia Tech, DailySocial, Tech in Asia ID
+- **Source link:** https://example.com/4
+
+**🖼️ On-image header:** `STARTUP AI LOKAL RAIH PENDANAAN SERI B RP1,5 TRILIUN`  ·  **Sub:** Pendanaan baru guncang ekosistem startup
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial news illustration, 1:1 square, social-media ready. Subject: Prabowo Mau Pakai AI di Program MBG, Buat Apa? - CNBC Indonesia. Scene: glowing neural-network motifs over a modern Indonesian skyline. Style: clean modern infographic-poster, bold focal subject, soft depth of field, professional photojournalism lighting, high contrast, vibrant but credible colors. Composition: leave clear negative space at the top for a headline overlay. Add a subtle Indonesian red-and-white color accent. No real recognizable faces, no text in the image, no watermarks, no logos. Photorealistic with a touch of editorial graphic design. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "STARTUP AI LOKAL RAIH PENDANAAN SERI B RP1,5 TRILIUN"; a smaller sub-headline below it reading "Pendanaan baru guncang ekosistem startup". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
 
 ```text
-🔥 LAGI RAME DI INDONESIA
+🚨 KABAR TEKNO INDONESIA
 
-Prabowo Mau Pakai AI di Program MBG, Buat Apa? - CNBC Indonesia
+Startup AI Lokal Raih Pendanaan Seri B Rp1,5 Triliun
 
-Topik ini lagi jadi sorotan — dibahas di 61 pemberitaan (CNBC Indonesia Tech, Google News (Business), Google News (Technology)). Menurut kamu gimana? 👇
+Kenapa penting: kabar ini dibahas di 3 media (CNBC Indonesia Tech, DailySocial, Tech in Asia ID) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
-Simpan & bagikan biar nggak ketinggalan berita terbaru.
+Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#BeritaIndonesia #TrendingIndonesia #NewsUpdate #Indonesia #Cnbc #China #Amerika #Baru #Ungkap #Negara
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Startup #Pendanaan #Seri #Investor #Lokal
 
 ---
 
-### 3. Rahasia Rumah Nyaman Ala Choi Minho - detikInet
+### 3. Samsung Galaxy S26 Meluncur, Andalkan AI On-Device
 
-- **Topic anchor:** `detikinet`  ·  **Coverage:** 60 articles  ·  **Sources:** Detik Inet, Google News (Business), Google News (Technology), Google News (Top)
-- **Source link:** https://news.google.com/rss/articles/CBMigwFBVV95cUxQZkVkODZaRDkxRi1Cb1VxbTBscU5hZ3NKZ056eGFYZEt2N0E2aFZyVzk4aW5NT0tpTHptM05fMldTLVVSQU5tVVlzelBzSVJiNkNCU3JEb2Q0dF9GdVlmMTVmSmgxd0psODE3UURkUTFBck1tU0JkSEphZ19rcF9rN2lfd9IBiAFBVV95cUxQWFZ2VmZlY0Y4RjU3TnZ1aklCT1BNNHFvSUhIX0FmRzVNeUROMWR1dC1QMlJ2czd3UEN4TXA3VHlhX3Rxdk1sRVhCeFlfZXExSWJHNkR4V2psSGI0YTE5b2ZWd1BBalBGZGFkUkh2aXdGMmtnMFlhR2F1RjBXbHVGNEZSTmJwMkgx?oc=5
+- **Topic anchor:** `samsung`  ·  **Coverage:** 3 articles  ·  **Sources:** Detik Inet, Kompas Tekno, Uzone
+- **Source link:** https://example.com/9
+
+**🖼️ On-image header:** `SAMSUNG GALAXY S26 MELUNCUR`  ·  **Sub:** Andalkan AI On-Device  ·  **Featured:** Samsung Galaxy
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial news illustration, 1:1 square, social-media ready. Subject: Rahasia Rumah Nyaman Ala Choi Minho - detikInet. Scene: modern Indonesian newsroom backdrop, Garuda red-and-white accent. Style: clean modern infographic-poster, bold focal subject, soft depth of field, professional photojournalism lighting, high contrast, vibrant but credible colors. Composition: leave clear negative space at the top for a headline overlay. Add a subtle Indonesian red-and-white color accent. No real recognizable faces, no text in the image, no watermarks, no logos. Photorealistic with a touch of editorial graphic design. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a premium flagship smartphone revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Samsung Galaxy. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "SAMSUNG GALAXY S26 MELUNCUR"; a smaller sub-headline below it reading "Andalkan AI On-Device". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
 
 ```text
-🔥 LAGI RAME DI INDONESIA
+🚨 KABAR TEKNO INDONESIA
 
-Rahasia Rumah Nyaman Ala Choi Minho - detikInet
+Samsung Galaxy S26 Meluncur, Andalkan AI On-Device
 
-Topik ini lagi jadi sorotan — dibahas di 60 pemberitaan (Detik Inet, Google News (Business), Google News (Technology)). Menurut kamu gimana? 👇
+Kenapa penting: kabar ini dibahas di 3 media (Detik Inet, Kompas Tekno, Uzone) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
-Simpan & bagikan biar nggak ketinggalan berita terbaru.
+Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#BeritaIndonesia #TrendingIndonesia #NewsUpdate #Indonesia #Detikinet #Bikin #Mini #Dunia #Gta #Langsung
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Samsung #Galaxy #Rilis #Fitur #Canggih
 
 ---
 
-### 4. Uzone - Informasi Teknologi Terkini - uzone.id
+### 4. Indonesia Bangun Data Center AI Terbesar di Asia Tenggara
 
-- **Topic anchor:** `uzone`  ·  **Coverage:** 31 articles  ·  **Sources:** Uzone
-- **Source link:** https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4cUN4MTUyTXdwZU5yNlBTMGlCWjZUa0xrcXZJZGs5a3FIdndERkNRM254eEh1WFd6dnV6YVdYanJaZ19yQ0JNYkRmdEM0U0ozWFJXQ0dKV08?oc=5
+- **Topic anchor:** `data`  ·  **Coverage:** 3 articles  ·  **Sources:** DailySocial, Kompas Tekno, Tech in Asia ID
+- **Source link:** https://example.com/12
+
+**🖼️ On-image header:** `INDONESIA BANGUN DATA CENTER AI TERBESAR DI ASIA TENGGARA`  ·  **Sub:** Infrastruktur digital raksasa dibangun  ·  **Featured:** Indonesia
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial news illustration, 1:1 square, social-media ready. Subject: Uzone - Informasi Teknologi Terkini - uzone.id. Scene: futuristic tech interface, circuit motifs, modern Indonesian city. Style: clean modern infographic-poster, bold focal subject, soft depth of field, professional photojournalism lighting, high contrast, vibrant but credible colors. Composition: leave clear negative space at the top for a headline overlay. Add a subtle Indonesian red-and-white color accent. No real recognizable faces, no text in the image, no watermarks, no logos. Photorealistic with a touch of editorial graphic design. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "INDONESIA BANGUN DATA CENTER AI TERBESAR DI ASIA TENGGARA"; a smaller sub-headline below it reading "Infrastruktur digital raksasa dibangun". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
 
 ```text
-🔥 LAGI RAME DI INDONESIA
+🚨 KABAR TEKNO INDONESIA
 
-Uzone - Informasi Teknologi Terkini - uzone.id
+Indonesia Bangun Data Center AI Terbesar di Asia Tenggara
 
-Topik ini lagi jadi sorotan — dibahas di 31 pemberitaan (Uzone). Menurut kamu gimana? 👇
+Kenapa penting: kabar ini dibahas di 3 media (DailySocial, Kompas Tekno, Tech in Asia ID) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
-Simpan & bagikan biar nggak ketinggalan berita terbaru.
+Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#BeritaIndonesia #TrendingIndonesia #NewsUpdate #Indonesia #Uzone #Listrik #Honda #Vario #Evo #Jakarta
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Data #Center #Bangun #Terbesar #Asia #Tenggara
 
 ---
 
-### 5. Harga Bitcoin Anjlok! - detikFinance
+### 5. GoTo Luncurkan Asisten AI Baru untuk Pedagang Tokopedia
 
-- **Topic anchor:** `harga`  ·  **Coverage:** 19 articles  ·  **Sources:** Google News (Business), Google News (Technology), Google News (Top), Uzone
-- **Source link:** https://news.google.com/rss/articles/CBMickFVX3lxTFBWVWpRcGVhZkVmQW9mU3ZZSExEaFZIV3p4ZjExcVpmVXZaa0JpcTV4YTY0dWU5RFNOVmZyWGNON0NOVHlDMTZKRl9oZENoaHMtNG5wVlRCWVo5dDZkWnFMWUppWGVrb3ZwZ0JMVjRiX09kZ9IBd0FVX3lxTFB3bXZ6U1FFek1qT29VQUJ2MF9KU3h5OUxveTBSazZOR3h3MGNXdTNrMnVxUzJXNU1hNmRadnREN1VsVjdFMGJJT3BtU0JYOWREZFRDV3RhZi01Q3ZyMUpqWHU1cGVZeFE1Y080bzFhcVlHaGNRQUpV?oc=5
+- **Topic anchor:** `goto`  ·  **Coverage:** 2 articles  ·  **Sources:** CNBC Indonesia Tech, Kumparan Tech
+- **Source link:** https://example.com/10
+
+**🖼️ On-image header:** `GOTO LUNCURKAN ASISTEN AI BARU UNTUK PEDAGANG TOKOPEDIA`  ·  **Sub:** Produk teknologi terbaru resmi hadir  ·  **Featured:** GoTo, Tokopedia
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial news illustration, 1:1 square, social-media ready. Subject: Harga Bitcoin Anjlok! - detikFinance. Scene: glowing neural-network motifs over a modern Indonesian skyline. Style: clean modern infographic-poster, bold focal subject, soft depth of field, professional photojournalism lighting, high contrast, vibrant but credible colors. Composition: leave clear negative space at the top for a headline overlay. Add a subtle Indonesian red-and-white color accent. No real recognizable faces, no text in the image, no watermarks, no logos. Photorealistic with a touch of editorial graphic design. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a glowing AI app interface on a smartphone, friendly digital-assistant motifs revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: GoTo, Tokopedia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "GOTO LUNCURKAN ASISTEN AI BARU UNTUK PEDAGANG TOKOPEDIA"; a smaller sub-headline below it reading "Produk teknologi terbaru resmi hadir". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
 
 ```text
-🔥 LAGI RAME DI INDONESIA
+🚨 KABAR TEKNO INDONESIA
 
-Harga Bitcoin Anjlok! - detikFinance
+GoTo Luncurkan Asisten AI Baru untuk Pedagang Tokopedia
 
-Topik ini lagi jadi sorotan — dibahas di 19 pemberitaan (Google News (Business), Google News (Technology), Google News (Top)). Menurut kamu gimana? 👇
+Kenapa penting: kabar ini dibahas di 2 media (CNBC Indonesia Tech, Kumparan Tech) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
-Simpan & bagikan biar nggak ketinggalan berita terbaru.
+Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#BeritaIndonesia #TrendingIndonesia #NewsUpdate #Indonesia #Harga #Uzone #Pro #Jutaan #Naik #Iphone
-
----
-
-### 6. Daftar 7 Bank Tutup per Juni 2026 - CNN Indonesia
-
-- **Topic anchor:** `cnn`  ·  **Coverage:** 9 articles  ·  **Sources:** Google News (Business), Google News (Top)
-- **Source link:** https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzMyUFJQdUF0Y0FiTlhhMmJLWU1vS3RNTHIxWnVDdXRRay1wRUU0T2Y1Um9ybHpjamlOaW54THBocVRadWxxdHVmVjVoclg4REM4cFQyM283UEFaVTF4aVAtYWMyUXUtLVlya1ZwcDZ5V3lDV2ZVOVliNnNyR1BxV2Z3QzFvNEVYVTZ3dUg3R1NPcnBfSkNYYjRTOU7SAaIBQVVfeXFMT042OFRMVFBZWWU1eUVLY28yOWJGckZRQTNveEM5U3B2cU85VG55WE1zTEduZ0tUbk5iQUhWc1FnRGpYS0hWWERRSjJ2QmFXZlN1SnV3bGlVSjk2b2ZSSmJDWDdKOFRyWVE4dVlBQjViSXhpNDV2X1ZjaDNsXzJCQ3I4WnRpcUMwS1owVkJwWkNjRTg4R2NVbUI4V0dEMTZOLWln?oc=5
-
-**🎨 Nano Banana image prompt**
-
-```text
-Editorial news illustration, 1:1 square, social-media ready. Subject: Daftar 7 Bank Tutup per Juni 2026 - CNN Indonesia. Scene: modern Indonesian newsroom backdrop, Garuda red-and-white accent. Style: clean modern infographic-poster, bold focal subject, soft depth of field, professional photojournalism lighting, high contrast, vibrant but credible colors. Composition: leave clear negative space at the top for a headline overlay. Add a subtle Indonesian red-and-white color accent. No real recognizable faces, no text in the image, no watermarks, no logos. Photorealistic with a touch of editorial graphic design. --ar 1:1
-```
-
-**✍️ Caption**
-
-```text
-🔥 LAGI RAME DI INDONESIA
-
-Daftar 7 Bank Tutup per Juni 2026 - CNN Indonesia
-
-Topik ini lagi jadi sorotan — dibahas di 9 pemberitaan (Google News (Business), Google News (Top)). Menurut kamu gimana? 👇
-
-Simpan & bagikan biar nggak ketinggalan berita terbaru.
-```
-
-**#️⃣ Hashtags**
-
-#BeritaIndonesia #TrendingIndonesia #NewsUpdate #Indonesia #Cnn #Hotel #Razman #Arif #Nasution #Dijebloskan
-
----
-
-### 7. Microsoft Perpanjang Dukungan Windows 10 hingga 2027 - Telset.id
-
-- **Topic anchor:** `telset`  ·  **Coverage:** 9 articles  ·  **Sources:** Google News (Technology), Google News (Top)
-- **Source link:** https://news.google.com/rss/articles/CBMihwFBVV95cUxOSkIyNGFtcnV3SHMxMThYT0RIdHhkRTdoR2pNU3N5R0pvSWpCY0VHWnZQbFJHdlBtTkFScmhlUVhOSVQ2YTIxYm5mTkZweTcyX1dGZ0JpRVZmaEcyb3BuaFVoQ3hUNmJJUXZ5Qk5hVjBJbEhKc05zU3QxTHVaOHVFWDhaTGdkek0?oc=5
-
-**🎨 Nano Banana image prompt**
-
-```text
-Editorial news illustration, 1:1 square, social-media ready. Subject: Microsoft Perpanjang Dukungan Windows 10 hingga 2027 - Telset.id. Scene: modern Indonesian newsroom backdrop, Garuda red-and-white accent. Style: clean modern infographic-poster, bold focal subject, soft depth of field, professional photojournalism lighting, high contrast, vibrant but credible colors. Composition: leave clear negative space at the top for a headline overlay. Add a subtle Indonesian red-and-white color accent. No real recognizable faces, no text in the image, no watermarks, no logos. Photorealistic with a touch of editorial graphic design. --ar 1:1
-```
-
-**✍️ Caption**
-
-```text
-🔥 LAGI RAME DI INDONESIA
-
-Microsoft Perpanjang Dukungan Windows 10 hingga 2027 - Telset.id
-
-Topik ini lagi jadi sorotan — dibahas di 9 pemberitaan (Google News (Technology), Google News (Top)). Menurut kamu gimana? 👇
-
-Simpan & bagikan biar nggak ketinggalan berita terbaru.
-```
-
-**#️⃣ Hashtags**
-
-#BeritaIndonesia #TrendingIndonesia #NewsUpdate #Indonesia #Telset #Machine #Data #Nasa #Temukan #Bukti
-
----
-
-### 8. Tarif Batas Atas Baru Tiket Pesawat Ditunda! - detikFinance
-
-- **Topic anchor:** `baru`  ·  **Coverage:** 7 articles  ·  **Sources:** Google News (Business), Google News (Technology), Google News (Top)
-- **Source link:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQSDJhN3hzRDJTZjN0U1VJYS1xMHdFNXFXeHljWHQyMDJZNElkZTdoc3ZtdWJqN0hmU0I5c1ZGbGFySnVNR2gxZWI5ZWxKUEZ3Tk5pQkI1dkkyVDNpeS1vTVZYTnpFclZVMzcwUXVxTWdEZTc1ZS1yVlJKMGgwanJJVy1vbUx6VVRjaVRrajlUajhyVGdwR2stY3NWeUlleFBqR2Jn0gGoAUFVX3lxTFB6bE85dUk4OFZON29rbjFlV18wSjBQSG13eHZTZ2Q4OGgzZDQ4QjdrSXB1ZUs1NkNEendwbFJmSllBSWdMV2pWWGpaeG9aeHFBQmlqTUNXNVdxRG1YVjZBdGc0UTBMVFRNaW9nR1ZrV25hcUJ4QVZRR21SQ0lZN1JnWXJjZVJ4NDJQMllYd0Q3eXBWTEJQRzlCVDB6cnVNX3V2YU5fRktMeA?oc=5
-
-**🎨 Nano Banana image prompt**
-
-```text
-Editorial news illustration, 1:1 square, social-media ready. Subject: Tarif Batas Atas Baru Tiket Pesawat Ditunda! - detikFinance. Scene: glowing neural-network motifs over a modern Indonesian skyline. Style: clean modern infographic-poster, bold focal subject, soft depth of field, professional photojournalism lighting, high contrast, vibrant but credible colors. Composition: leave clear negative space at the top for a headline overlay. Add a subtle Indonesian red-and-white color accent. No real recognizable faces, no text in the image, no watermarks, no logos. Photorealistic with a touch of editorial graphic design. --ar 1:1
-```
-
-**✍️ Caption**
-
-```text
-🔥 LAGI RAME DI INDONESIA
-
-Tarif Batas Atas Baru Tiket Pesawat Ditunda! - detikFinance
-
-Topik ini lagi jadi sorotan — dibahas di 7 pemberitaan (Google News (Business), Google News (Technology), Google News (Top)). Menurut kamu gimana? 👇
-
-Simpan & bagikan biar nggak ketinggalan berita terbaru.
-```
-
-**#️⃣ Hashtags**
-
-#BeritaIndonesia #TrendingIndonesia #NewsUpdate #Indonesia #Baru #Suzuki #Desain #Harianbanyuasin #Disway #Harian
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Goto #Tokopedia #Luncurkan #Asisten #Pedagang
 
 ---

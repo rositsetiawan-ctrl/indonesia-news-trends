@@ -69,6 +69,42 @@ def fetch_google_topics(cfg: dict) -> list[dict]:
     return out
 
 
+def fetch_searches(cfg: dict) -> list[dict]:
+    """Run niche search queries against Google News (pulls from all media)."""
+    out: list[dict] = []
+    params = _gn_params(cfg)
+    lookback = cfg.get("lookback_days", 2)
+    for query in cfg.get("search_queries", []):
+        print(f"Search: {query}")
+        q = quote_plus(f"{query} when:{lookback}d")
+        url = f"{GN_BASE}/search?q={q}&{params}"
+        out += _entries(_fetch(url), "Google News (Search)")
+        time.sleep(0.5)
+    return out
+
+
+def apply_keyword_filter(items: list[dict], cfg: dict) -> list[dict]:
+    """Keep only on-topic articles (title contains a niche keyword as a WHOLE
+    word). Whole-word matching avoids false positives like 'ai' inside
+    'disertai' or 'santai'."""
+    import re
+
+    kf = cfg.get("keyword_filter", {})
+    if not kf or not kf.get("enabled"):
+        return items
+    terms = [t.lower() for t in kf.get("any_of", []) if t.strip()]
+    if not terms:
+        return items
+    patterns = [re.compile(r"\b" + re.escape(t) + r"\b") for t in terms]
+    kept = []
+    for it in items:
+        title = it["title"].lower()
+        if any(p.search(title) for p in patterns):
+            kept.append(it)
+    print(f"Keyword filter: kept {len(kept)}/{len(items)} on-topic articles.")
+    return kept
+
+
 def fetch_portals(cfg: dict) -> list[dict]:
     out: list[dict] = []
     params = _gn_params(cfg)
@@ -109,9 +145,11 @@ def fetch_all(cfg: dict) -> list[dict]:
     items: list[dict] = []
     if cfg.get("google_news", {}).get("enabled", True):
         items += fetch_google_topics(cfg)
+    items += fetch_searches(cfg)
     items += fetch_portals(cfg)
     items = dedupe(items)
-    print(f"\nFetched {len(items)} unique articles.")
+    items = apply_keyword_filter(items, cfg)
+    print(f"\nFetched {len(items)} unique on-topic articles.")
     return items
 
 

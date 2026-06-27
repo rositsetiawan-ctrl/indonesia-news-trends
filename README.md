@@ -1,16 +1,22 @@
-# 🇮🇩 Indonesia News Trends → Nano Banana Social Posts
+# 🤖 Tech & AI Indonesia News Trends → Nano Banana Social Posts
 
-Automatically pull trending Indonesian news, detect the hottest stories, and
-turn each one into a ready-to-post social media package: a **Nano Banana
-(Gemini) image prompt**, a **caption**, and **hashtags**.
+Automatically pull trending **Indonesian tech & AI news**, detect the hottest
+stories, and turn each one into a ready-to-post social media package: a
+**Nano Banana (Gemini) image prompt**, a **caption** (hype hook + explainer),
+and **hashtags**.
 
 Runs daily on **GitHub Actions** with no paid API keys.
 
 ```
-Google News ID + major portals  ──▶  fetch  ──▶  analyze/cluster  ──▶  social posts
-   (Detik, Kompas, CNN ID,                trending          Nano Banana prompt
-    Antara, Tempo, Tribun…)               stories           + caption + hashtags
+Google News ID (tech) + tech portals  ──▶  fetch + niche filter  ──▶  cluster  ──▶  social posts
+   (Detik Inet, Kompas Tekno, DailySocial,        keep only          trending      Nano Banana prompt
+    Tech in Asia, CNBC Tech, Uzone…)              tech/AI stories    stories       + caption + hashtags
 ```
+
+> **Niche:** technology, AI, startups, gadgets, and the digital economy in
+> Indonesia. Want a different niche (finance, otomotif, esports)? Just edit the
+> `search_queries`, `portals`, and `keyword_filter` in `config.yaml` — the
+> engine stays the same.
 
 ---
 
@@ -67,8 +73,30 @@ No heavy ML dependencies. The analyzer:
 Per request, **no image API is called** — the pipeline produces the **image
 prompt** only. You paste it into Nano Banana (Gemini image generation in Google
 AI Studio / Gemini app), generate the image, then post it with the provided
-caption and hashtags. Prompts are tuned for a 1:1 editorial news look with space
-for a headline overlay, and avoid real faces/text/logos.
+caption and hashtags.
+
+**Image–news coherence.** The prompt builder doesn't use one generic visual for
+everything. For each headline it:
+
+1. detects **the event** — launch, funding, office opening, partnership,
+   acquisition, cyberattack, regulation, data center, outage, update — and **the
+   concrete subject** (smartphone, laptop, chip, robot, AI app, EV, crypto), then
+   composes a scene that *depicts that specific event*;
+2. **names the real-world brands/companies/places** in the headline (OpenAI,
+   Samsung Galaxy, GoTo, Tokopedia, Jakarta, Indonesia…) and tells the model to
+   show their real likeness — so the audience instantly recognizes the story;
+3. **adds text on the image**: a bold UPPERCASE **hook headline** across the top
+   plus a short **sub-headline** description, ready as a scroll-stopping cover.
+
+Each post in the output therefore also lists the **on-image header**,
+**sub-headline**, and **featured entities**. Tune any of this in
+`EVENT_SCENES`, `SUBJECT_HINTS`, and `KNOWN_ENTITIES` in `src/generate_posts.py`.
+
+> **Want even tighter coherence?** Rule-based detection covers the common event
+> types and falls back to a neutral scene for unusual headlines. For
+> best-in-class fidelity you can have an LLM (e.g. free-tier **Gemini Flash**)
+> rewrite each headline into a bespoke image prompt. Ask and this can be wired
+> into `generate_posts.py` behind your own API key.
 
 ---
 
@@ -132,9 +160,19 @@ After it runs, your latest posts are always at `output/latest.md`.
 | `top_stories` | How many trending stories become posts |
 | `min_cluster_size` | Min articles for a topic to count as trending |
 | `caption_lang` | `id` (Indonesian) or `en` (English) captions |
+| `caption_style` | `mix` (hook + explainer), `hype`, or `explainer` |
 | `google_news.topics` | Which Google News ID sections to pull |
-| `portals` | Sources + optional native RSS URLs |
+| `search_queries` | Niche search terms run against Google News (the heart of the niche) |
+| `portals` | Niche sources + optional native RSS URLs |
+| `keyword_filter` | Whole-word terms; an article is kept only if its title matches one |
 | `prefer_direct_rss` | Use native RSS first, Google News as fallback |
+
+### Switching niches later
+
+To point this at a different niche, change three things in `config.yaml`:
+`search_queries` (what to search), `portals` (which outlets), and
+`keyword_filter.any_of` (what counts as on-topic). Optionally tweak the
+`SCENE_HINTS` and `HASHTAG_BASE` in `src/generate_posts.py` for matching visuals.
 
 ---
 

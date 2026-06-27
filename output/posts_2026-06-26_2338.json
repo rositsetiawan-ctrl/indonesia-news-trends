@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T23:53:42.876576+00:00",
+  "generated_at": "2026-06-26T23:38:20.972996+00:00",
   "date": "2026-06-26",
   "posts": [
     {
@@ -22,9 +22,9 @@
         "resmi",
         "garap"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a grand-opening / expansion scene: a sleek modern corporate tech headquarters in Jakarta's business district at golden hour, ribbon-cutting atmosphere, optimistic and premium. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: OpenAI, Jakarta. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"OPENAI BUKA KANTOR ASIA TENGGARA DI JAKARTA\"; a smaller sub-headline below it reading \"Ekspansi besar ke pasar Indonesia\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a grand-opening / expansion scene: a sleek modern corporate tech headquarters in Jakarta's business district at golden hour, ribbon-cutting atmosphere, optimistic and premium. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: OpenAI, Jakarta. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"OPENAI BUKA KANTOR ASIA TENGGARA DI JAKARTA\"; a smaller sub-headline below it reading \"Ini Dampaknya\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
       "image_hook": "OPENAI BUKA KANTOR ASIA TENGGARA DI JAKARTA",
-      "image_subtitle": "Ekspansi besar ke pasar Indonesia",
+      "image_subtitle": "Ini Dampaknya",
       "image_entities": [
         "OpenAI",
         "Jakarta"
@@ -62,9 +62,9 @@
         "lokal",
         "raih"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"STARTUP AI LOKAL RAIH PENDANAAN SERI B RP1,5 TRILIUN\"; a smaller sub-headline below it reading \"Pendanaan baru guncang ekosistem startup\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "STARTUP AI LOKAL RAIH PENDANAAN SERI B RP1,5 TRILIUN",
-      "image_subtitle": "Pendanaan baru guncang ekosistem startup",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"STARTUP AI LOKAL RAIH PENDANAAN SERI B RP1\"; a smaller sub-headline below it reading \"5 Triliun\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "STARTUP AI LOKAL RAIH PENDANAAN SERI B RP1",
+      "image_subtitle": "5 Triliun",
       "image_entities": [],
       "caption": "🚨 KABAR TEKNO INDONESIA\n\nStartup AI Lokal Raih Pendanaan Seri B Rp1,5 Triliun\n\nKenapa penting: kabar ini dibahas di 3 media (CNBC Indonesia Tech, DailySocial, Tech in Asia ID) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
@@ -100,10 +100,11 @@
         "fitur",
         "canggih"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a premium flagship smartphone revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Samsung Galaxy. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"SAMSUNG GALAXY S26 MELUNCUR\"; a smaller sub-headline below it reading \"Andalkan AI On-Device\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a premium flagship smartphone revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Samsung, Samsung Galaxy. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"SAMSUNG GALAXY S26 MELUNCUR\"; a smaller sub-headline below it reading \"Andalkan AI On-Device\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
       "image_hook": "SAMSUNG GALAXY S26 MELUNCUR",
       "image_subtitle": "Andalkan AI On-Device",
       "image_entities": [
+        "Samsung",
         "Samsung Galaxy"
       ],
       "caption": "🚨 KABAR TEKNO INDONESIA\n\nSamsung Galaxy S26 Meluncur, Andalkan AI On-Device\n\nKenapa penting: kabar ini dibahas di 3 media (Detik Inet, Kompas Tekno, Uzone) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
@@ -140,8 +141,8 @@
         "asia",
         "tenggara"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"INDONESIA BANGUN DATA CENTER AI TERBESAR DI ASIA TENGGARA\"; a smaller sub-headline below it reading \"Infrastruktur digital raksasa dibangun\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "INDONESIA BANGUN DATA CENTER AI TERBESAR DI ASIA TENGGARA",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"INDONESIA BANGUN DATA CENTER AI TERBESAR DI ASIA\"; a smaller sub-headline below it reading \"Infrastruktur digital raksasa dibangun\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "INDONESIA BANGUN DATA CENTER AI TERBESAR DI ASIA",
       "image_subtitle": "Infrastruktur digital raksasa dibangun",
       "image_entities": [
         "Indonesia"

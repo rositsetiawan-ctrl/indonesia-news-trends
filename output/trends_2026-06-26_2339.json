@@ -1,0 +1,236 @@
+{
+  "generated_at": "2026-06-26T23:39:39.177792+00:00",
+  "total_articles": 15,
+  "trending_keywords": [
+    {
+      "term": "openai",
+      "count": 3
+    },
+    {
+      "term": "startup",
+      "count": 3
+    },
+    {
+      "term": "pendanaan",
+      "count": 3
+    },
+    {
+      "term": "samsung",
+      "count": 3
+    },
+    {
+      "term": "galaxy",
+      "count": 3
+    },
+    {
+      "term": "s26",
+      "count": 3
+    },
+    {
+      "term": "galaxy s26",
+      "count": 3
+    },
+    {
+      "term": "data",
+      "count": 3
+    },
+    {
+      "term": "resmi",
+      "count": 2
+    },
+    {
+      "term": "buka",
+      "count": 2
+    },
+    {
+      "term": "kantor",
+      "count": 2
+    },
+    {
+      "term": "jakarta",
+      "count": 2
+    },
+    {
+      "term": "buka kantor",
+      "count": 2
+    },
+    {
+      "term": "asia",
+      "count": 2
+    },
+    {
+      "term": "tenggara",
+      "count": 2
+    },
+    {
+      "term": "asia tenggara",
+      "count": 2
+    },
+    {
+      "term": "seri",
+      "count": 2
+    },
+    {
+      "term": "pendanaan seri",
+      "count": 2
+    },
+    {
+      "term": "investor",
+      "count": 2
+    },
+    {
+      "term": "samsung galaxy",
+      "count": 2
+    },
+    {
+      "term": "goto",
+      "count": 2
+    },
+    {
+      "term": "tokopedia",
+      "count": 2
+    },
+    {
+      "term": "center",
+      "count": 2
+    },
+    {
+      "term": "data center",
+      "count": 2
+    },
+    {
+      "term": "siber",
+      "count": 2
+    }
+  ],
+  "trending_stories": [
+    {
+      "topic": "openai",
+      "headline": "OpenAI Buka Kantor Asia Tenggara di Jakarta, Ini Dampaknya",
+      "link": "https://example.com/3",
+      "article_count": 3,
+      "source_count": 3,
+      "sources": [
+        "DailySocial",
+        "Detik Inet",
+        "Kompas Tekno"
+      ],
+      "keywords": [
+        "openai",
+        "buka",
+        "kantor",
+        "jakarta",
+        "resmi",
+        "garap"
+      ],
+      "score": 15,
+      "samples": [
+        "OpenAI Resmi Buka Kantor di Jakarta, Garap Pasar AI Indonesia",
+        "OpenAI Ekspansi ke Indonesia, Hadirkan Layanan AI untuk UMKM",
+        "OpenAI Buka Kantor Asia Tenggara di Jakarta, Ini Dampaknya"
+      ]
+    },
+    {
+      "topic": "startup",
+      "headline": "Startup AI Lokal Raih Pendanaan Seri B Rp1,5 Triliun",
+      "link": "https://example.com/4",
+      "article_count": 3,
+      "source_count": 3,
+      "sources": [
+        "CNBC Indonesia Tech",
+        "DailySocial",
+        "Tech in Asia ID"
+      ],
+      "keywords": [
+        "startup",
+        "pendanaan",
+        "seri",
+        "investor",
+        "lokal",
+        "raih"
+      ],
+      "score": 15,
+      "samples": [
+        "Startup AI Lokal Raih Pendanaan Seri B Rp1,5 Triliun",
+        "Startup Fintech Indonesia Tutup Pendanaan Seri B dari Investor Global",
+        "Pendanaan Startup Indonesia Bangkit, AI Jadi Magnet Investor"
+      ]
+    },
+    {
+      "topic": "samsung",
+      "headline": "Samsung Galaxy S26 Meluncur, Andalkan AI On-Device",
+      "link": "https://example.com/9",
+      "article_count": 3,
+      "source_count": 3,
+      "sources": [
+        "Detik Inet",
+        "Kompas Tekno",
+        "Uzone"
+      ],
+      "keywords": [
+        "samsung",
+        "galaxy",
+        "s26",
+        "rilis",
+        "fitur",
+        "canggih"
+      ],
+      "score": 15,
+      "samples": [
+        "Samsung Rilis Galaxy S26 dengan Fitur AI Canggih di Indonesia",
+        "Harga dan Spesifikasi Samsung Galaxy S26 Resmi di Indonesia",
+        "Samsung Galaxy S26 Meluncur, Andalkan AI On-Device"
+      ]
+    },
+    {
+      "topic": "data",
+      "headline": "Indonesia Bangun Data Center AI Terbesar di Asia Tenggara",
+      "link": "https://example.com/12",
+      "article_count": 3,
+      "source_count": 3,
+      "sources": [
+        "DailySocial",
+        "Kompas Tekno",
+        "Tech in Asia ID"
+      ],
+      "keywords": [
+        "data",
+        "center",
+        "bangun",
+        "terbesar",
+        "asia",
+        "tenggara"
+      ],
+      "score": 15,
+      "samples": [
+        "Indonesia Bangun Data Center AI Terbesar di Asia Tenggara",
+        "Proyek Data Center Hyperscale Dimulai, Dukung Ekonomi Digital",
+        "Keamanan Siber Jadi Prioritas, Pemerintah Perketat Aturan Data"
+      ]
+    },
+    {
+      "topic": "goto",
+      "headline": "GoTo Luncurkan Asisten AI Baru untuk Pedagang Tokopedia",
+      "link": "https://example.com/10",
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "CNBC Indonesia Tech",
+        "Kumparan Tech"
+      ],
+      "keywords": [
+        "goto",
+        "tokopedia",
+        "luncurkan",
+        "asisten",
+        "baru",
+        "pedagang"
+      ],
+      "score": 10,
+      "samples": [
+        "GoTo Luncurkan Asisten AI Baru untuk Pedagang Tokopedia",
+        "GoTo Integrasikan AI di Gojek dan Tokopedia, Saham Naik"
+      ]
+    }
+  ]
+}
