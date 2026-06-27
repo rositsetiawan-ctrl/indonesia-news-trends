@@ -1,5 +1,6 @@
 name: Daily Indonesia News Trends
 
+# Runs every day at 00:30 UTC (~07:30 WIB) and can be triggered manually.
 on:
   schedule:
     - cron: "30 0 * * *"
