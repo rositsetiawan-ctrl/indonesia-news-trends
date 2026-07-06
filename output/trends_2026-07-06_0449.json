@@ -1,0 +1,847 @@
+{
+  "generated_at": "2026-07-06T04:49:05.514447+00:00",
+  "total_articles": 295,
+  "trending_keywords": [
+    {
+      "term": "com",
+      "count": 98
+    },
+    {
+      "term": "tokopedia",
+      "count": 52
+    },
+    {
+      "term": "phk",
+      "count": 48
+    },
+    {
+      "term": "kompas",
+      "count": 44
+    },
+    {
+      "term": "digital",
+      "count": 43
+    },
+    {
+      "term": "kompas com",
+      "count": 40
+    },
+    {
+      "term": "baru",
+      "count": 27
+    },
+    {
+      "term": "goto",
+      "count": 27
+    },
+    {
+      "term": "teknologi",
+      "count": 26
+    },
+    {
+      "term": "phk tokopedia",
+      "count": 24
+    },
+    {
+      "term": "rilis",
+      "count": 23
+    },
+    {
+      "term": "iphone",
+      "count": 21
+    },
+    {
+      "term": "suara",
+      "count": 19
+    },
+    {
+      "term": "media",
+      "count": 19
+    },
+    {
+      "term": "samsung",
+      "count": 18
+    },
+    {
+      "term": "era",
+      "count": 16
+    },
+    {
+      "term": "kecerdasan",
+      "count": 13
+    },
+    {
+      "term": "tiktok",
+      "count": 13
+    },
+    {
+      "term": "isu",
+      "count": 13
+    },
+    {
+      "term": "isu phk",
+      "count": 13
+    },
+    {
+      "term": "detikinet",
+      "count": 13
+    },
+    {
+      "term": "resmi",
+      "count": 12
+    },
+    {
+      "term": "halaman",
+      "count": 12
+    },
+    {
+      "term": "pakai",
+      "count": 11
+    },
+    {
+      "term": "kompasiana",
+      "count": 11
+    }
+  ],
+  "trending_stories": [
+    {
+      "topic": "com",
+      "headline": "14 HP Android Murah Mirip iPhone Pro Max - Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSW5IZEszUHpyamdpZEJlT3BmN0Vtelh4and1bFhXZDExQTMxU0ctMzEtcm4wNTJ2Nkx1R2Utd1FQLW80Ulg2SFVTQWhXaURtd1M2N2ZvU1hzZDU2N1ZPZDk1UVJ3XzA2cEotNzVYdlRjLXpTN2RqSWJlUGtWby1DSzNIMGhvaER3endPWElwaS15UkM4Z2hETmlLOGRSeU5B?oc=5",
+      "article_count": 89,
+      "source_count": 5,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Search)",
+        "Google News (Technology)",
+        "Kompas Tekno",
+        "Kumparan Tech"
+      ],
+      "keywords": [
+        "com",
+        "kompas",
+        "phk",
+        "tokopedia",
+        "digital",
+        "halaman"
+      ],
+      "score": 193,
+      "samples": [
+        "HMD Rilis 4 HP Nokia Baru dengan AI, Pakai Tombol Fisik dan Baterai Lepas-Pasang - Kompas.com",
+        "Penemuan DeepSeek Telah Membuat AI 85% Lebih Cepat Tanpa Chip Unggulan - Kompasiana.com - Kompasiana.com",
+        "Chat WhatsApp Tidak Masuk kalau Aplikasi Tak Dibuka, Cek Pengaturan Ini - Kompas.com",
+        "14 HP Android Murah Mirip iPhone Pro Max - Kompas.com",
+        "Usai Ramai Dikira Lari Kena Pajak, Pengguna Strava Minta Sosialisasi Pajak Digital Ditingkatkan - Kompas.com"
+      ]
+    },
+    {
+      "topic": "tokopedia",
+      "headline": "Alasan Tokopedia PHK Massal Karyawan - CNN Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjJjSGNmeEpDSFpVTlJTbjZXVU1OUW9EeVBCMFJMV3JZRm8tYmt6RzFkYnRuWTJ0M2IzaTBlZFdwY1ZscHkxa2hfbU9laGFVcnR3ZGhhN0g2dGpkMFZvOWMtbm1fZGNGcVc3SDhMZzlwT1Vzb21Wb0d3THNyTWNjbHVfc1RObHEwVTVJWHhQbUM0ekxvTWFIYVFyaXhrdFdS0gGmAUFVX3lxTE41VlJMblpnSGZDTEREczhQc0Fnc2xGRk41TkRVSjdlcFl1XzBjYzF6a3lQNExXRlhra0dlQmtKTjkySFdHeERrNmw4NlNLOTJ0WkdmMHNFQy04bWpxN2dKYkdfZTFlRERra283eV9rRjNnTm1pZWh0ZlBrdWNrZ01hUzJCRmt0Yi0zQ2RaLWtBckJfS3A3cUpmWWZJNDl3U0JCT25ZZkE?oc=5",
+      "article_count": 36,
+      "source_count": 2,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "tokopedia",
+        "phk",
+        "goto",
+        "tiktok",
+        "isu",
+        "massal"
+      ],
+      "score": 78,
+      "samples": [
+        "Alasan Tokopedia PHK Massal Karyawan - CNN Indonesia",
+        "Sejarah Tokopedia: Startup Unicorn hingga Kabar Efisiensi - Teknologi - Bloomberg Technoz",
+        "GoTo Akhirnya Buka Suara! Ini Penjelasan Resmi soal PHK Tokopedia - Kontan TV",
+        "Celios: PHK Tokopedia Merupakan Konsekuensi yang Lazim Usai Akuisisi - KONTAN",
+        "TikTok Lakukan Restrukturisasi Tokopedia, Operasional Teknologi Beralih ke Tim Global dan Ribuan Karyawan Terdampak - Timenews - timenews.co.id"
+      ]
+    },
+    {
+      "topic": "digital",
+      "headline": "PHK Perusahaan Digital Bisa Berlanjut - Pikiran Rakyat Koran",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUt3TFpnQk1HMzB4UjFXbXo1eEYwN1hkQ0lLNklhQk9KWXdtTVBKc0tDWDROVHJaZEt1S2daYUE1Smp0VjFJSDB2Q3hBZkllR2daQnhFMHF1OU1IVWY5bDVEWWowamJTdlJweGhQWmFfdlpoR3BWM3hPYXd5LUxFNlhLWEd6OHNvRGo0UlB5b3pHaUxtYXVRVQ?oc=5",
+      "article_count": 28,
+      "source_count": 3,
+      "sources": [
+        "Detik Inet",
+        "Google News (Science)",
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "digital",
+        "era",
+        "media",
+        "pemalang",
+        "keuangan",
+        "perkuat"
+      ],
+      "score": 65,
+      "samples": [
+        "Kamera Digital Terbesar di Dunia Mulai Misi 10 Tahun, Siap Ungkap Misteri Alam Semesta - TIMES Indonesia",
+        "Menguatkan Kedaulatan Digital Indonesia di Era Kecerdasan Buatan sebagai Pilar Kemandirian Bangsa - PT Suara Dewata Media",
+        "Menguatkan Kedaulatan Digital Indonesia di Era Kecerdasan Buatan sebagai Pilar Kemandirian Bangsa - Minews ID",
+        "Kedaulatan Digital di Era AI: Benteng Baru Pertahanan Keamanan Semesta - Minews ID",
+        "Lonjakan Transaksi Digital Picu Risiko Fraud, Industri Keuangan Beralih ke AI untuk Perkuat Keamanan - VOI.id"
+      ]
+    },
+    {
+      "topic": "baru",
+      "headline": "Xiaomi Hingga Huawei Rilis HP dan Tablet Baru Juni 2026 - Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tb1U3cXcwdjRqMmN6d1JWVFNqbENqQzA2TUxqb1ZpRzVfR0ZyOFNHbWlGSl9zSEpWNkYzcF9obEdERXphc1VRa2ZRUjNIWGl4SEFNLVRlUlNDX3V4eTB0MXR5NWgxZmlo?oc=5",
+      "article_count": 17,
+      "source_count": 4,
+      "sources": [
+        "CNBC Indonesia Tech",
+        "Detik Inet",
+        "Google News (Search)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "baru",
+        "juni",
+        "rilis",
+        "surabaya",
+        "tablet",
+        "apple"
+      ],
+      "score": 46,
+      "samples": [
+        "Samsung Galaxy S27 Ultra Dirumorkan Pakai Kamera Selfie 16MP Baru, Bisa Punya Fitur Mirip Apple Center Stage - GadgetDIVA",
+        "BYD Tech Culture Fest 2026 Dorong Adopsi Kendaraan Energi Baru di Surabaya - artik.id",
+        "7 HP Baru Resmi Hadir di Indonesia Sepanjang Juni 2026, Cek Harga Terbarunya - pdiperjuanganbali.id",
+        "Surabaya Printing Expo 2026: Perkuat Teknologi Baru, Perluas Peluang Bisnis - selalu.id",
+        "Film Indonesia Masuk Jalur Baru, Blockchain dan AI Dibawa untuk Tembus Pasar Global - Qoo10.co.id"
+      ]
+    },
+    {
+      "topic": "teknologi",
+      "headline": "Uzone - Informasi Teknologi Terkini - Uzone.id",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxSXNFcy1FeHVIajQzM1FoSXhaZDhHM2EyTG9tTnZSMGZBdTY3dGdTOGVuT1ZpVmZReXVBUVRBamxNV3pxc1NrRzNUeFoyQ0VM?oc=5",
+      "article_count": 14,
+      "source_count": 3,
+      "sources": [
+        "Google News (Search)",
+        "Google News (Technology)",
+        "Uzone"
+      ],
+      "keywords": [
+        "teknologi",
+        "suara",
+        "merdeka",
+        "purbalingga",
+        "byd",
+        "surabaya"
+      ],
+      "score": 37,
+      "samples": [
+        "India Tolak Fitur Username WhatsApp, Ini Alasan Pemerintah Khawatir - Teknologi.id",
+        "HP Mirip BlackBerry Resmi Hadir Lagi, Pakai Android 16 dan Keyboard Fisik - Teknologi.id",
+        "Panduan Lengkap Teknologi AI di Tahun 2026: Revolusi Kecerdasan Buatan yang Mengubah Dunia - Radar Cirebon Televisi",
+        "BYD Tech Culture Fest 2026 Sambangi Surabaya, Edukasi Teknologi EV dan DM ke Masyarakat - VOI.id",
+        "BYD Tech Culture Fest 2026 Hadir di Surabaya, Kenalkan Teknologi EV & DM - AutonetMagz"
+      ]
+    },
+    {
+      "topic": "iphone",
+      "headline": "Samsung Siapkan Galaxy Ring 2, Bisa Nyambung ke iPhone? - Uzone.id",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BdExXT1dkWE81a2hWVXBzWFRJb3ZLa2NibzEtZk1USTBTQmw4Y25wQjdqc0wySmdwRDNPV29LT0ptNUg1eEVLeFh5VGJfRURpUFlPUXFZeUVRUUVRYXNSbkQ0U0JqTmlXRkRLblFTMWpWMkhURWxlbDRlTFRZX1E?oc=5",
+      "article_count": 8,
+      "source_count": 4,
+      "sources": [
+        "Detik Inet",
+        "Google News (Technology)",
+        "Google News (Top)",
+        "Uzone"
+      ],
+      "keywords": [
+        "iphone",
+        "ramai",
+        "tiba",
+        "apple",
+        "kamera",
+        "pontianakpost"
+      ],
+      "score": 28,
+      "samples": [
+        "Pemilik iPhone Ramai-Ramai Komplain HP Tiba-Tiba Penuh, 100 GB Hilang - CNBC Indonesia",
+        "Bocoran iPhone Air 2 Terungkap! Apple Disebut Tinggalkan Telefoto demi Kamera Ultrawide - PontianakPost",
+        "WhatsApp Uji Indikator Titik Hijau untuk Tampilkan Kontak yang Sedang Online di iPhone - Marketeers",
+        "5 Fitur iPhone yang Dihapus Apple tapi Masih Dirindukan, 3D Touch hingga Jack Audio Kembali Disorot - PontianakPost",
+        "iPhone Lawas Masih Bertaji, iPhone 6 hingga iPhone X Menang Lomba Fotografi Internasional - pdiperjuanganbali.id"
+      ]
+    },
+    {
+      "topic": "rilis",
+      "headline": "Realme Resmi Rilis Duet HP Gaming P4 Series - posnews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZUdsbTNOZ2NqYmxQemlYcGk3LWVpQnVVZXR3d1F3bkpiUDdMdHF3R182MURpVzA0bllHa08yRG9RTUhFOVdCdjhWaC1sZ1kzcmUwNmprbnpJX2NVTlYwdGlzRDV5Q3VvaS1YaFktYkRZbFNqVHVDRDEzblBQMTREX3BNYm5ibW9YeVNZbVpyT0JRYm1KeGZQbQ?oc=5",
+      "article_count": 11,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "rilis",
+        "resmi",
+        "fold",
+        "lenovo",
+        "nokia",
+        "tombol"
+      ],
+      "score": 25,
+      "samples": [
+        "HP Nokia Terbaru Rilis Bawa AI on-Device, Masih Pakai Tombol Fisik dan Baterai Lepas-Pasang! - techdaily.id",
+        "HMD Rilis 4 HP Nokia 4G Terbaru dengan Tombol AI, Bukan Sekadar Ponsel Jadul Lagi - GadgetDIVA",
+        "iPhone Lipat Apple Belum Rilis, Caviar Malah Luncurkan Edisi Mewah Berlapis Emas Seharga Rp250 Juta - GadgetDIVA",
+        "Realme Resmi Rilis Duet HP Gaming P4 Series - posnews.co.id",
+        "Samsung Galaxy Z Fold 8 Ultra Bocor Lagi, Tanggal Rilis hingga Deretan Casing Resmi Terungkap - Blitar Kawentar"
+      ]
+    },
+    {
+      "topic": "samsung",
+      "headline": "Harga Turun! 3 HP Samsung Galaxy A Series Termurah Juli 2026 - Pemmzchannel",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSlRwc0VVZjduZ2tFSVRnX05td3hCMXd4UndvR2hTV1ZzaGk5ZEo0Mnc4dlhTcG1FMmttNDgwR3NRM3poZFJYSjl2elFiMWloN3FjUllWbVBLaW1qYy04RnNYSk1ZamJPVWZ4MmFGVnZIUHFHWWtBQndKZDFHS0NCRWhRWlYzV3g5cnk3dlZXWUNvOGtTTlBCa3hWVDY?oc=5",
+      "article_count": 6,
+      "source_count": 4,
+      "sources": [
+        "Google News (Search)",
+        "Google News (Technology)",
+        "Google News (Top)",
+        "Uzone"
+      ],
+      "keywords": [
+        "samsung",
+        "galaxy",
+        "harga",
+        "turun",
+        "pontianakpost",
+        "diam"
+      ],
+      "score": 24,
+      "samples": [
+        "Harga Turun! 3 HP Samsung Galaxy A Series Termurah Juli 2026 - Pemmzchannel",
+        "Samsung Galaxy M47 5G Resmi Masuk Pasar, Hadirkan Layar 120Hz dan Update Android 6 Tahun Jadi Andalan - PontianakPost",
+        "Galaxy Z Fold 8 Bakal Tampil Beda, Samsung Siapkan Desain Lebih Lebar dan Varian Ultra - PontianakPost",
+        "Harga HP Samsung Terbaru 2026 Diam-Diam Mulai Turun! Ini Daftar Model yang Kini Makin Layak Dibeli - sumeks.disway.id - Sumeks",
+        "4 Strategi Penjualan di LazMall yang Bikin Transaksi Samsung Melonjak Tajam - Hybrid.co.id"
+      ]
+    },
+    {
+      "topic": "detikinet",
+      "headline": "Binus Geber Inisiatif AI for Life - detikInet",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLUdZQk5rQjh0SnlPajhhWk5zcHAtejVwbE9xMTBmU0hCeUVsa3M5VjdZc0UyU0FCOUhSaTFPdzJKVDhiWG9oQkhNZW9zR1NITVNGR2dfVzR6NlpLTUVRSEdTaXFJZzN2X2VGMXZkdlR3Ni1YYzhaZ1dYeVRxTE5MNdIBhgFBVV95cUxNaFJFMXR5a1ctWHA5T2VDbjRFUTZmY3lVbHQ4blg2Q3BYYkdtclVhdUw5anpTMEt0WVhDbThTWEozREgwdFMzRTdpeWlSU202cE40X0ZYN05BYW5PcTNEU1hfRm9QTWhHTXFNOVNjTE9GTUxJTTBsTEljLTVranNjRW85SkFhQQ?oc=5",
+      "article_count": 8,
+      "source_count": 1,
+      "sources": [
+        "Detik Inet"
+      ],
+      "keywords": [
+        "detikinet",
+        "makin",
+        "robot",
+        "humanoid",
+        "belanja",
+        "cara"
+      ],
+      "score": 19,
+      "samples": [
+        "Begini Cara Cek Sisa Umur HP Android, Ternyata Mudah Banget - detikInet",
+        "Komdigi Tutup Celah Nomor HP \"Siluman\", Registrasi Wajib Pakai Face Recognition - detikInet",
+        "Binus Geber Inisiatif AI for Life - detikInet",
+        "Makin Canggih, Robot Humanoid Bertanding Layaknya Atlet di RoboCup 2026 - detikInet",
+        "10 HP Flagship Paling Ngebut Sejagat, Ada Incaranmu? - detikInet"
+      ]
+    },
+    {
+      "topic": "goto",
+      "headline": "Putus Kontrak, GOTO Sumbang 30 Persen Pendapatan Express (TAXI) - IDX Channel",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUDlpS2pjdzAycTIwcUxVMl9falVPOTdtVVFBMUY1dmtwY0h5WG8zR1VtTERMZFUzamNfWV9tRDVuNG1zaThPNUh1SnBMM2hfY3Y0MkxKaFFSWGF3YnRIMGdaZDlOaEpVNmJQOHBPLVNYVkVUcmxlU09ielk3Ujg5a1ZMQTlnQS1pN1F3MW50ODlVdHh4VUhYWjRIVmtTbVFF0gGmAUFVX3lxTE9QVVVNVTlKUmNaOUZUVDNTbGxyRTU0Yi1QNFZPS3dZU3diSUpQeWtKUkxCdkpqT2FDaThlTng1eFhOdjdMbHFPTGllT2ZmbnVCWmNsVGltTHZEUEFiazg4M1FTbnByY1JPVU1DTnBlZF81WGd3SFZCZk56cjhBR3lTWmFyQnZwS2xJVVdMelZSQ1VwSTFtVVRGam5JVDVWdzZuTV9HZXc?oc=5",
+      "article_count": 5,
+      "source_count": 2,
+      "sources": [
+        "Google News (Business)",
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "goto",
+        "pendapatan",
+        "taxi",
+        "akhiri",
+        "kerja",
+        "sama"
+      ],
+      "score": 16,
+      "samples": [
+        "Putus Kontrak, GOTO Sumbang 30 Persen Pendapatan Express (TAXI) - IDX Channel",
+        "Express Transindo Akhiri Kerja Sama dengan Anak Usaha GoTo, Pendapatan Berpotensi Terdampak - SWA.co.id",
+        "Cek Profil TAXI: Emiten Transportasi yang Akhiri Kerja Sama dengan GOTO - KONTAN",
+        "GoTo Akhiri Kontrak dengan TAXI Lebih Cepat, Kontribusi Pendapatan 28% Terancam - kontan.co.id",
+        "BP Tapera dan GoTo Kerja Sama, Hadirkan KPR Subsidi DP 0 Persen untuk Mitra Driver Gojek - Mu4.co.id"
+      ]
+    },
+    {
+      "topic": "data",
+      "headline": "Asisten AI Bisa Ajak UMKM Ambil Keputusan Berbasis Data - Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLVdFc1UtSVNmdVl0T21XM3hrMmM1aXpyZ1VHZmZiM1RrYmRKUEZVTkVNeTNfbmNlN3ZEQnBFRmkzdFZxLWhKaDBWb1pRam9GeHZ3ZFN6bkVfMkM1QTF5UXhFWjhXOC1za3NZTGloMG5jX2EybV9iOXJBWGp2Rlg0R0hWYXZRRS1IazVmd0dDak15VVB4ZmROSDRhelRhYmVtamRWRmZ2dWU0cnlyZFJtWQ?oc=5",
+      "article_count": 5,
+      "source_count": 2,
+      "sources": [
+        "Google News (Search)",
+        "Google News (Top)"
+      ],
+      "keywords": [
+        "data",
+        "center",
+        "ihsg",
+        "dibayangi",
+        "berjibun",
+        "penting"
+      ],
+      "score": 16,
+      "samples": [
+        "IHSG Dibayangi Berjibun Data Penting, Ada 6 Saham Bakal Cuan - investor.id",
+        "Asisten AI Bisa Ajak UMKM Ambil Keputusan Berbasis Data - Medcom.id",
+        "Transisi Energi Dinilai Tarik Investasi Data Center RI - Listrik Indonesia",
+        "SK Telecom Pursues 15GW AI Data Center Buildout, Aiming to Become Asia's AI Infrastructure Hub - Tirto.id",
+        "Data 70.000 Orang di Singapura Bocor dari Cloud yang Dikelola IBM - VOI.id"
+      ]
+    },
+    {
+      "topic": "kecerdasan",
+      "headline": "DeepSeek V4 Siap Guncang Industri Kecerdasan Buatan Global - Readers.id",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53X2xNM1c4NF83ZXUwanBscHN4R050ckdUbGFPNHlpYm5DdlpJeWxlVExrVl9nNEJFSXJzX2d0eV9xM0FjRGtuVWxZYkJZalhaTWZwRFd1OWV0Vy1JT1FISXNCUElLNXBBMFg2NUExMlpYWW5TY3BZMg?oc=5",
+      "article_count": 6,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "kecerdasan",
+        "buatan",
+        "permintaan",
+        "infrastruktur",
+        "naik",
+        "persaingan"
+      ],
+      "score": 15,
+      "samples": [
+        "Daftar Pekerjaan yang Diprediksi Tergerus Kecerdasan Buatan (AI) - Bisnis Tekno",
+        "Bos Kecerdasan Super Meta Sebut Model AI Terbarunya Makin Canggih - CNN Indonesia",
+        "Permintaan infrastruktur kecerdasan buatan naik, persaingan data center kian ketat - MSN",
+        "DeepSeek V4 Siap Guncang Industri Kecerdasan Buatan Global - Readers.id",
+        "Kecerdasan Buatan Buka Peluang Akses Keuangan Masyarakat Akar Rumput - MediaKompeten"
+      ]
+    },
+    {
+      "topic": "pakai",
+      "headline": "Mau Belanja Instant 1 Jam Tiba Pakai Shopee? Begini Caranya - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdVlHN1UwdnkyNXJZcXpoTFp4bm10Y1NBWjBBVlJfWTJDbUR5WEtlZmpJMnJ6NmdOWkJCamwxaWU5OVdaaGJRZXlNeE5weXVSa2FsV3UxWXZybDFFbk9Wb0psMXE2dGJmTGVmckxOVkcwUTNnZXROWjVwV0NhZmt6RlVwVzR3T19sUnJYeE1yc3A2N3hEbEEyLWZ0NlBBck4yenBzTkdyWlhVeUdoTGtXTTM2c0hySXpFUjNUdHhma9IBvwFBVV95cUxNdVlHN1UwdnkyNXJZcXpoTFp4bm10Y1NBWjBBVlJfWTJDbUR5WEtlZmpJMnJ6NmdOWkJCamwxaWU5OVdaaGJRZXlNeE5weXVSa2FsV3UxWXZybDFFbk9Wb0psMXE2dGJmTGVmckxOVkcwUTNnZXROWjVwV0NhZmt6RlVwVzR3T19sUnJYeE1yc3A2N3hEbEEyLWZ0NlBBck4yenBzTkdyWlhVeUdoTGtXTTM2c0hySXpFUjNUdHhmaw?oc=5",
+      "article_count": 3,
+      "source_count": 3,
+      "sources": [
+        "CNBC Indonesia Tech",
+        "Google News (Search)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "pakai",
+        "sumeks",
+        "kamera",
+        "terbaik",
+        "harga",
+        "rp2"
+      ],
+      "score": 15,
+      "samples": [
+        "10 HP Kamera Terbaik Harga Rp2 Jutaan Tahun 2026, Hasil Fotonya Bikin Orang Mengira Pakai Ponsel Flagship - sumeks.disway.id - Sumeks",
+        "Tencent Cloud Pakai AI, Migrasi Raksasa XLSMART Rampung 4,5 Bulan Tanpa Downtime - Qoo10.co.id",
+        "Mau Belanja Instant 1 Jam Tiba Pakai Shopee? Begini Caranya - CNBC Indonesia"
+      ]
+    },
+    {
+      "topic": "cnbc",
+      "headline": "Banyak Perusahaan Menyesal Ganti Manusia dengan AI - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNndVaGFjSGxjMmI4TUVZNUwzYlc0SnQzajdVMVY5TndwYnA5THlEUmJFd1R4eXU1TW42OVAzMWlLRk93U2I4VGtwRE40OVhLdHFZaDd1RWJQMkpRYTVTdGlQREVZNXRQZE5qanVwVjd2N0VqTEZMQllvZDN4S2FVZC11T09hZXEwRU1aWUxYaTd5d3Z1eHlPb1RpczBNSERBM1J1T0FwLXZDcGVsX0k40gG0AUFVX3lxTE15Y1dwZnEyeW1jYktqZ3ZTZGV5R2k0emFKUldmcllzdFI2bDV4Q3BlTHY3T3VUNFFwRGZuenNhSWk3dTh1RDQ5Q05vcFpLSkN4YWE2SG5YMXJvWkxhdjJuelZwbkZZWEZGQWpqTFNWcmdCTVFVX2RiRVJxcl85UExaQXVJc1lvYUxLNlpocGNjdFJEQ3V2X19QZ05OdzFPcVBjakNZdmRMSXUwUVVXSmhLMVN6aw?oc=5",
+      "article_count": 3,
+      "source_count": 3,
+      "sources": [
+        "CNBC Indonesia Tech",
+        "Google News (Business)",
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "cnbc",
+        "sekolah",
+        "perusahaan",
+        "menyesal",
+        "ganti",
+        "manusia"
+      ],
+      "score": 15,
+      "samples": [
+        "Banyak Perusahaan Menyesal Ganti Manusia dengan AI - CNBC Indonesia",
+        "OpenAI-Anthropic Terancam, Ada Pesaing Ngeri & Lebih Murah dari China - CNBC Indonesia",
+        "Tinggalkan Sekolah Formal, Orang Kaya Kini Pilih Sekolah AI - CNBC Indonesia"
+      ]
+    },
+    {
+      "topic": "makin",
+      "headline": "Android 17 Makin Aman, Batas Salah PIN Diperketat Biar HP Anti-Bobol - Uzone.id",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR1Vfc3d1dk5IaTB4dEZhMFJhQjRUdUw3dTRZUm1URGZXendBWDkyUTBPM3J4OTdBQU9EZ3RkXzFSMjJ0Z2prZW5CbV8yek5KellMWWUzZFYwQXJZTGJ4eFZ4UTNWUVZDRHpPYk9UX0NjSU5OMmo5aEtXTTNRUjlCcDlkMHFxQnpFRTkzb3l5cTAyZw?oc=5",
+      "article_count": 3,
+      "source_count": 2,
+      "sources": [
+        "Google News (Search)",
+        "Uzone"
+      ],
+      "keywords": [
+        "makin",
+        "android",
+        "aman",
+        "batas",
+        "salah",
+        "pin"
+      ],
+      "score": 12,
+      "samples": [
+        "AI Makin Diminati, Unduhan Aplikasi AI Generatif di Indonesia Tembus 110 Juta pada Semester I/2026 - DataIndonesia",
+        "Android 17 Makin Aman, Batas Salah PIN Diperketat Biar HP Anti-Bobol - Uzone.id",
+        "Android 17 Makin Aman, Batas Salah PIN Diperketat Biar HP Anti-Bobol - games.uzone.id"
+      ]
+    },
+    {
+      "topic": "harga",
+      "headline": "7 HP RAM 8 GB Harga Rp2 Jutaan yang Layak Dibeli pada 2026, Kencang Buat Gaming dan Multitasking - PontianakPost",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR0ZKWUpUZnRwS3B2SllDVkxpVTVDOUFjT05oeFp4Ty1wNkdFYVpUdGJOejAwRFRvZHJiN0lQNnZpeDhZME9Vcng3bVJmbk12dmM2T3RfYmZFamYyS0s1X3M0ZjNxRVhQYmpyZzFTOWl4OHVMUVdhYkFuNlRCXzJiZVJaczNpN2xDS1pZRnF3TDZDNmJNYjdNX2RZR29GMzRvTFJhYk53ajRNdlJMYWtZcjdJc3RGZlpMUnQ0Q3RFY0JSMHZkSDBPM1oybWkxaUJST2pOWGtSMFhJbHlVRmxz0gHkAUFVX3lxTE95WTMzV0MzbHhUd2E2REcxRUd4OEJNM2dvWS03WTh6X1IzVEduWFVILVhvbXloZ29ZbmtxM3MtUmp1cXpHT3Z4MVJoV3A5V1JMa2VkRGRxQldlbV9kNkdVemJ0bVRFaTZsZVpJV1BhOGptT0xjR2VKMU9pTllhZTk1a0doRGZiaVJESjFTYXlqdEZ3YlN5SGdfekZCMldYZXp3YkxfZm1vc2lDWnhnSDlwbUNoUno3NXl1ZUloaVp0VEZCQ19IUXFSX2VuZnhCVl8yUVgzTGhWbm9VTk5CV0ZEcFlZcg?oc=5",
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "Google News (Search)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "harga",
+        "gaming",
+        "ram",
+        "rp2",
+        "jutaan",
+        "layak"
+      ],
+      "score": 10,
+      "samples": [
+        "7 HP RAM 8 GB Harga Rp2 Jutaan yang Layak Dibeli pada 2026, Kencang Buat Gaming dan Multitasking - PontianakPost",
+        "Review Red Magic 11S Pro, Hadir di Indonesia Harga Segini, HP Gaming Terbaru Spek Dewa! - Malang Raya - Pikiran Rakyat"
+      ]
+    },
+    {
+      "topic": "disway",
+      "headline": "Laptop Tipis dan Ringan Semakin Diminati Pelajar dan Mahasiswa - harianbanyuasin.disway.id - Disway",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYXZ2Tk9MVW9YTFRGT3JhM0ZxOVVRZEpNdm55YVZZdGlzY1U4aWhHLWgyWWlTU0gyY0QyRzdlZ3M2dlZqVTBFSG0yZ1ZKV2dhRnp4MkNfVzBEWUJrOEd0dWpDajhXZ0hqUk9kb045UGZVVWNmbVdwb2d0dzZ3MFM3Y0F6d3V3dUh1bnhmQVBNYjNERlU3VExGTHVkRFRZYVFRa3loMGdHbjVZODd2MzFSVHprN0otSldadXfSAasBQVVfeXFMUExDU0ZseFZGdXdvZWRCM2x3SlRVQWRGblZhX3VLXzhsZDZpbGM3Vm4xbGJ4Qm1MQnFVbG9YbUQ2RmJPYzB0REt3R1BLNUc1OHdybUFWdjhZbUN2bTZFNlQ5OVVJX3Z0NHFjOHNJRTd2RkVQVnlqNENveU5PdDBwak5aSHdQcmNod2dhRklUME9MOGlSMlJiNGVtMk83VTZoRFJnR1BVNG5YSk5n?oc=5",
+      "article_count": 2,
+      "source_count": 2,
+      "sources": [
+        "Google News (Search)",
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "disway",
+        "laptop",
+        "tipis",
+        "ringan",
+        "semakin",
+        "diminati"
+      ],
+      "score": 10,
+      "samples": [
+        "Laptop Tipis dan Ringan Semakin Diminati Pelajar dan Mahasiswa - harianbanyuasin.disway.id - Disway",
+        "Sharp AQUOS sense10 Raih Penghargaan Smartphone of The Year 2025, Mid Range Category di Ajang Selular Awards - radarcirebon.disway.id - Radar Cirebon"
+      ]
+    },
+    {
+      "topic": "kompas",
+      "headline": "AI, Perang, dan Mimpi Energi Rendah Karbon - Kompas.id",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mV0Q5cnBlVlhsbnpjcHJrdE9kZWRHNlpZSXpYZWVKWDlHOVFJWUJMN1NIbTBrdmxHdW45dkRmUW5QbXRZM1Y0S2FKRGF5TzZGWGpWX2tKeEJCaTRYcHBuR254RmQ2WFpGRDJxQ1lBb2djakhlU1F1SmZR?oc=5",
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "kompas",
+        "likuiditas",
+        "global",
+        "minati",
+        "bagaimana",
+        "nasib"
+      ],
+      "score": 9,
+      "samples": [
+        "Likuiditas Global Minati AI, Bagaimana Nasib Pasar Keuangan RI? - Kompas.id",
+        "Dewan Guru Besar BINUS University Angkat Gagasan AI for Life, Ini Penjelasannya - Kompas.tv",
+        "AI, Perang, dan Mimpi Energi Rendah Karbon - Kompas.id"
+      ]
+    },
+    {
+      "topic": "media",
+      "headline": "DeepSeek V4 2026: Spesifikasi, Cara Akses, dan Dampak AI Terbaru - Media Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRnFnUzVPcndaOVZtcFMwYzdNSV85UHhtRzBMYUVsN25BM1k0RlV0V3FIc040MHV6dkdONDZ0TU5vMzRoUWhPSkpCZHJfNkF6RmxLTGx6Y09icmsyNTZCLVY5SFVPc2d1T2lrcjFkanVLdTVQSV9SQXdIS1FlelFxSmlYcGFqQWpKa0hBUG1xUWU4VHZxLTZkdlZlc05pTDIyUzVpQ09yeE0?oc=5",
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "media",
+        "pemalang",
+        "berkembang",
+        "pesat",
+        "mengapa",
+        "perusahaan"
+      ],
+      "score": 9,
+      "samples": [
+        "AI Berkembang Pesat, Mengapa Perusahaan Indonesia Masih Kesulitan Melihat Kondisi IT Mereka? - Media Asuransi News",
+        "DeepSeek V4 2026: Spesifikasi, Cara Akses, dan Dampak AI Terbaru - Media Indonesia",
+        "Paylater Fintech: Tips Bijak Menggunakan Tanpa Terjerat Cicilan - Media Pemalang - Media Pemalang"
+      ]
+    },
+    {
+      "topic": "era",
+      "headline": "Tantangan Energi di Era AI, Efisiensi Infrastruktur Kini Menjadi Krusial - Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcVJZVWJCNVc3ZzJSUDZUOWc5TzFuY0JGOEFrMFFFTElFOE1RZUQ4Qy1HMkJpZGVmWEtFd1hxTlI1Q3R4TDloYzRzZnZGR2lna2NkalhkQWVwZFpqNGduX1NZbkF6ZW92UktwdHpVRjE2WE5lZmViNHJfS203OTFQbUFUMDNkbDQxTlIzNUtmSmk3d20tQmc4dkEzWXhfUE5qa0hNTFJ2VEhCMk1SSmQyRmVxT2N4SE1tU0dKRXozbG8tTHg2RHc?oc=5",
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "era",
+        "monash",
+        "university",
+        "perkuat",
+        "kompetensi",
+        "dosen"
+      ],
+      "score": 9,
+      "samples": [
+        "Monash University Indonesia Perkuat Kompetensi Dosen Hadapi Era AI Lewat Teaching Excellence Program 2026 - Manado Post",
+        "Tantangan Energi di Era AI, Efisiensi Infrastruktur Kini Menjadi Krusial - Medcom.id",
+        "Investasi Perak 2026: Strategi Diversifikasi Aset di Era AI — Mengapa Pemerintah Belum Beri Panduan Resmi - BERNAS.id"
+      ]
+    },
+    {
+      "topic": "pasar",
+      "headline": "Aktor China Jadi Korban AI, Banting Setir Jualan Sayur di Pasar - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRnlnbWVIRllObUVvMUtaNWZhR09iVHZCRFlOdVQ4bjdMbGVGdlpVQnJDQXB1b2RJUWFDajdqM20yS0NtTVRQTjB5U3l4QTgxbTNnYXlOMUc4YVQydnNCb19aTzc2LVU1Z1g1ZE00cHBhRjdFYzJBQWVaTWRtZC1IS3RYQS1ZTzNyeW4yTmNjMVZITnZ6OW03cmp1bmFzY0ZxWTZaQmgtck0wX29adlB0aUVnSkQtRzdKUGlrOFpzQUtkc3hC0gHEAUFVX3lxTFBGeWdtZUhGWU5tRW8xS1o1ZmFHT2JUdkJEWU51VDhuN0xsZUZ2WlVCckNBcHVvZElRYUNqN2ozbTJLQ21NVFBOMHlTeXhBODFtM2dheU4xRzhhVDJ2c0JvX1pPNzYtVTVnWDVkTTRwcGFGN0VjMkFBZVpNZG1kLUhLdFhBLVlPM3J5bjJOY2MxVkhOdno5bTdyanVuYXNjRnFZNlpCaC1yTTBfb1p2UHRpRWdKRC1HN0pQaWs4WnNBS2RzeEI?oc=5",
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "pasar",
+        "suara",
+        "merdeka",
+        "aktor",
+        "china",
+        "korban"
+      ],
+      "score": 9,
+      "samples": [
+        "Aktor China Jadi Korban AI, Banting Setir Jualan Sayur di Pasar - CNBC Indonesia",
+        "Indonesia Jadi Pasar Strategis Smart Home, LG Perkuat Komitmen Hadirkan Rumah Pintar Berbasis AI - Suara Merdeka - Suara Merdeka",
+        "Gedor Pasar Asia Tenggara, PLN Batam Eksekusi Kontrak Listrik Data Center Terbesar di Indonesia - KoranBatam"
+      ]
+    },
+    {
+      "topic": "keamanan",
+      "headline": "Indonesia Darurat Siber! DPR Kebut RUU Keamanan Siber - JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWZvcUlIOFNUZ25PUWNxRTR2MERFSXk5ZVJMZ29HRVBnWkQ2aEtTbFN4R3V2TnNHUmNmOTJ1WV85Q2RGOWZyems2NE5JUzdxaDJWdkhXMko5cjVPLXUtNnRISlRQWnI3V3dNaGVJbndHWkxFRFFIX3djalZLeV9yTXYtMk5SLTRsd2cxb0RzNk5iRW5iV0dIRmJOVQ?oc=5",
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "keamanan",
+        "identitas",
+        "siber",
+        "adopsi",
+        "meningkat",
+        "prioritas"
+      ],
+      "score": 9,
+      "samples": [
+        "Adopsi AI Meningkat, Keamanan Identitas Jadi Prioritas - Bisnis Tekno",
+        "Primary Guard dan JumpCloud Hadapi Tantangan Keamanan Identitas AI - Kabarnusantara.id",
+        "Indonesia Darurat Siber! DPR Kebut RUU Keamanan Siber - JournalArta"
+      ]
+    },
+    {
+      "topic": "baterai",
+      "headline": "Review Acer Swift Go 14 AI Pro Edition: Ringan, Ringkas, Baterai Awet dan Bisa Gaming? - Jagat Review",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYnhkVEd3eXlHd2tYcFRvY0lrc0pkRFUzdHIwenV1amN6eS1YREtTOVdINXJYUGdTSVBCUTNtbWNSUVE1RjdLeEh6UFpvdS1rNmFpWVF4SmNPbVNjaUNoaHVPODlleXVYendhUWFnX3hFbnVzeUVsaXN6di0zTmJQeQ?oc=5",
+      "article_count": 3,
+      "source_count": 1,
+      "sources": [
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "baterai",
+        "review",
+        "layar",
+        "acer",
+        "swift",
+        "pro"
+      ],
+      "score": 9,
+      "samples": [
+        "Review Acer Swift Go 14 AI Pro Edition: Ringan, Ringkas, Baterai Awet dan Bisa Gaming? - Jagat Review",
+        "Lupa Cas Berhari-hari? Ini Deretan Smartphone Baterai Jumbo hingga 10.001 mAh pada 2026 - PontianakPost",
+        "Redmi Siapkan HP Layar 7 Inci Berperforma Tinggi, Usung Layar 2K dan Baterai 10.000mAh? - NusantaraTV"
+      ]
+    },
+    {
+      "topic": "kontan",
+      "headline": "10 HP Android Mid-Range dengan Skor AnTuTu Tertinggi Juni 2026 - kontan.co.id",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ2ZoNmdJMVhlR2tQV2x2TUVpT3pDYUJiemkzNGJUNlJGYlY0Y0c4V2NyY1hGcU5IcnI5Wkd5WmpKN0FJeWExb29XQnFtNnFtajktUlg5WkxubzJJcmxhbk5EQmZRdlR5R2xZeHlPZWNSbFFySF8zUWpXYTR6ejdEYVpTTXFNckkzWEcwMmlBczhDNkhpWjZUR0FR0gGXAUFVX3lxTE8yMXd3aWxYMkt0eWV2Uk0yclRVbEkxVlk5SlVncnAteHJNeUpSemtENzcyMEYtdjRTUnVLXzhPSnVqamk5QzAyTlVydVBhd3Y1VkR6MDlSS2pnRmJCd1BSTWpTRFNSbDN0RVdyV1E3d29sX2FyM2JEbU4yenV4ODF1bEhuUTljWEpoaWpVRndwdmUyODUwcEE?oc=5",
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "kontan",
+        "android",
+        "mid",
+        "range",
+        "skor",
+        "antutu"
+      ],
+      "score": 7,
+      "samples": [
+        "10 HP Android Mid-Range dengan Skor AnTuTu Tertinggi Juni 2026 - kontan.co.id",
+        "Komisi Ojol 8% Berlaku, Grab vs Gojek, Siapa yang Sesuai Aturan? - kontan.co.id"
+      ]
+    },
+    {
+      "topic": "industri",
+      "headline": "Lanskap E-Commerce Indonesia Menuntut Pelaku Industri Kreatif Terapkan Strategi Multiplatform - Kabarnusantara.id",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOczNHcm92SFBvNXhSWDFEQXFsb2FPWllSb1h0UHZlSm4xMzQ1b3BtcVFRamZaSEtSOW5kbm9TY3p2cUF5RXJVT1RodnNpVXZLZFhxMkpVdGlVczdwR3BBdmlYVnJyOWkyQTlrR1hKR2dJbTVlNmw4czhndjBvRFlPSS1EZk5mUDQ?oc=5",
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "industri",
+        "impact",
+        "thinklab",
+        "sukses",
+        "gelar",
+        "executive"
+      ],
+      "score": 7,
+      "samples": [
+        "Impact Thinklab Sukses Gelar AI Executive Forum & AI Design Thinking Masterclass, Dorong Transformasi AI bagi berbagai Industri - triaspolitika.id",
+        "Lanskap E-Commerce Indonesia Menuntut Pelaku Industri Kreatif Terapkan Strategi Multiplatform - Kabarnusantara.id"
+      ]
+    },
+    {
+      "topic": "pengguna",
+      "headline": "NVIDIA Indonesia: Pengguna Perlu Memahami Batas AI Cloud dan AI Lokal - Jawa Pos",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVhaZ3lFcDlnRXExbTZjbDlyYzNya1NxVHFxZExkbUdxWmo5TWtDNER4RlJxVWZPZnlSMnV2dkVKbkFJeTVIUmVuSjg4LWtKUUFnSzJwRU1Hby1odDlfclVSVldfWFdIXy1mN3hBSXBNV2gxOFdLZEJhYlo0Q3ZPV2VOdk5CckhFdW1kZ1pWMzF1ak1hUVdOSFV1VUsta0QzYlN5S0RfcDlNSkdGM1pIc09nT2pWbzJsRUHSAb8BQVVfeXFMTmZfM2VieHNtQ1pkcXpOWlNCTVkzTl84RjIyN1hJcVJUQ3drZ2ROMm1YVHFFdXByMml4Wm9YSFEtZFlHaFdkWDhvZV94cU1aQ282Mkp2ZEJPNXcwZ1llUC1felY5MlVrWkdKQzZqYlNZMTE5Y054WXAzb2xSWmJiU3pxaGwxN0hNX0VpVm1oMjg2eFJob1EwV0Yzam5GNXdxYkR6aTRIODhCTDVDWHppRTdsSHA4bTNxMVViTExOVVk?oc=5",
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "pengguna",
+        "nvidia",
+        "perlu",
+        "memahami",
+        "batas",
+        "cloud"
+      ],
+      "score": 7,
+      "samples": [
+        "NVIDIA Indonesia: Pengguna Perlu Memahami Batas AI Cloud dan AI Lokal - Jawa Pos",
+        "NEXT Indonesia Center Ungkap Mayoritas Pengguna Internet Hanya Berbelanja Daring - keprinews.co"
+      ]
+    },
+    {
+      "topic": "dampak",
+      "headline": "DeepSeek V4 2026: Spesifikasi, Cara Akses, dan Dampak AI China di Indonesia - Industry.co.id",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVFkSXJTVUVPRG9jSXMxaDA1RG5SemQyalp5YjRCZ1hMcC1SSXBMdm01QkhmdGx2SEllcUkwV3ZBRENSV2RtcHVpYkQ4TS1vVmd0RENpOVUxUmU3ZmhEdjhtU3pZbE1kM0NxSHNWNTZ2NFJfb2g1OXZZeGx3dmlod2lzSk5NM1YxN3dhS1BpLTB4UG40alh4RkgtUHFfTXp2S3AxSUNUeTVYM1cwWmlIbdIBtgFBVV95cUxNeGdIYzFrQ0JiQzZ1QWpwRjZ0WnVkaVhVRm5vbFNTV004bTlXYWdIQll3cHhkem5ia3UzNmExd2lvZDRmdkNFV1BJRDhPenlJclFqa3U4WDdhcm5RVG80STlmQ3ZQNTJ3TFJYbTJ6dUZJR0hkUE95aDZ2aEtyRHg4STEzOUtHV2Rwa25PR2JvSkszdkxfbVZnVUJwd09WZlMweUhBR2FIUlZEYnFTNEpUcUQ0R0JQQQ?oc=5",
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "dampak",
+        "pikiran",
+        "rakyat",
+        "jateng",
+        "deepseek",
+        "spesifikasi"
+      ],
+      "score": 7,
+      "samples": [
+        "DeepSeek V4 2026: Spesifikasi, Cara Akses, dan Dampak AI China di Indonesia - Industry.co.id",
+        "Mengintip Poster Resmi 'Akal Imitasi', Film Sci-Fi Indonesia yang Soroti Dampak AI di Sekolah Masa Depan - Pikiran Rakyat Jateng - Pikiran Rakyat Jateng"
+      ]
+    },
+    {
+      "topic": "chip",
+      "headline": "Apple Dikabarkan Ubah Desain Chip A20 Pro Demi Tingkatkan Kemampuan AI - Marketeers",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV1NLS1dOM1Z2NkxQOHBMenZ2clpLckJ3VTVzdnRPVzYzNWhubHJ4ZGdUTWtZT1lHX29Yc2daV3JRU0R4QzV4Ty1lNDhSR3JwQ2xKZE1Lb245Ukppd04yZXkyZkhoMjAybE5LYXRsODVtVFpGS2o3ODN3blFUUG5Mcklnb2VNcEtKT3d1UGFiTWtPc3Y4QnZwbElnQ1JINTg?oc=5",
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Google News (Technology)"
+      ],
+      "keywords": [
+        "chip",
+        "apple",
+        "dikabarkan",
+        "ubah",
+        "desain",
+        "a20"
+      ],
+      "score": 7,
+      "samples": [
+        "Apple Dikabarkan Ubah Desain Chip A20 Pro Demi Tingkatkan Kemampuan AI - Marketeers",
+        "Sel Manusia Kini Bisa Diprogram seperti Chip Komputer, Ini Temuan Terbaru - Telset.id"
+      ]
+    },
+    {
+      "topic": "fintech",
+      "headline": "Mengenal Fintech P2P Lending: Toko Modal, Sahabat Para Pemilik Warung - TrenAsia",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazRma3BzSFMtbHNlY3U4ZFBzQ3dsNi13ZkphQmx0eXFJdDk4T3Q2WUpUMGNKX1FicGZvNnh3a0dQOVZ1blNJN0lzOTkzbmc4ZFVyVTBUWkVvN19kclRRWXZVUVZJcXBFcUtpLXNndGU1WUJYODRiZUN3anRaV204bGdEUUFjNzM4N3dZSUU3U2p1N2w4a1JDM9IBngFBVV95cUxOYlJZR0UycHlvSGdtWkRGZEVFaTA1RVk2ZnFnaEFSZVJmU3F4bTdwRUdwdXZFQ2IxTFhOaFJwSWdYbDI3OWY3VTFRNHB0Y1E2cHBnT2FrcW5KVHd1cVpZLWxyRW0tNEdqNm9qUFc3REZBbzJ4eFNlYWxPckNPOFVrYUxsT2lXbmNWYkQtWjlXWHF1REsyeHVKT1NHb2w4UQ?oc=5",
+      "article_count": 2,
+      "source_count": 1,
+      "sources": [
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "fintech",
+        "mengenal",
+        "p2p",
+        "lending",
+        "toko",
+        "modal"
+      ],
+      "score": 7,
+      "samples": [
+        "Mengenal Fintech P2P Lending: Toko Modal, Sahabat Para Pemilik Warung - TrenAsia",
+        "IDRX Tampilkan Peran Stablecoin Rupiah dan Tokenisasi IP di acara MASA 2026 di Singapura - Dunia Fintech"
+      ]
+    }
+  ]
+}
