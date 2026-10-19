@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T04:52:12.825316+00:00",
-  "date": "2026-10-18",
+  "generated_at": "2026-10-19T05:00:29.737087+00:00",
+  "date": "2026-10-19",
   "posts": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "topic": "com",
       "headline": "Tim Sumber AI UNJA Juara 1 Jambi Spark - jamberita.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGxaSHkzNm55Qko0R2xBZE54VkczMHdLeTFERGlwdURlRF9RSHItdFZTdVFkWEtGcUN0UU5lYi1KWWtMc0RmVnVZLU1TYUlVYW9UNktfSWxlODZtY2ZFdmQxOVE4cjdFS3hvVDNlSm9lZWNtb2FhMjhUMXlmSWd6REFuZWM2WlVPUHllOGhn?oc=5",
-      "article_count": 82,
+      "article_count": 88,
       "sources": [
         "Google News (Business)",
         "Google News (Science)",
@@ -22,14 +22,14 @@
         "kompas",
         "data",
         "center",
-        "digital",
-        "rilis"
+        "galaxy",
+        "samsung"
       ],
       "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"TIM SUMBER AI UNJA JUARA 1 JAMBI SPARK\"; a smaller sub-headline below it reading \"jamberita.com\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
       "image_hook": "TIM SUMBER AI UNJA JUARA 1 JAMBI SPARK",
       "image_subtitle": "jamberita.com",
       "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nTim Sumber AI UNJA Juara 1 Jambi Spark - jamberita.com\n\nKenapa penting: kabar ini dibahas di 82 media (Google News (Business), Google News (Science), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nTim Sumber AI UNJA Juara 1 Jambi Spark - jamberita.com\n\nKenapa penting: kabar ini dibahas di 88 media (Google News (Business), Google News (Science), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
@@ -39,35 +39,34 @@
         "#Kompas",
         "#Data",
         "#Center",
-        "#Digital",
-        "#Rilis"
+        "#Galaxy",
+        "#Samsung"
       ]
     },
     {
       "rank": 2,
-      "slug": "data-center-dan-masa-depan-batam-antara-news",
+      "slug": "siasat-cegah-habisnya-air-akibat-data-center-validnews",
       "topic": "data",
-      "headline": "Data Center dan masa depan Batam - ANTARA News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nTG8xWUI4eXRHSDFrZWpIYndxZm1YeFpHQXZMeVFOTlVkN1c4eEFES3AzVmljQU9CZzZwTGRrSHp5d21sYUduRTlOWnhVbmhjRjg5TW5LdExfamRDeURuN2lkOWprVkx4NThERVJRMHhwRVBIVnNtdzFTTHNFTmPSAYIBQVVfeXFMUDhXRmJsR1REdWlWVUVjXzNGMW8wTGZkWmlsbFdRT2dram1EakV1M2ZIZkNqTE5jOFBWWm5oM3pVUjEwb3pUT2RiVEhJdUpVa05RSjZwS3NiQjlPWDVhSWg1OHNmR09ITzBHNFFRZlhEa0NfcUVTRU8zWG90b2xGVWRkdw?oc=5",
-      "article_count": 43,
+      "headline": "Siasat Cegah Habisnya Air Akibat Data Center - Validnews",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1poQlY0MnF3RFAwc2lYUG9vY3p2UWw4RjFPOVNXckhWSDh0X0lWcW9hZUFsOElfb09oRl92MXptNnJSVUVNcWNWOXBxY1NlT1VORV9aWXNLZmRtSVl0VUJ6eHJ5cElJa19VazQ0NVMtUHlwejNBaGVuTFVIanhRcHpwdjRhRVRJa1RveUlvaW9CQQ?oc=5",
+      "article_count": 39,
       "sources": [
-        "Detik Inet",
-        "Google News (Search)",
-        "Google News (Top)"
+        "Google News (Business)",
+        "Google News (Search)"
       ],
       "keywords": [
         "data",
         "center",
-        "cnbc",
-        "keamanan",
-        "air",
-        "batam"
+        "warga",
+        "tolak",
+        "meski",
+        "ditawari"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"DATA CENTER DAN MASA DEPAN BATAM\"; a smaller sub-headline below it reading \"ANTARA News\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "DATA CENTER DAN MASA DEPAN BATAM",
-      "image_subtitle": "ANTARA News",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"SIASAT CEGAH HABISNYA AIR AKIBAT DATA CENTER\"; a smaller sub-headline below it reading \"Validnews\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "SIASAT CEGAH HABISNYA AIR AKIBAT DATA CENTER",
+      "image_subtitle": "Validnews",
       "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nData Center dan masa depan Batam - ANTARA News\n\nKenapa penting: kabar ini dibahas di 43 media (Detik Inet, Google News (Search), Google News (Top)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nSiasat Cegah Habisnya Air Akibat Data Center - Validnews\n\nKenapa penting: kabar ini dibahas di 39 media (Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
@@ -76,20 +75,59 @@
         "#BeritaTeknologi",
         "#Data",
         "#Center",
-        "#Cnbc",
-        "#Keamanan",
-        "#Batam"
+        "#Warga",
+        "#Tolak",
+        "#Meski",
+        "#Ditawari"
       ]
     },
     {
       "rank": 3,
-      "slug": "rela-antre-demi-genggam-iphone-18-pro-terbaru-bloomberg-tech",
-      "topic": "iphone",
-      "headline": "Rela Antre Demi Genggam iPhone 18 Pro Terbaru - Bloomberg Technoz",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1gtSVZ2SlpaZXdpb1VmbW9hd3JKZzR2V3ZIVU1wczE3N3hPYVRuUjZuelBZMmxHVFYyNGpTa2VKU0dRNUlid09PcTk5cXVyaHpMUnpFUkF2VXhzNkNRYklicnJKQXhLV1hTU2ZqMVBzbk4yelk4ejZHd0tuUllETmQ1Nnh1NXVVRzhScGN5YUdDU1lUckxfbGNxbzQxQQ?oc=5",
-      "article_count": 25,
+      "slug": "bali-tech-week-2026-jadi-ajang-dongkrak-investasi-teknologi-",
+      "topic": "teknologi",
+      "headline": "Bali Tech Week 2026 Jadi Ajang Dongkrak Investasi Teknologi - TOPIK.ID",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRkYyTzRCNUtQWU1SbnhCOEZ1YUlVS1YwT1ZpUjR3NnZKZWRtUWYwQTVGMHBjaGJnU2dIczZoVTljYWFVMkJxMGlPR0Y3ODgyMFgwbVpNMDdiSzdCeWx5cVRONE5DRG91cnkxMVY3ZXdOZUttNVh4SHNWVWV5SnB1N1N1eWo2OW8?oc=5",
+      "article_count": 23,
       "sources": [
-        "CNBC Indonesia Tech",
+        "Detik Inet",
+        "Google News (Business)",
+        "Google News (Search)"
+      ],
+      "keywords": [
+        "teknologi",
+        "otomotif",
+        "harus",
+        "sawit",
+        "pakai",
+        "surabaya"
+      ],
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"BALI TECH WEEK 2026 JADI AJANG DONGKRAK INVESTASI TEKNOLOGI\"; a smaller sub-headline below it reading \"TOPIK.ID\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "BALI TECH WEEK 2026 JADI AJANG DONGKRAK INVESTASI TEKNOLOGI",
+      "image_subtitle": "TOPIK.ID",
+      "image_entities": [],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nBali Tech Week 2026 Jadi Ajang Dongkrak Investasi Teknologi - TOPIK.ID\n\nKenapa penting: kabar ini dibahas di 23 media (Detik Inet, Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "hashtags": [
+        "#TeknologiIndonesia",
+        "#TechIndonesia",
+        "#AIIndonesia",
+        "#StartupIndonesia",
+        "#BeritaTeknologi",
+        "#Teknologi",
+        "#Otomotif",
+        "#Harus",
+        "#Sawit",
+        "#Pakai",
+        "#Surabaya"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "stok-langka-beli-iphone-duo-wajib-pre-order-dulu-uzone-id",
+      "topic": "iphone",
+      "headline": "Stok Langka, Beli iPhone Duo Wajib Pre-order Dulu - Uzone.id",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kdmhyZ18wUVpHaVJkRUdTZ2wwajk1a1UwWndhQ0tSc3oxenZEbEhZYkl6Q0ZVVG9icEpXdjFtSkRyZm1WZVJVQzhSTlVjZEc0SXY1QndSVVZnckdCUG5sR2pwSno2Qnhkd1dnR0tCeHFvS1k?oc=5",
+      "article_count": 14,
+      "sources": [
         "Detik Inet",
         "Google News (Search)",
         "Google News (Technology)",
@@ -98,18 +136,18 @@
       "keywords": [
         "iphone",
         "pro",
-        "detikinet",
-        "max",
-        "series",
+        "duo",
+        "bundling",
+        "tahun",
         "harga"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: iPhone. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"RELA ANTRE DEMI GENGGAM IPHONE 18 PRO TERBARU\"; a smaller sub-headline below it reading \"Bloomberg Technoz\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "RELA ANTRE DEMI GENGGAM IPHONE 18 PRO TERBARU",
-      "image_subtitle": "Bloomberg Technoz",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: iPhone. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"STOK LANGKA\"; a smaller sub-headline below it reading \"Beli iPhone Duo Wajib Pre-order Dulu - Uzone.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "STOK LANGKA",
+      "image_subtitle": "Beli iPhone Duo Wajib Pre-order Dulu - Uzone.id",
       "image_entities": [
         "iPhone"
       ],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nRela Antre Demi Genggam iPhone 18 Pro Terbaru - Bloomberg Technoz\n\nKenapa penting: kabar ini dibahas di 25 media (CNBC Indonesia Tech, Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nStok Langka, Beli iPhone Duo Wajib Pre-order Dulu - Uzone.id\n\nKenapa penting: kabar ini dibahas di 14 media (Detik Inet, Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
@@ -117,78 +155,72 @@
         "#StartupIndonesia",
         "#BeritaTeknologi",
         "#Iphone",
-        "#Detikinet",
-        "#Series",
+        "#Bundling",
+        "#Tahun",
         "#Harga"
       ]
     },
     {
-      "rank": 4,
-      "slug": "fbi-bongkar-markas-teknologi-milik-korea-utara-di-as-cnbc-in",
-      "topic": "teknologi",
-      "headline": "FBI Bongkar Markas Teknologi Milik Korea Utara di AS - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlZiY1BUcTNYSkdKcmxmTlpSYU1tVk85cDFQcWFTVldLcE8zYkhhbngxWW5kQXlIaDBlTHRkeEZOV1d2MlVzWmdnRGZuMVVUSmE1MTIwSHRURHBOT2d6a1RpenNNTzRKdDl0emVuT3FQVFEzMlVWYUhGalJ0cmVITGdqR293MWtiSW5LZm1aQVFRUTBwekJNUXlmeDVTenNtNmdiQVp4MDgyOEF2Wm1uSzFR?oc=5",
-      "article_count": 21,
+      "rank": 5,
+      "slug": "daftar-harga-hp-motorola-terbaru-oktober-2026-medcom-id",
+      "topic": "oktober",
+      "headline": "Daftar Harga HP Motorola Terbaru Oktober 2026 - Medcom.id",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSVZVb0xMMHNCcVlnUWUzVC0yak5iZGhVZGV6U3JOY0x4TlpvdXh6R2hPbExiVHRTME02YjllU1UxTFN1OTQyYVI0cEZ0alpfa3FKRTBmd2R4OFRqbFF0LU03TDlmTkthYjhVSUJYRTJHSmlfUU8xWnIyX2NTSjh6UXJlVVVyd1pEWHhuVXBiZHNqbXlzN3pDSmo5azd0bkpXWFhn?oc=5",
+      "article_count": 15,
       "sources": [
-        "CNBC Indonesia Tech",
-        "Detik Inet",
-        "Google News (Search)"
+        "Google News (Search)",
+        "Google News (Technology)"
       ],
       "keywords": [
-        "teknologi",
-        "mobil",
-        "hallo",
-        "detikinet",
-        "kecerdasan",
-        "buatan"
+        "oktober",
+        "kode",
+        "promo",
+        "grab",
+        "gojek"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a glowing AI app interface on a smartphone, friendly digital-assistant motifs, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"FBI BONGKAR MARKAS TEKNOLOGI MILIK KOREA UTARA DI AS\"; a smaller sub-headline below it reading \"CNBC Indonesia\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "FBI BONGKAR MARKAS TEKNOLOGI MILIK KOREA UTARA DI AS",
-      "image_subtitle": "CNBC Indonesia",
-      "image_entities": [
-        "Indonesia"
-      ],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nFBI Bongkar Markas Teknologi Milik Korea Utara di AS - CNBC Indonesia\n\nKenapa penting: kabar ini dibahas di 21 media (CNBC Indonesia Tech, Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"DAFTAR HARGA HP MOTOROLA TERBARU OKTOBER 2026\"; a smaller sub-headline below it reading \"Medcom.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "DAFTAR HARGA HP MOTOROLA TERBARU OKTOBER 2026",
+      "image_subtitle": "Medcom.id",
+      "image_entities": [],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nDaftar Harga HP Motorola Terbaru Oktober 2026 - Medcom.id\n\nKenapa penting: kabar ini dibahas di 15 media (Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
         "#AIIndonesia",
         "#StartupIndonesia",
         "#BeritaTeknologi",
-        "#Teknologi",
-        "#Mobil",
-        "#Hallo",
-        "#Detikinet",
-        "#Kecerdasan",
-        "#Buatan"
+        "#Oktober",
+        "#Kode",
+        "#Promo",
+        "#Grab",
+        "#Gojek"
       ]
     },
     {
-      "rank": 5,
-      "slug": "saham-goto-agak-laen-investor-id",
+      "rank": 6,
+      "slug": "investor-asing-net-buy-saham-goto-saat-ihsg-anjlok-katadata-",
       "topic": "goto",
-      "headline": "Saham GOTO Agak Laen - investor.id",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lN042SWVJMmxRR3lWRmJLWXUza1VKSVJ4Q254NElfUWJLM1lCdGJwZURWWk1BQ0hXX3daSGVoYzF0QkdqTlNIVWNkcnhhSThhaHlRY2lBOGFOdzBrblNleFp1dk8?oc=5",
-      "article_count": 22,
+      "headline": "Investor Asing Net Buy Saham GOTO saat IHSG Anjlok - Katadata.co.id",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3FLZ2ExTXI2cG5nTkM3NDRIcWRoX0NfcTRPdWZPMG0xbWUxV0U1TncxbmV5SXRrTUFlbkxCSThFMGZHVTFmOXI5XzB1aEpsbWF5V0lyZFczbFZ6QW5TSXJSQkhuWFJRMWl4TE5Dem9FUnF2eU9RVm1pRll1cWtseU5PaVJmUW5fMF9nTEtlRDViWmJzcVhNNjVtbjJZTDlPNGVlbm5B0gGrAUFVX3lxTE1LM2NyWERUNFlDMzZRTkZUaElOTjVZNjlEU05sUUZ1MU9HbkVmUFNHdlVlYmJiVGt0alZNcERSWVlCSTZSR0x1bFE1TkNnNTdndWRHbkRLa3k2MW5oRlZmMDBHeVJTaEtmMjVFR1JEZjJlNGR6Yjh5MG9DM1YtU043bDZEdTV4NlFfWFlKYU1wVjY3OU9rSy0tcDVRS193eGlMTDU5ZGhpWjZ4dw?oc=5",
+      "article_count": 15,
       "sources": [
-        "Google News (Business)",
         "Google News (Search)"
       ],
       "keywords": [
         "goto",
         "saham",
-        "asing",
-        "investor",
         "miliar",
-        "persen"
+        "asing",
+        "ihsg",
+        "parameter"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: GoTo. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"SAHAM GOTO AGAK LAEN\"; a smaller sub-headline below it reading \"investor.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "SAHAM GOTO AGAK LAEN",
-      "image_subtitle": "investor.id",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: GoTo. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"INVESTOR ASING NET BUY SAHAM GOTO SAAT IHSG ANJLOK\"; a smaller sub-headline below it reading \"Katadata.co.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "INVESTOR ASING NET BUY SAHAM GOTO SAAT IHSG ANJLOK",
+      "image_subtitle": "Katadata.co.id",
       "image_entities": [
         "GoTo"
       ],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nSaham GOTO Agak Laen - investor.id\n\nKenapa penting: kabar ini dibahas di 22 media (Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nInvestor Asing Net Buy Saham GOTO saat IHSG Anjlok - Katadata.co.id\n\nKenapa penting: kabar ini dibahas di 15 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
@@ -197,45 +229,10 @@
         "#BeritaTeknologi",
         "#Goto",
         "#Saham",
-        "#Asing",
-        "#Investor",
         "#Miliar",
-        "#Persen"
-      ]
-    },
-    {
-      "rank": 6,
-      "slug": "gta-6-siap-rilis-19-november-2026-dengan-harga-mulai-rp1-190",
-      "topic": "gadget",
-      "headline": "GTA 6 Siap Rilis 19 November 2026 Dengan Harga Mulai Rp1.190.000 - gadget.qoo10.co.id",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04Z1l5RWhqbmlZMmFHazF5NGhUOG92enh0MTdkYWNhcHhkYThPSVZ6bmZDZnBwYkJMTXp1b2V1MGZFd25lRjVxaG1nczhHcHJpSWNUejlaNVRZMnNWbUM5VlFUOXVkWTMycXRGUjZ2RGZOdDdKbmFTVw?oc=5",
-      "article_count": 22,
-      "sources": [
-        "Google News (Search)"
-      ],
-      "keywords": [
-        "gadget",
-        "qoo10",
-        "rilis",
-        "gta",
-        "mulai",
-        "meski"
-      ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a new tech product revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"GTA 6 SIAP RILIS 19 NOVEMBER 2026 DENGAN HARGA\"; a smaller sub-headline below it reading \"gadget.qoo10.co.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "GTA 6 SIAP RILIS 19 NOVEMBER 2026 DENGAN HARGA",
-      "image_subtitle": "gadget.qoo10.co.id",
-      "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nGTA 6 Siap Rilis 19 November 2026 Dengan Harga Mulai Rp1.190.000 - gadget.qoo10.co.id\n\nKenapa penting: kabar ini dibahas di 22 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
-      "hashtags": [
-        "#TeknologiIndonesia",
-        "#TechIndonesia",
-        "#AIIndonesia",
-        "#StartupIndonesia",
-        "#BeritaTeknologi",
-        "#Gadget",
-        "#Qoo10",
-        "#Rilis",
-        "#Meski"
+        "#Asing",
+        "#Ihsg",
+        "#Parameter"
       ]
     },
     {
@@ -244,24 +241,25 @@
       "topic": "detikinet",
       "headline": "Tips Aman Bikin CV Pakai AI - detikInet",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NMmxzMWlLVi1CdWFTWWNHeEJtNkk1RG5iNHJqRXA2SFYwY0NwUkxlX1lxdUl2R3Zkc0drbHoxeVNWSVY1OEhrZGpqUE1mWm85YVlHbkVwWXlvUzdNN3JyTE5TNUMzVC1lNGJFZzJRNjRJNkxRMC1mU9IBfkFVX3lxTE1zdFdJUnYyVE8xR1lkSGFDQ1o1bFY5RzNjd0tKSVNhd1FrQUdKSkJOWEJqT3VKOHh4dUotM3dVdkNPN0RzR3ZjN3lWZ1RtZVpGQ2wyYUFhOUtreDhZdmVjOGhXTjJkSjQ2TWp3TXFnNTQ0SENKOXVSQUlGMlhyQQ?oc=5",
-      "article_count": 14,
+      "article_count": 10,
       "sources": [
         "Detik Inet",
-        "Google News (Search)"
+        "Google News (Business)",
+        "Google News (Top)"
       ],
       "keywords": [
         "detikinet",
-        "anak",
-        "bikin",
-        "sini",
-        "lonjakan",
-        "pemakaian"
+        "tips",
+        "pakai",
+        "tanpa",
+        "chatgpt",
+        "intip"
       ],
       "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a glowing AI app interface on a smartphone, friendly digital-assistant motifs, dramatic studio lighting, modern Indonesian tech context. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"TIPS AMAN BIKIN CV PAKAI AI\"; a smaller sub-headline below it reading \"detikInet\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
       "image_hook": "TIPS AMAN BIKIN CV PAKAI AI",
       "image_subtitle": "detikInet",
       "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nTips Aman Bikin CV Pakai AI - detikInet\n\nKenapa penting: kabar ini dibahas di 14 media (Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nTips Aman Bikin CV Pakai AI - detikInet\n\nKenapa penting: kabar ini dibahas di 10 media (Detik Inet, Google News (Business), Google News (Top)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
@@ -269,49 +267,49 @@
         "#StartupIndonesia",
         "#BeritaTeknologi",
         "#Detikinet",
-        "#Anak",
-        "#Bikin",
-        "#Sini",
-        "#Lonjakan",
-        "#Pemakaian"
+        "#Tips",
+        "#Pakai",
+        "#Tanpa",
+        "#Chatgpt",
+        "#Intip"
       ]
     },
     {
       "rank": 8,
-      "slug": "kementerian-komunikasi-dan-digital-kementerian-komunikasi-da",
-      "topic": "digital",
-      "headline": "Kementerian Komunikasi dan Digital - Kementerian Komunikasi dan Digital",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZV9hVFBNdFAtXy1ORlVjS3o5c2wtanBscGFYVTBlTVFRVFBveU90d25jNEFjTkkwcVRDUmxPd1NPUmVlLWYxNnhjcXNNVkQtMC1lb0o0WWdXbnRFVTFzVjVBd2ltRlNSbmx6T2d4VHZRZzFjMzF3RUtKMm9weVRvSnRWMHg3ZkZoVVg1Zkp0YndCNkU1UFU1dUlyekRVNEc4NXFxckFsZlBqclBTb21mMDl3U3h6aDhMb1VSZw?oc=5",
-      "article_count": 14,
+      "slug": "arti-titik-oranye-di-samsung-galaxy-watch-dan-cara-mematikan",
+      "topic": "samsung",
+      "headline": "Arti Titik Oranye di Samsung Galaxy Watch dan Cara Mematikannya - Telset.id",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXE1RVVHaDdpRkl4b2N0aEpaeEZ2ZnVkOUJMSkN4VEFIT25sNmdwLVp4SkVELU0wb2RJVkF1RW9qRGhrSzhKZEFVZWlKTzdnNEtHNnZHZHpFenMzeEk2ZVMtXzctam1tMjR1cEI3dkdfT0VGRWFKVVdzdTlVVWMtMUp5TFdEdkJqQS00ellQUnN4QQ?oc=5",
+      "article_count": 10,
       "sources": [
         "Google News (Search)",
         "Google News (Technology)"
       ],
       "keywords": [
-        "digital",
-        "siapkan",
-        "terbaik",
-        "disway",
-        "kementerian",
-        "komunikasi"
+        "samsung",
+        "galaxy",
+        "a18",
+        "resmi",
+        "harga",
+        "disway"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"KEMENTERIAN KOMUNIKASI DAN DIGITAL\"; a smaller sub-headline below it reading \"Kementerian Komunikasi dan Digital\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "KEMENTERIAN KOMUNIKASI DAN DIGITAL",
-      "image_subtitle": "Kementerian Komunikasi dan Digital",
-      "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nKementerian Komunikasi dan Digital - Kementerian Komunikasi dan Digital\n\nKenapa penting: kabar ini dibahas di 14 media (Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Samsung Galaxy. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"ARTI TITIK ORANYE DI SAMSUNG GALAXY WATCH DAN CARA\"; a smaller sub-headline below it reading \"Telset.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "ARTI TITIK ORANYE DI SAMSUNG GALAXY WATCH DAN CARA",
+      "image_subtitle": "Telset.id",
+      "image_entities": [
+        "Samsung Galaxy"
+      ],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nArti Titik Oranye di Samsung Galaxy Watch dan Cara Mematikannya - Telset.id\n\nKenapa penting: kabar ini dibahas di 10 media (Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
         "#AIIndonesia",
         "#StartupIndonesia",
         "#BeritaTeknologi",
-        "#Digital",
-        "#Siapkan",
-        "#Terbaik",
-        "#Disway",
-        "#Kementerian",
-        "#Komunikasi"
+        "#Samsung",
+        "#Galaxy",
+        "#Harga",
+        "#Disway"
       ]
     }
   ]
