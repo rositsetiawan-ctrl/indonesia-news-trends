@@ -1,26 +1,26 @@
-# 🇮🇩 Tech & AI Indonesia — Trending 2026-11-15
+# 🇮🇩 Tech & AI Indonesia — Trending 2026-11-16
 
-_Analyzed **236** articles · **27** trending stories detected._
+_Analyzed **202** articles · **24** trending stories detected._
 
 ## 🔝 Top trending keywords
 
-`com` (58), `data` (29), `teknologi` (28), `digital` (26), `siber` (25), `kompas` (24), `kompas com` (23), `detikinet` (20), `perkuat` (17), `center` (17), `data center` (17), `samsung` (16), `gadget` (15), `kecerdasan` (15), `buatan` (15), `kecerdasan buatan` (14), `cnbc` (14), `fintech` (14), `industri` (13), `keamanan` (13)
+`com` (47), `data` (32), `center` (25), `data center` (25), `teknologi` (22), `kompas` (20), `kompas com` (20), `digital` (20), `siber` (17), `samsung` (15), `detikinet` (13), `cnbc` (11), `disway` (11), `keamanan` (11), `buatan` (10), `fintech` (10), `uzone` (10), `kecerdasan` (9), `gadget` (9), `fitur` (8)
 
 ---
 
 ## 📲 Social posts (Nano Banana prompt + caption + hashtags)
 
-### 1. Waspada Spyware Menyusup di HP, Cek Segera Tanda Ini - Kompas.com
+### 1. Biar WiFi di HP Makin Kencang, Coba Pengaturan Ini - Kompas.com
 
-- **Topic anchor:** `com`  ·  **Coverage:** 58 articles  ·  **Sources:** Google News (Business), Google News (Search), Google News (Technology), Kompas Tekno
-- **Source link:** https://news.google.com/rss/articles/CBMiowFBVV95cUxQTy1zVWtNTlEzLTVXbnpXQkZQTktmcW54dGRKcklxYkI4WGNhWlg3NDRBTi03S3JCc3F1SmVKSWd6N2tjd2tzc2pkbEVycmRGMzUwTTE2N0JSRHlUYWRuQWREcTlDMy0xbzVCdnNVTU5ZT3hWSm9Qb2pPeFdja1VFakJ2UnR3dHRPTmJiYk5mbFp5Z050MjNtSWNmamtCQmF2WDZV?oc=5
+- **Topic anchor:** `com`  ·  **Coverage:** 47 articles  ·  **Sources:** Google News (Search), Google News (Technology), Google News (Top), Kompas Tekno
+- **Source link:** https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVgxZ1VJRnRpUmpGZFZ0RFdNZlJMcm9WN2dIajFwR0ZlcldfRW9IWW5TNjJzVnBMaXRVaEZJb2Zuei1heENzY0E3Y1VnT1ROM2ExNml0MzhVZVBEQjFIemxkeWY2Y21FV2daMTVhTXhSRkVaVDd1cEI5UVBRTElWb3lKUEEwLUtRVXEwclJLNF8ybzZCRFNCLVJoMnY3UTUwSEY5SmFxSzE2WVA2Qm9peW1hR1oxM2t5?oc=5
 
-**🖼️ On-image header:** `WASPADA SPYWARE MENYUSUP DI HP`  ·  **Sub:** Cek Segera Tanda Ini - Kompas.com
+**🖼️ On-image header:** `BIAR WIFI DI HP MAKIN KENCANG`  ·  **Sub:** Coba Pengaturan Ini - Kompas.com
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "WASPADA SPYWARE MENYUSUP DI HP"; a smaller sub-headline below it reading "Cek Segera Tanda Ini - Kompas.com". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: an Indonesian digital-policy scene: an official government podium with the red-and-white Indonesian flag, holographic regulation and data-shield motifs, formal press-conference atmosphere. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "BIAR WIFI DI HP MAKIN KENCANG"; a smaller sub-headline below it reading "Coba Pengaturan Ini - Kompas.com". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -28,30 +28,30 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-Waspada Spyware Menyusup di HP, Cek Segera Tanda Ini - Kompas.com
+Biar WiFi di HP Makin Kencang, Coba Pengaturan Ini - Kompas.com
 
-Kenapa penting: kabar ini dibahas di 58 media (Google News (Business), Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 47 media (Google News (Search), Google News (Technology), Google News (Top)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Kompas #Digital #Kompasiana #Siber #Kecerdasan
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Kompas #Kumparan #Data #Kecerdasan #Buatan
 
 ---
 
-### 2. AI Bisa Salah Ambil Keputusan Gegara Data Kedaluwarsa - detikInet
+### 2. Perpres Data Center - Ibukotakini
 
-- **Topic anchor:** `data`  ·  **Coverage:** 25 articles  ·  **Sources:** CNBC Indonesia Tech, Detik Inet, Google News (Search), Uzone
-- **Source link:** https://news.google.com/rss/articles/CBMimwFBVV95cUxPNTZNNHhPbEhlaTVnMVdkXzlZSnFFYk42amxiVEp5cHZjcGdQYXQteko0RkpVTzVsTUprZnZGM0s4Y3NIWVZhT3V6dWJYYTRVOTF1ZjVOa04wVFRNeEhybGJwUnQ4TkhyLVg5aGVWbFozeWI0Z1p5RUF2QjEyQlVfdVRCWk9lSDhWaWtxMGVMaTFQVnppTHZKYmk0VdIBoAFBVV95cUxOeHZnMktWT0ZRTU1HS2pweUZLRU56M0ozai0tUm9jR3dhUnZDUl8zWXpMNF9FT2lpeUtnb0R2bTMwM0NQS000Wl9nQU5oVVdoc18td3hGTTROaUVwMkdzbFJxSlRKQ1dxWUVjaG1lejZ1dzZnX19EN3FBZl9oSUhwZy1uQ2ZuOGJfa1JZaHE4NF9iZFFLS3JPTVRpT29SQnFT?oc=5
+- **Topic anchor:** `data`  ·  **Coverage:** 25 articles  ·  **Sources:** Detik Inet, Google News (Search), Uzone
+- **Source link:** https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZYTNtQWpkVi1aZjBKUXdTYTR1SVVfSlBRcGJNYkU2UjI3NmhkaXU5ZVF5SXVxTFJSNlp4SF94bE5LUHh5ZTNneDhnaGRtamRVOGg0QWNxQUkwdkU?oc=5
 
-**🖼️ On-image header:** `AI BISA SALAH AMBIL KEPUTUSAN GEGARA DATA KEDALUWARSA`  ·  **Sub:** detikInet
+**🖼️ On-image header:** `PERPRES DATA CENTER`  ·  **Sub:** Ibukotakini
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "AI BISA SALAH AMBIL KEPUTUSAN GEGARA DATA KEDALUWARSA"; a smaller sub-headline below it reading "detikInet". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "PERPRES DATA CENTER"; a smaller sub-headline below it reading "Ibukotakini". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -59,30 +59,30 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-AI Bisa Salah Ambil Keputusan Gegara Data Kedaluwarsa - detikInet
+Perpres Data Center - Ibukotakini
 
-Kenapa penting: kabar ini dibahas di 25 media (CNBC Indonesia Tech, Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 25 media (Detik Inet, Google News (Search), Uzone) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Data #Center #Uptime #Institute #Cnbc
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Data #Center #Coin #Miliar #Saham #Perusahaan
 
 ---
 
-### 3. Kejatuhan Jensen Huang Hancurkan Mitos CEO Teknologi - detikInet
+### 3. ​MG Siapkan 3 Mobil Baru pada 2027, Ada Teknologi Baru? - Medcom.id
 
-- **Topic anchor:** `teknologi`  ·  **Coverage:** 20 articles  ·  **Sources:** CNBC Indonesia Tech, Detik Inet, Google News (Search), Google News (Technology)
-- **Source link:** https://news.google.com/rss/articles/CBMimgFBVV95cUxQQko1dFVQNnZQM0hoTkNNTGZaM0ZYMk9nOGFtZnNKZkpJSTZRQzFjSlRfb0t1VUR2UWxHTFZLZ0xHMlo1WXNpNEhubml1T3JhZkEtRER6QmVTRFpPYVN0cnJRb2hsc2xsVlcyWmtxYjFhSTR1ZDJ4Q05uMVVva3lyV19qVHBaT19wWEpxVlVGLUNtaEd4NUNNUW9R0gGfAUFVX3lxTE5leFVxRGhsRmZxWVdLWllvcnplSlVEdGFnaWlmaVJJbkRzSVBZbkh0dHY4QnEwMGlLZ3ZQODRaaTNNRWxjX0RtTmVQVFVzZGlDaXFMalVzUGpMaE05LVVlSmR6R3ZUb3prYjJlWDRxSElyMXZLY2pmbENWVjlBbm9TRzR4U0M2RHdQT054UHlRTU9vY2ZQb0lqV29aOVpYVQ?oc=5
+- **Topic anchor:** `teknologi`  ·  **Coverage:** 18 articles  ·  **Sources:** CNBC Indonesia Tech, Google News (Business), Google News (Search), Google News (Technology), Uzone
+- **Source link:** https://news.google.com/rss/articles/CBMinwFBVV95cUxQenBKRkd3SFl1M1ZCRzhfOEtaUmhSdzBWQlFBMkJOSjMtZ2EwNDJBZlFMdGNuaEhCQUhQb0RySVVXczg2VkpSRGV6NnNWNE9rb2h5cnVkczMxR2JqYzRlY2JGRTF0YWgtWlA0NDdnNDhMN0lWSDNPZVF2TjRuSllobE1EQ0xKbVNpQWR6aDN2cWVzOFExQmhqVGRuSXpvYkU?oc=5
 
-**🖼️ On-image header:** `KEJATUHAN JENSEN HUANG HANCURKAN MITOS CEO TEKNOLOGI`  ·  **Sub:** detikInet
+**🖼️ On-image header:** `​MG SIAPKAN 3 MOBIL BARU PADA 2027`  ·  **Sub:** Ada Teknologi Baru? - Medcom.id
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "KEJATUHAN JENSEN HUANG HANCURKAN MITOS CEO TEKNOLOGI"; a smaller sub-headline below it reading "detikInet". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "​MG SIAPKAN 3 MOBIL BARU PADA 2027"; a smaller sub-headline below it reading "Ada Teknologi Baru? - Medcom.id". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -90,53 +90,22 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-Kejatuhan Jensen Huang Hancurkan Mitos CEO Teknologi - detikInet
+​MG Siapkan 3 Mobil Baru pada 2027, Ada Teknologi Baru? - Medcom.id
 
-Kenapa penting: kabar ini dibahas di 20 media (CNBC Indonesia Tech, Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
-
-Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
-```
-
-**#️⃣ Hashtags**
-
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Teknologi #Kamera #Disway #Industri #Cnbc #Gadget
-
----
-
-### 4. OJK Luncurkan Pedoman Keamanan Siber Fintech Lending - SuaraGarut.ID
-
-- **Topic anchor:** `siber`  ·  **Coverage:** 15 articles  ·  **Sources:** DailySocial, Google News (Business), Google News (Search), Uzone
-- **Source link:** https://news.google.com/rss/articles/CBMickFVX3lxTE9ZREV2Z2U3OWJzS3VSWUhoM2hVY1hLSnctYmhWVnRkUDc2Zll2YWRaeUZRSEpoQmFzeWpiS1pYUVVRSFNtN1lsbGZYdl82VmdNTXo0Q1Y2TTczWFJ6eXRiRFFZQmQtUXhfYmY4STZpZlV2QQ?oc=5
-
-**🖼️ On-image header:** `OJK LUNCURKAN PEDOMAN KEAMANAN SIBER FINTECH LENDING`  ·  **Sub:** SuaraGarut.ID
-
-**🎨 Nano Banana image prompt**
-
-```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a dramatic cybersecurity breach scene: a hooded hacker silhouette facing glowing screens of code, red alert warnings, a cracked digital padlock, dark high-tension control-room lighting. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "OJK LUNCURKAN PEDOMAN KEAMANAN SIBER FINTECH LENDING"; a smaller sub-headline below it reading "SuaraGarut.ID". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
-```
-
-**✍️ Caption**
-
-```text
-🚨 KABAR TEKNO INDONESIA
-
-OJK Luncurkan Pedoman Keamanan Siber Fintech Lending - SuaraGarut.ID
-
-Kenapa penting: kabar ini dibahas di 15 media (DailySocial, Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 18 media (CNBC Indonesia Tech, Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Siber #Keamanan #Serangan #Pedoman #Ketahanan #Fintech
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Teknologi #Cnbc #Pertamina #Flash #Mesin
 
 ---
 
-### 5. Ekosistem Keuangan Digital Harus Perkuat Kolaborasi - investor.id
+### 4. Ekosistem Keuangan Digital Harus Perkuat Kolaborasi - investor.id
 
-- **Topic anchor:** `digital`  ·  **Coverage:** 15 articles  ·  **Sources:** Detik Inet, Google News (Search)
+- **Topic anchor:** `digital`  ·  **Coverage:** 14 articles  ·  **Sources:** Detik Inet, Google News (Search)
 - **Source link:** https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlFqZldOWTkyZjVJSEZCVzBFMV9MV001S1k3S0h5bnNTTXl6OW9VeU8yQlJPQWFFNk56OGt3U3h5VjBDLWk4ekdqaWQydG5HbUZMWF9Gbk5wUzF3WDBOSXNBVElhcGpYSnJLZGtHOXhFOEFObEVGODFuQ0VIRXhZR2tBVE9IUEJ4bVVtQ0xmbw?oc=5
 
 **🖼️ On-image header:** `EKOSISTEM KEUANGAN DIGITAL HARUS PERKUAT KOLABORASI`  ·  **Sub:** investor.id
@@ -154,28 +123,28 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 
 Ekosistem Keuangan Digital Harus Perkuat Kolaborasi - investor.id
 
-Kenapa penting: kabar ini dibahas di 15 media (Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 14 media (Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Digital #Infrastruktur #Detikinet #Media #Ekosistem #Keuangan
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Digital #Bewara #Infrastruktur #Detikinet #Penipuan #Global
 
 ---
 
-### 6. Microsoft Mau Sewa Komputer Nganggur untuk Latih AI - detikInet
+### 5. BSSN jelaskan arti 1,6 juta ancaman siber di Indonesia - IDNFinancials
 
-- **Topic anchor:** `detikinet`  ·  **Coverage:** 12 articles  ·  **Sources:** Detik Inet, Google News (Technology)
-- **Source link:** https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3pNdVBBclBPdmUyek9zWkxKRlJmS1c0NzU5d080S1FDQ0tkQWFOeHVXSFNGNFpGbUlRdHZheUZ6YjI5RWZHTnY4dUE3Y1JhU3FOZWhyVHRqS09YdnM0eUpjdHdvQkItUmp5eXQxWnRGaklKalAtaTg1QmMyZlVYRXZrRHgwakRNMlhkaUJxVVFzT1l5N3NTVdIBngFBVV95cUxOdDhKcWdWVmxvWm13Sm5YQmpiaU02c1JpYTlpWHltSk9TZkRIWjZMT2lBUnNFa3dBNldZRGdXek4yVURicEJyWmozZ1g0NTdEU0cwQlp5X2pSajl6ek1STnJzTjZVcGtpaWhiY09CUzE1T0tnVGg0OHMzRGdnLVVCaC1CLW4zMXgzbXhNelV0VTd2NWpxSm8wWEFLYWM0dw?oc=5
+- **Topic anchor:** `siber`  ·  **Coverage:** 12 articles  ·  **Sources:** Google News (Search), Uzone
+- **Source link:** https://news.google.com/rss/articles/CBMinwFBVV95cUxNd21sWHZneGNDbXhFNk53b19BakJnRmRFSlpPbjlJZ0FkOHhNYUJLclRoOGRJUkpPYm1JZHVIVUNDbmZRb2hsd01VWHdLRmZuOVRLcHV1dGh4Z3lRQnFBN1dMUGtnMGFkeU5qRkxVZ1NybHpwdFJZUUc4VElkdmxLMVN3NG9YWVAxbllScWx4cWNXeG5maU5WV1kxQWx5Zm8?oc=5
 
-**🖼️ On-image header:** `MICROSOFT MAU SEWA KOMPUTER NGANGGUR UNTUK LATIH AI`  ·  **Sub:** detikInet  ·  **Featured:** Microsoft
+**🖼️ On-image header:** `BSSN JELASKAN ARTI 1,6 JUTA ANCAMAN SIBER DI INDONESIA`  ·  **Sub:** IDNFinancials  ·  **Featured:** Indonesia
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Microsoft. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "MICROSOFT MAU SEWA KOMPUTER NGANGGUR UNTUK LATIH AI"; a smaller sub-headline below it reading "detikInet". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "BSSN JELASKAN ARTI 1,6 JUTA ANCAMAN SIBER DI INDONESIA"; a smaller sub-headline below it reading "IDNFinancials". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -183,30 +152,30 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-Microsoft Mau Sewa Komputer Nganggur untuk Latih AI - detikInet
+BSSN jelaskan arti 1,6 juta ancaman siber di Indonesia - IDNFinancials
 
-Kenapa penting: kabar ini dibahas di 12 media (Detik Inet, Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 12 media (Google News (Search), Uzone) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Detikinet #Internet #Samsung #Ungkap #Masa #Depan
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Siber #Keamanan #Serangan #Ketahanan #Yogyakarta #Ancaman
 
 ---
 
-### 7. Samsung Optimistis Pasar Tablet Premium Indonesia Tumbuh - Koridor.co.id
+### 6. Samsung Ungkap Masa Depan Tablet Premium di Indonesia - detikInet
 
-- **Topic anchor:** `samsung`  ·  **Coverage:** 10 articles  ·  **Sources:** Google News (Search), Google News (Technology)
-- **Source link:** https://news.google.com/rss/articles/CBMibEFVX3lxTE5SYnk1UUl4MHNtNEFpd1ZtVTFTUURSdFc2YjhfMDV6bEtHTUtqUDR2TkwyUGVGRjVEaFdTdEFHUnVPUUJTTFV2TXVzQXNCZlZPX1REZDNiU3NZdi1QUzhua08tZ0JNWXQ5NGhzOQ?oc=5
+- **Topic anchor:** `samsung`  ·  **Coverage:** 9 articles  ·  **Sources:** Detik Inet, Google News (Search), Google News (Technology), Uzone
+- **Source link:** https://news.google.com/rss/articles/CBMimwFBVV95cUxQTDlBaHdQc19HZUV2TUtFWEJEbUVnZXdKaFBVZFREZmpVVHFDdzhoU2RReWZObUNvWnAtdG04YWphM2t1elBSOHZMTnhOWmxGczl2cVdLbE5wUnlBc3ZvVkxMWHNIWUlQVEE5WGo5NTdiajlYelpkS2lJZVhOaF9abUFpNGVuZDh2VEpiT19TeDZZN3E1SWppUkJ4RdIBoAFBVV95cUxPUzktOVpyQlRmWi00VTlHcGFxaWNZT1d1N0g4U18zSTFTUUZTQnN4Y29oM3FrWXdnOWZTMVNCeUFPZVVYWEVtYWw5OTNIbEpRVlZmSWQ3dnNWb2F1azczREYxQTkxRHhqLTRCV2kwR3B6aHJpdUJJQVVBVGtJN0M2Y0llRGRjM2FNbU9NTUc2ZWtmLUdfOEtRUFFCXzNYaDBI?oc=5
 
-**🖼️ On-image header:** `SAMSUNG OPTIMISTIS PASAR TABLET PREMIUM INDONESIA TUMBUH`  ·  **Sub:** Koridor.co.id  ·  **Featured:** Samsung, Indonesia
+**🖼️ On-image header:** `SAMSUNG UNGKAP MASA DEPAN TABLET PREMIUM DI INDONESIA`  ·  **Sub:** detikInet  ·  **Featured:** Samsung, Indonesia
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Samsung, Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "SAMSUNG OPTIMISTIS PASAR TABLET PREMIUM INDONESIA TUMBUH"; a smaller sub-headline below it reading "Koridor.co.id". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Samsung, Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "SAMSUNG UNGKAP MASA DEPAN TABLET PREMIUM DI INDONESIA"; a smaller sub-headline below it reading "detikInet". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -214,30 +183,30 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-Samsung Optimistis Pasar Tablet Premium Indonesia Tumbuh - Koridor.co.id
+Samsung Ungkap Masa Depan Tablet Premium di Indonesia - detikInet
 
-Kenapa penting: kabar ini dibahas di 10 media (Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 9 media (Detik Inet, Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Samsung #Galaxy #Pasar #Optimistis #Tablet
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Samsung #Disway #Galaxy #Https #Terhubung #Sumeks
 
 ---
 
-### 8. Ini 4 Fitur Baru Yang Ada di HUAWEI WATCH D3! - Jagat Gadget
+### 7. Cisco Integrasikan Claude Mythos ke AI Defense - detikInet
 
-- **Topic anchor:** `gadget`  ·  **Coverage:** 9 articles  ·  **Sources:** Google News (Search)
-- **Source link:** https://news.google.com/rss/articles/CBMifEFVX3lxTE9aNnhtbzU4U213STBIdy14VGM4YjVGMUtwRjFrUFM3dHBXMGRQeVRaeU44dVp1V0h5Y19jaTdmOXFGc1BZNnM0a01lbjdCbE5oWUdSbWtDYTR2Qjc0VXlEaFlKMTctMVRuZGNNQjc2X2NhWkNzWWFXMlJoMTc?oc=5
+- **Topic anchor:** `detikinet`  ·  **Coverage:** 6 articles  ·  **Sources:** Detik Inet, Google News (Search), Google News (Technology)
+- **Source link:** https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjNIeUxoVWpXeDBlTC1GYTNhdTNkbFA0d01QLUJlYVQ0akU1Y084OTIzYXY0b2NFZHcwZ2pQSjdFQmNmWUlRRlNiZWEwOUZJNHRBU3Fqd1VLSDdOa1ZuRU5tZ2VORGdLTUEtWllYamlDU00ybUltZ0pNaHFRNVBIMHJ2RHZheHRYc2hXT2ZiX0Nmd9IBlwFBVV95cUxQb1hfeTVqUkhRRjJIQWV6S0ltT2x0UEljREpxWEhIdUUyeU81SG8xV2toR1dNMGF4LVpQVXNaMW9HV0ZXOHM5V2RXWkFCMTltRTV2VjlLNG8wSWFmOWh6MGtiV0YwVjUta0pDRGpmV0dCc0F6MjFXVUp1eFMwbmlDeGJwRXFLU2lIdTQ0RUpGa29RUWVPVnJv?oc=5
 
-**🖼️ On-image header:** `INI 4 FITUR BARU YANG ADA DI HUAWEI WATCH`  ·  **Sub:** Jagat Gadget  ·  **Featured:** Huawei
+**🖼️ On-image header:** `CISCO INTEGRASIKAN CLAUDE MYTHOS KE AI DEFENSE`  ·  **Sub:** detikInet  ·  **Featured:** Claude AI
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a glowing AI app interface on a smartphone, friendly digital-assistant motifs revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Huawei. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "INI 4 FITUR BARU YANG ADA DI HUAWEI WATCH"; a smaller sub-headline below it reading "Jagat Gadget". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a tech partnership concept: two business figures shaking hands, glowing network lines connecting two platforms, collaborative optimistic mood. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Claude AI. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "CISCO INTEGRASIKAN CLAUDE MYTHOS KE AI DEFENSE"; a smaller sub-headline below it reading "detikInet". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -245,15 +214,46 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-Ini 4 Fitur Baru Yang Ada di HUAWEI WATCH D3! - Jagat Gadget
+Cisco Integrasikan Claude Mythos ke AI Defense - detikInet
 
-Kenapa penting: kabar ini dibahas di 9 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 6 media (Detik Inet, Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Gadget #Rilis #Jagat #Huawei #Watch
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Detikinet #Xiaomi #Kebagian #Hyperos #Termasuk
+
+---
+
+### 8. DJI Siapkan Osmo 360 Air, Versi Lebih Ringkas dan Ringan? - Jagat Gadget
+
+- **Topic anchor:** `gadget`  ·  **Coverage:** 8 articles  ·  **Sources:** Google News (Search)
+- **Source link:** https://news.google.com/rss/articles/CBMickFVX3lxTE1jUnpnU1liaFpoNmJQLVpmLTNCSkR3VzdtQXBRcGluc1dFVUhySi1UT25YNHFaZUxHRXBfdlhpZXVhNUNlSjA3ZGRydmZQNzQ2bm5MQ18walE3blFtdi1UQ0QtX2RyUFRZcjJRdmNBYWl3dw?oc=5
+
+**🖼️ On-image header:** `DJI SIAPKAN OSMO 360 AIR`  ·  **Sub:** Versi Lebih Ringkas dan Ringan? - Jagat Gadget
+
+**🎨 Nano Banana image prompt**
+
+```text
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a new tech product revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "DJI SIAPKAN OSMO 360 AIR"; a smaller sub-headline below it reading "Versi Lebih Ringkas dan Ringan? - Jagat Gadget". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+```
+
+**✍️ Caption**
+
+```text
+🚨 KABAR TEKNO INDONESIA
+
+DJI Siapkan Osmo 360 Air, Versi Lebih Ringkas dan Ringan? - Jagat Gadget
+
+Kenapa penting: kabar ini dibahas di 8 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+
+Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
+```
+
+**#️⃣ Hashtags**
+
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Gadget #Qoo10 #Huawei #Rilis #Jagat #Watch
 
 ---
