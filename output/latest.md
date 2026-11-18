@@ -1,26 +1,26 @@
-# 🇮🇩 Tech & AI Indonesia — Trending 2026-11-17
+# 🇮🇩 Tech & AI Indonesia — Trending 2026-11-18
 
-_Analyzed **190** articles · **15** trending stories detected._
+_Analyzed **301** articles · **23** trending stories detected._
 
 ## 🔝 Top trending keywords
 
-`com` (48), `data` (35), `kompas` (30), `kompas com` (30), `goto` (30), `saham` (23), `center` (21), `data center` (21), `fintech` (20), `siber` (19), `chip` (18), `cnbc` (15), `baru` (15), `teknologi` (14), `perusahaan` (14), `samsung` (13), `juta` (13), `lending` (13), `harga` (12), `saham goto` (12)
+`com` (51), `chip` (47), `goto` (39), `data` (35), `kompas` (30), `rilis` (29), `kompas com` (28), `saham` (28), `gadget` (27), `nvidia` (25), `qoo10` (25), `gadget qoo10` (25), `ekspor` (22), `teknologi` (21), `cnbc` (21), `fintech` (20), `center` (19), `data center` (19), `siber` (17), `ekspor chip` (17)
 
 ---
 
 ## 📲 Social posts (Nano Banana prompt + caption + hashtags)
 
-### 1. GOTO Pacu Kebangkitan Saham Teknologi - Bisnis.com - Foto
+### 1. iPhone Duo Akhirnya Bisa Dibuka Pakai Wajah - Kompas.com
 
-- **Topic anchor:** `com`  ·  **Coverage:** 48 articles  ·  **Sources:** Google News (Business), Google News (Search), Google News (Technology), Kompas Tekno, Kumparan Tech
-- **Source link:** https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb3BTMnRzNmZDUlp3SmhYVVdqRld1N0ZNN21iOU1hLWhGdkFkdzkyMWwtVEhWcTF3dWhUUGVqTU0ybk9MbXZpeWx2WF9tVHVXOTVnYTZIM09aeXpTRmhWUC1haDJRcm8wb1d6dFNLNFMwQ1FPUENjLVduak10eVlxOVZhS0xFdjVVRFJB?oc=5
+- **Topic anchor:** `com`  ·  **Coverage:** 51 articles  ·  **Sources:** Google News (Business), Google News (Search), Google News (Technology), Kompas Tekno, Kumparan Tech
+- **Source link:** https://news.google.com/rss/articles/CBMimAFBVV95cUxPU1J6aWI4SFo4bDNmZzlEUkJNTU1mUVpRY3ctYUk0MkNFcU42bnZ1ZnFlbW1qd0otM19fRFRIV2hpdDdkMEM5SlhrcS1xXzZINVRQMHhudnNnMklObHA5NTh3UDJsTHl6WGExVUxpTGZNNWpJVlRlYVBPbGVUWGY4Y1pDVlZpNWY1YkVmOG00aGRvY0dXTU03RQ?oc=5
 
-**🖼️ On-image header:** `GOTO PACU KEBANGKITAN SAHAM TEKNOLOGI`  ·  **Sub:** Bisnis.com - Foto  ·  **Featured:** GoTo
+**🖼️ On-image header:** `IPHONE DUO AKHIRNYA BISA DIBUKA PAKAI WAJAH`  ·  **Sub:** Kompas.com  ·  **Featured:** iPhone
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: GoTo. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "GOTO PACU KEBANGKITAN SAHAM TEKNOLOGI"; a smaller sub-headline below it reading "Bisnis.com - Foto". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: iPhone. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "IPHONE DUO AKHIRNYA BISA DIBUKA PAKAI WAJAH"; a smaller sub-headline below it reading "Kompas.com". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -28,30 +28,30 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-GOTO Pacu Kebangkitan Saham Teknologi - Bisnis.com - Foto
+iPhone Duo Akhirnya Bisa Dibuka Pakai Wajah - Kompas.com
 
-Kenapa penting: kabar ini dibahas di 48 media (Google News (Business), Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 51 media (Google News (Business), Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Kompas #Chip #Data #Samsung #Teknologi
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Kompas #Chip #Nvidia #Saham #Bisnis
 
 ---
 
-### 2. COIN Caplok Saham Perusahaan Data Center - investor.id
+### 2. AS Batasi Ekspor Chip AI Canggih ke Indonesia - cwibc.co.id
 
-- **Topic anchor:** `data`  ·  **Coverage:** 28 articles  ·  **Sources:** CNBC Indonesia Tech, Google News (Search), Google News (Top)
-- **Source link:** https://news.google.com/rss/articles/CBMif0FVX3lxTFB6cUhSeWdjNmRyUU9EYjhJbDRSQjVQNUN2RWRXYWlfUUJMTVMySmVxVkZ4WnNrR0psZFk0dFllMFV5a2ZxOXdwQXVkOGg0N3dHNXJ1a2d4SlRvLVN1Q0xhaC1OOVJOeTdaLUdxbklqamt3dGVtbENYcnJ2OFRHTEU?oc=5
+- **Topic anchor:** `chip`  ·  **Coverage:** 33 articles  ·  **Sources:** CNBC Indonesia Tech, Detik Inet, Google News (Search), Google News (Technology), Uzone
+- **Source link:** https://news.google.com/rss/articles/CBMic0FVX3lxTE40Ul9mUkxEM0VFSGFYLXdTaGE3QTlfQXVqaXFlWGRsNFBLQl9fM3JqMU5hN212dWRYQUMtckxhQUpkYjdwTE9BUjlFb2xxT0Vzekh2OTFhZjZCeGtQWjJ4eWdpSjJ0NUU4ZTFMY2pxNkxIYzg?oc=5
 
-**🖼️ On-image header:** `COIN CAPLOK SAHAM PERUSAHAAN DATA CENTER`  ·  **Sub:** investor.id
+**🖼️ On-image header:** `AS BATASI EKSPOR CHIP AI CANGGIH KE INDONESIA`  ·  **Sub:** cwibc.co.id  ·  **Featured:** Indonesia
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "COIN CAPLOK SAHAM PERUSAHAAN DATA CENTER"; a smaller sub-headline below it reading "investor.id". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: an Indonesian digital-policy scene: an official government podium with the red-and-white Indonesian flag, holographic regulation and data-shield motifs, formal press-conference atmosphere. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "AS BATASI EKSPOR CHIP AI CANGGIH KE INDONESIA"; a smaller sub-headline below it reading "cwibc.co.id". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -59,22 +59,22 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-COIN Caplok Saham Perusahaan Data Center - investor.id
+AS Batasi Ekspor Chip AI Canggih ke Indonesia - cwibc.co.id
 
-Kenapa penting: kabar ini dibahas di 28 media (CNBC Indonesia Tech, Google News (Search), Google News (Top)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 33 media (CNBC Indonesia Tech, Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Data #Center #Coin #Saham #Investasi #Perusahaan
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Chip #Ekspor #Nvidia #Perketat #Negara
 
 ---
 
 ### 3. Pengumuman Terbaru dari GOTO - investor.id
 
-- **Topic anchor:** `goto`  ·  **Coverage:** 25 articles  ·  **Sources:** Google News (Search)
+- **Topic anchor:** `goto`  ·  **Coverage:** 34 articles  ·  **Sources:** Google News (Search)
 - **Source link:** https://news.google.com/rss/articles/CBMib0FVX3lxTE51eWxhbGQ5d09DWDI1MElFZ3BNYm5oUEFvY2d6SndJYTg2Wk9KN1hSdUtERmU5SkZudGc3dy1KdXlxMVI5MHU0dTRIaGVRVEdPbkloc0lBb0sxeldyOU5QSV9tbFlOQ3JjR3k0U2JsZw?oc=5
 
 **🖼️ On-image header:** `PENGUMUMAN TERBARU DARI GOTO`  ·  **Sub:** investor.id  ·  **Featured:** GoTo
@@ -92,28 +92,28 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 
 Pengumuman Terbaru dari GOTO - investor.id
 
-Kenapa penting: kabar ini dibahas di 25 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 34 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Goto #Saham #Ihsg #Harga #Menguat #November
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Goto #Saham #Harga #Ihsg #Menguat #Lq45
 
 ---
 
-### 4. OJK Catat Pendanaan Fintech Luar Negeri Rp 15,29 Triliun - bsinews.id
+### 4. Digital Realty Siapkan Ekspansi Data Center Indonesia - Medcom.id
 
-- **Topic anchor:** `fintech`  ·  **Coverage:** 19 articles  ·  **Sources:** Google News (Search)
-- **Source link:** https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NUGlMY3BtZjg5Vk9qMEV6cDlQN0hyaHZFNDIxZUEzTE5LSVVUNTN3MUI4dkprMllMSUdWdFQ0XzJHTkFwM0prREViQU1nczBzZC14QWF6T0c0TFIzRmR6WENn?oc=5
+- **Topic anchor:** `data`  ·  **Coverage:** 28 articles  ·  **Sources:** CNBC Indonesia Tech, Google News (Business), Google News (Search), Google News (Technology), Uzone
+- **Source link:** https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2NUeUhNZldNZ3F1eV96b0FhZ3FoRmRaMkJDcVBfUlZQOUZycWpsUkx3QlhjRFRjemg2Vy10WWxYZy1RWXg0M2RCTFdOMzVVSTJGc2F2dmh5cE1GQ2Z4UTh5bUxRa0QydHFlWFdXTVlWMVJucnJIRGdzRVNJMVZPZEUwWC0tclY4T3ZPVHdETUVKbXBRak1fLXdYRFFqY1VyeW1GMlR1WHlwYVlhd3c?oc=5
 
-**🖼️ On-image header:** `OJK CATAT PENDANAAN FINTECH LUAR NEGERI RP 15,29 TRILIUN`  ·  **Sub:** bsinews.id
+**🖼️ On-image header:** `DIGITAL REALTY SIAPKAN EKSPANSI DATA CENTER INDONESIA`  ·  **Sub:** Medcom.id  ·  **Featured:** Indonesia
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "OJK CATAT PENDANAAN FINTECH LUAR NEGERI RP 15,29 TRILIUN"; a smaller sub-headline below it reading "bsinews.id". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a grand-opening / expansion scene: a sleek modern corporate tech headquarters in Jakarta's business district at golden hour, ribbon-cutting atmosphere, optimistic and premium. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "DIGITAL REALTY SIAPKAN EKSPANSI DATA CENTER INDONESIA"; a smaller sub-headline below it reading "Medcom.id". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -121,7 +121,69 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-OJK Catat Pendanaan Fintech Luar Negeri Rp 15,29 Triliun - bsinews.id
+Digital Realty Siapkan Ekspansi Data Center Indonesia - Medcom.id
+
+Kenapa penting: kabar ini dibahas di 28 media (CNBC Indonesia Tech, Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+
+Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
+```
+
+**#️⃣ Hashtags**
+
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Data #Center #Kontan #Cnbc #Proyek
+
+---
+
+### 5. PUBG Mobile Flash Rilis, HP Kentang RAM 2 GB Bisa Ikut Mabar - Uzone.id
+
+- **Topic anchor:** `rilis`  ·  **Coverage:** 26 articles  ·  **Sources:** Google News (Search), Uzone
+- **Source link:** https://news.google.com/rss/articles/CBMiggFBVV95cUxObG5mNVFJbHZjd3lfMFdHdkk0ZWc3MTBoMVVBTDZuTi02UDkyZEx2eWJuSkVpLVpDMEhhQjctSXRramNNWHRwaWVmQ1VKTUk5U1lSV3NTbm1RVUsxN1RYTml6TDVNbDdIR1hKUkpxRmh6THkzcTZ3N0plTEdxZUNOdE5R?oc=5
+
+**🖼️ On-image header:** `PUBG MOBILE FLASH RILIS`  ·  **Sub:** Produk teknologi terbaru resmi hadir
+
+**🎨 Nano Banana image prompt**
+
+```text
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a premium flagship smartphone revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "PUBG MOBILE FLASH RILIS"; a smaller sub-headline below it reading "Produk teknologi terbaru resmi hadir". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+```
+
+**✍️ Caption**
+
+```text
+🚨 KABAR TEKNO INDONESIA
+
+PUBG Mobile Flash Rilis, HP Kentang RAM 2 GB Bisa Ikut Mabar - Uzone.id
+
+Kenapa penting: kabar ini dibahas di 26 media (Google News (Search), Uzone) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+
+Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
+```
+
+**#️⃣ Hashtags**
+
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Rilis #Gadget #Qoo10 #November #Xiaomi
+
+---
+
+### 6. Bank Salurkan Rp 71,58 Triliun ke Fintech Lending - SuaraGarut.ID
+
+- **Topic anchor:** `fintech`  ·  **Coverage:** 19 articles  ·  **Sources:** Google News (Search)
+- **Source link:** https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4WXk2bzBTVzFvUGRiMVdteGV0SkJTUkdXRDR5cnJPd2h1aTFnbGEyeXdGRElOTDZhODhaYS1iNUJNWEtaUzltdWV4MlAyN1ZWdVJCM080TTk4TVpt?oc=5
+
+**🖼️ On-image header:** `BANK SALURKAN RP 71,58 TRILIUN KE FINTECH LENDING`  ·  **Sub:** SuaraGarut.ID
+
+**🎨 Nano Banana image prompt**
+
+```text
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "BANK SALURKAN RP 71,58 TRILIUN KE FINTECH LENDING"; a smaller sub-headline below it reading "SuaraGarut.ID". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+```
+
+**✍️ Caption**
+
+```text
+🚨 KABAR TEKNO INDONESIA
+
+Bank Salurkan Rp 71,58 Triliun ke Fintech Lending - SuaraGarut.ID
 
 Kenapa penting: kabar ini dibahas di 19 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
@@ -130,21 +192,21 @@ Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Fintech #Lending #Afpi #Pembiayaan #Triliun #Industri
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Fintech #Lending #Afpi #Pendanaan #Demokratis #Industri
 
 ---
 
-### 5. RI Resmi Luncurkan Chip Merah Putih Buatan Dalam Negeri - CNBC Indonesia
+### 7. Honda Siapkan CR-V Generasi Baru dengan Teknologi Hybrid - Lensa Hukum
 
-- **Topic anchor:** `chip`  ·  **Coverage:** 10 articles  ·  **Sources:** CNBC Indonesia Tech, Google News (Business), Google News (Search), Google News (Technology)
-- **Source link:** https://news.google.com/rss/articles/CBMitgFBVV95cUxNbHZZSHRlckdPSXhrbFhrbVhnWHk5ZHpzMENHUnlhSDh5WUZwVHpoWGNyUlRUcGxwVjdGOHBpMlFfajBRN1JQb19qeFZBYUZ4RjJnTzhPY0VySlhqNzdsWTJWRG5JOXViTjVXa0JySzFJc3Z5cTNDQi10U0ZwaUE0V3YzX0ZEaVdFeVBfeGFDTzlDUWRReWUtY3d3cFBKSzVpaVRmUl91ZTBVNXIwSWJ2bEduY0dkQQ?oc=5
+- **Topic anchor:** `teknologi`  ·  **Coverage:** 12 articles  ·  **Sources:** Google News (Search), Google News (Technology), Google News (Top), Uzone
+- **Source link:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13ZGdfUV9iTktZcW1tMnVTX3VhU1VMcjJkbDVBN1JralZmcndZN0VYRHBObl9LTWlac2g0VjM5azFnZTdxSHIwZlpLdmw4U3ROVERXS09FN2FYZW11UlVMcWk2akdCU2M?oc=5
 
-**🖼️ On-image header:** `RI RESMI LUNCURKAN CHIP MERAH PUTIH BUATAN DALAM NEGERI`  ·  **Sub:** CNBC Indonesia  ·  **Featured:** Indonesia
+**🖼️ On-image header:** `HONDA SIAPKAN CR-V GENERASI BARU DENGAN TEKNOLOGI HYBRID`  ·  **Sub:** Lensa Hukum
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: an Indonesian digital-policy scene: an official government podium with the red-and-white Indonesian flag, holographic regulation and data-shield motifs, formal press-conference atmosphere. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "RI RESMI LUNCURKAN CHIP MERAH PUTIH BUATAN DALAM NEGERI"; a smaller sub-headline below it reading "CNBC Indonesia". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "HONDA SIAPKAN CR-V GENERASI BARU DENGAN TEKNOLOGI HYBRID"; a smaller sub-headline below it reading "Lensa Hukum". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -152,30 +214,30 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-RI Resmi Luncurkan Chip Merah Putih Buatan Dalam Negeri - CNBC Indonesia
+Honda Siapkan CR-V Generasi Baru dengan Teknologi Hybrid - Lensa Hukum
 
-Kenapa penting: kabar ini dibahas di 10 media (CNBC Indonesia Tech, Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 12 media (Google News (Search), Google News (Technology), Google News (Top)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Chip #Impor #Nvidia #Cloud #Lisensi #Perketat
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Teknologi #Daya #Negara #Harus #Pantura #Talk
 
 ---
 
-### 6. 6 Rekomendasi AI untuk Keamanan Siber Terbaik 2026 - Dafunda
+### 8. Video: IMF Peringatkan Risiko Gelembung Investasi AI - CNBC Indonesia
 
-- **Topic anchor:** `siber`  ·  **Coverage:** 13 articles  ·  **Sources:** Google News (Search)
-- **Source link:** https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yUXQybVpFb09XVktiUEpGVU9YekNKMkFOcHl4azgwOFRtazJKRDI1MzBmOTRSVTJMQVBCWmFqSGJFMGxNWXlQbzZlb2xBUzZtQk5UMzNYeFJzWGZCcGstWC1sanNNMVk?oc=5
+- **Topic anchor:** `cnbc`  ·  **Coverage:** 12 articles  ·  **Sources:** CNBC Indonesia Tech, Google News (Business), Google News (Search)
+- **Source link:** https://news.google.com/rss/articles/CBMisAFBVV95cUxQTVk4NWlvTHIxZTE5QWJDbW1oTXhRS2ZHeV9ZVlBGRTJkSVFUb0E2QVh4SkJwTXZYZmtYejB1MFU5UDh1YTRycEFJZktqRzg1X2RHMU51RC1mZXktU1dXQ1VwUElJNGN4LVVkdW9SSUhqWjJ2OGMyNGI2UTY1dktaLWtaOUNrSnpqbmpJZ1FQcnlUVEYyNkc3aW9OZnJnUU5Vb0JlRVY5NVVtSVB4VFBGeQ?oc=5
 
-**🖼️ On-image header:** `6 REKOMENDASI AI UNTUK KEAMANAN SIBER TERBAIK 2026`  ·  **Sub:** Dafunda
+**🖼️ On-image header:** `VIDEO`  ·  **Sub:** IMF Peringatkan Risiko Gelembung Investasi AI - CNBC Indonesia  ·  **Featured:** Indonesia
 
 **🎨 Nano Banana image prompt**
 
 ```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a dramatic cybersecurity breach scene: a hooded hacker silhouette facing glowing screens of code, red alert warnings, a cracked digital padlock, dark high-tension control-room lighting. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "6 REKOMENDASI AI UNTUK KEAMANAN SIBER TERBAIK 2026"; a smaller sub-headline below it reading "Dafunda". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
+Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "VIDEO"; a smaller sub-headline below it reading "IMF Peringatkan Risiko Gelembung Investasi AI - CNBC Indonesia". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
 ```
 
 **✍️ Caption**
@@ -183,77 +245,15 @@ Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict thi
 ```text
 🚨 KABAR TEKNO INDONESIA
 
-6 Rekomendasi AI untuk Keamanan Siber Terbaik 2026 - Dafunda
+Video: IMF Peringatkan Risiko Gelembung Investasi AI - CNBC Indonesia
 
-Kenapa penting: kabar ini dibahas di 13 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
-
-Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
-```
-
-**#️⃣ Hashtags**
-
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Siber #Keamanan #Ancaman #Juta #Kaspersky #Batam
-
----
-
-### 7. Jensen Huang Disebut 'Bohir' Industri AI, Ini Alasannya - CNBC Indonesia
-
-- **Topic anchor:** `cnbc`  ·  **Coverage:** 9 articles  ·  **Sources:** CNBC Indonesia Tech
-- **Source link:** https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFkxYnpoWE5TWXRQTTRNNlZzeUc5VGc4aUVmUWIxUGQ5MEpkbHV0X0p3dVFWeWlQYTdUU0NBcnJUUlNQcUdmVkpWUmRTWmpkcHRJRURtNzROSnhFWHUwbkxjNG9VTnFBNFRZb3VZOG9YUFlMWkI3T3RRcWdWaDVFV3RBOE9RV2hFWXZIR0N0MHZsd01yTEhheTdsYXdDSjdLbTEwdnBLVXMtazlwdWR2b2N3?oc=5
-
-**🖼️ On-image header:** `JENSEN HUANG DISEBUT 'BOHIR' INDUSTRI AI`  ·  **Sub:** Ini Alasannya - CNBC Indonesia  ·  **Featured:** Indonesia
-
-**🎨 Nano Banana image prompt**
-
-```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a glowing AI app interface on a smartphone, friendly digital-assistant motifs, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "JENSEN HUANG DISEBUT 'BOHIR' INDUSTRI AI"; a smaller sub-headline below it reading "Ini Alasannya - CNBC Indonesia". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
-```
-
-**✍️ Caption**
-
-```text
-🚨 KABAR TEKNO INDONESIA
-
-Jensen Huang Disebut 'Bohir' Industri AI, Ini Alasannya - CNBC Indonesia
-
-Kenapa penting: kabar ini dibahas di 9 media (CNBC Indonesia Tech) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
+Kenapa penting: kabar ini dibahas di 12 media (CNBC Indonesia Tech, Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
 
 Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
 ```
 
 **#️⃣ Hashtags**
 
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Cnbc #Teknologi #Mana #Checking #Ganti #Anda
-
----
-
-### 8. Samsung Hapus Aplikasi Quick Measure dan AR Doodle dari Galaxy Store - Technologue ID
-
-- **Topic anchor:** `samsung`  ·  **Coverage:** 6 articles  ·  **Sources:** Google News (Search), Google News (Technology), Google News (Top)
-- **Source link:** https://news.google.com/rss/articles/CBMilgFBVV95cUxPcmZ3TDNiU0ZJQ2F0YzVDeHJHalB3NDZpcWxzUXZ5eVVNa0pkYzM1VS1Xb3IzQkZUWjB0MWl3RDJaSEh3TkltVlpES3ZXZC1XZUpJMXRENUNONjVrUzNLYzVzeVJ6RE9PQ1FTaWk2alQ0Rm95SW5QdkhWeDJLSDJ5dUowT09ZZkl1Zy0xMzZRQ1dSTm82dlE?oc=5
-
-**🖼️ On-image header:** `SAMSUNG HAPUS APLIKASI QUICK MEASURE DAN AR DOODLE`  ·  **Sub:** Technologue ID  ·  **Featured:** Samsung Galaxy
-
-**🎨 Nano Banana image prompt**
-
-```text
-Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Samsung Galaxy. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading "SAMSUNG HAPUS APLIKASI QUICK MEASURE DAN AR DOODLE"; a smaller sub-headline below it reading "Technologue ID". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1
-```
-
-**✍️ Caption**
-
-```text
-🚨 KABAR TEKNO INDONESIA
-
-Samsung Hapus Aplikasi Quick Measure dan AR Doodle dari Galaxy Store - Technologue ID
-
-Kenapa penting: kabar ini dibahas di 6 media (Google News (Search), Google News (Technology), Google News (Top)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.
-
-Simpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇
-```
-
-**#️⃣ Hashtags**
-
-#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Samsung #Galaxy #Harga #Disway #Terbarunya #Promo
+#TeknologiIndonesia #TechIndonesia #AIIndonesia #StartupIndonesia #BeritaTeknologi #Cnbc #Iphone #Nilai #Penipuan #Lubang #Gelembung
 
 ---
