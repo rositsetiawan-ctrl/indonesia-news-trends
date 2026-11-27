@@ -1,32 +1,74 @@
 {
-  "generated_at": "2026-11-26T08:41:50.762316+00:00",
-  "date": "2026-11-26",
+  "generated_at": "2026-11-27T08:52:46.889364+00:00",
+  "date": "2026-11-27",
   "posts": [
     {
       "rank": 1,
-      "slug": "ekspansi-data-center-ai-ancam-pasokan-listrik-as-chatnews-id",
-      "topic": "data",
-      "headline": "Ekspansi Data Center AI Ancam Pasokan Listrik AS - ChatNews.id",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13U1hOZTQyLUpZTmZpNVYxREZfOVFmTmktNWNndFFrZHdycWdhM0gtek8yYUh0Y3ZuRXQ3NGZFNlJPZDVHZ01DUzVYdjY2dFFPZ0RxNk5zX0o0QzJEWmQzWFpqc1BZSzJ5?oc=5",
-      "article_count": 76,
+      "slug": "menyimpan-hp-di-saku-celana-aman-atau-tidak-kompas-com",
+      "topic": "com",
+      "headline": "Menyimpan HP di Saku Celana, Aman atau Tidak? - Kompas.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWDNWNmNrdXJrOExPSm1FT2FUVDFmTk1TeDNsNS1oUDZPNll4WnNSZVowMHJyWTZ6dnN4UFFqRGctVTlZaWFYNGxqQm5sUUZsZC1LTFo3dEJDazNEeHlDd2ZNaDNsa1NFa1FfVUZpd05kT0ZOdHlwOV9uYmVMZnc0dFM5c1ZyWUk4Tm4yYzdaam5DU1BSMjdQMHRjRFBYLVpJaUNXOUVn?oc=5",
+      "article_count": 74,
       "sources": [
         "Google News (Business)",
         "Google News (Search)",
-        "Kompas Tekno"
+        "Google News (Technology)",
+        "Kompas Tekno",
+        "Kumparan Tech"
+      ],
+      "keywords": [
+        "com",
+        "kompas",
+        "data",
+        "center",
+        "fintech",
+        "samsung"
+      ],
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"MENYIMPAN HP DI SAKU CELANA\"; a smaller sub-headline below it reading \"Aman atau Tidak? - Kompas.com\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "MENYIMPAN HP DI SAKU CELANA",
+      "image_subtitle": "Aman atau Tidak? - Kompas.com",
+      "image_entities": [],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nMenyimpan HP di Saku Celana, Aman atau Tidak? - Kompas.com\n\nKenapa penting: kabar ini dibahas di 74 media (Google News (Business), Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "hashtags": [
+        "#TeknologiIndonesia",
+        "#TechIndonesia",
+        "#AIIndonesia",
+        "#StartupIndonesia",
+        "#BeritaTeknologi",
+        "#Kompas",
+        "#Data",
+        "#Center",
+        "#Fintech",
+        "#Samsung"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "infografik-peta-sebaran-data-center-ri-data-indonesia-id",
+      "topic": "data",
+      "headline": "Infografik: Peta Sebaran Data Center RI - Data Indonesia.id",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPamRWY1lhUHBaTzJnN3dZZTdJcXBZU1VRTm9OdTNqVjBqSmRncnJjRzlDUjZQVzhkd2hWRVlJdHJERjJOblYzQksza0JQY0MwSEltZzlOakVxU3pFMEw5SlQyemxHUWMtMEV5eHBxOGJLLW1Bay0wV2tOQVlTQmRqSVFZSnBuSjNU?oc=5",
+      "article_count": 52,
+      "sources": [
+        "CNBC Indonesia Tech",
+        "Google News (Business)",
+        "Google News (Search)"
       ],
       "keywords": [
         "data",
         "center",
         "listrik",
-        "com",
         "pln",
-        "investasi"
+        "nvidia",
+        "cnbc"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"EKSPANSI DATA CENTER AI ANCAM PASOKAN LISTRIK AS\"; a smaller sub-headline below it reading \"ChatNews.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "EKSPANSI DATA CENTER AI ANCAM PASOKAN LISTRIK AS",
-      "image_subtitle": "ChatNews.id",
-      "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nEkspansi Data Center AI Ancam Pasokan Listrik AS - ChatNews.id\n\nKenapa penting: kabar ini dibahas di 76 media (Google News (Business), Google News (Search), Kompas Tekno) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a vast futuristic data center in Indonesia: endless rows of server racks glowing blue, cinematic depth of field, cool high-tech atmosphere. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"INFOGRAFIK\"; a smaller sub-headline below it reading \"Peta Sebaran Data Center RI - Data Indonesia.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "INFOGRAFIK",
+      "image_subtitle": "Peta Sebaran Data Center RI - Data Indonesia.id",
+      "image_entities": [
+        "Indonesia"
+      ],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nInfografik: Peta Sebaran Data Center RI - Data Indonesia.id\n\nKenapa penting: kabar ini dibahas di 52 media (CNBC Indonesia Tech, Google News (Business), Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
@@ -36,113 +78,112 @@
         "#Data",
         "#Center",
         "#Listrik",
-        "#Investasi"
-      ]
-    },
-    {
-      "rank": 2,
-      "slug": "menyimpan-hp-di-saku-celana-aman-atau-tidak-kompas-com",
-      "topic": "com",
-      "headline": "Menyimpan HP di Saku Celana, Aman atau Tidak? - Kompas.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbnVndWk3N0pyWlFjYnhDZkpYUUR2MlN5SXlRYjNTbWMwRktsX0dtbnhqeTBERjEzaWRvaUwxajBnYkZiYmd5aVBXZG9sd25vZ0QzZlRsUENxdTdmUHVlOHhwZTFzU21rbXhuNGdvQnZDQk5TVEdsOUQ5RlhOQmk1eURtYkN6aGpSYWdzZ3lWOGdwMm9KbzNrTQ?oc=5",
-      "article_count": 53,
-      "sources": [
-        "Google News (Search)",
-        "Google News (Technology)",
-        "Kompas Tekno"
-      ],
-      "keywords": [
-        "com",
-        "kompas",
-        "samsung",
-        "galaxy",
-        "iphone",
-        "kecerdasan"
-      ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"MENYIMPAN HP DI SAKU CELANA\"; a smaller sub-headline below it reading \"Aman atau Tidak? - Kompas.com\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "MENYIMPAN HP DI SAKU CELANA",
-      "image_subtitle": "Aman atau Tidak? - Kompas.com",
-      "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nMenyimpan HP di Saku Celana, Aman atau Tidak? - Kompas.com\n\nKenapa penting: kabar ini dibahas di 53 media (Google News (Search), Google News (Technology), Kompas Tekno) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
-      "hashtags": [
-        "#TeknologiIndonesia",
-        "#TechIndonesia",
-        "#AIIndonesia",
-        "#StartupIndonesia",
-        "#BeritaTeknologi",
-        "#Kompas",
-        "#Samsung",
-        "#Galaxy",
-        "#Iphone",
-        "#Kecerdasan"
+        "#Nvidia",
+        "#Cnbc"
       ]
     },
     {
       "rank": 3,
-      "slug": "kantongi-tkdn-redmagic-12-pro-bersiap-rilis-di-indonesia-jag",
-      "topic": "gadget",
-      "headline": "Kantongi TKDN, RedMagic 12 Pro Bersiap Rilis Di Indonesia! - Jagat Gadget",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BYW9yRnZ0dTVSQktyM3BNRkQ3ZENOSFNkN1VZUUdoUU5OSjViZjlkSEppMFk4ZTFkck9Ed3Q0WWM2ZThRa1pQNFNlSmNFdVJvM25lN21IaG03LUctR1c1T2lUTVRyVkJwQWgzNQ?oc=5",
+      "slug": "industri-fintech-hadapi-periode-menantang-tradingview",
+      "topic": "fintech",
+      "headline": "Industri Fintech Hadapi Periode Menantang - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3WmxuMlhiTGtfbkdfbC03cEZ1TjFYLXg3azJISWJ6Z2wxYkRndWFKaXhDeHRZY1lUTEhYdnI1ckxJZ1k4LWprNU9qZHd0eGhQMW5FRGI5Uk1jLTlVa094dWk1VU13dw?oc=5",
       "article_count": 38,
       "sources": [
+        "CNBC Indonesia Tech",
         "Google News (Search)"
       ],
       "keywords": [
-        "gadget",
-        "qoo10",
-        "rilis",
-        "pro",
-        "jagat",
-        "album"
+        "fintech",
+        "umkm",
+        "pembiayaan",
+        "dorong",
+        "produktivitas",
+        "bfn"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a new tech product revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"KANTONGI TKDN\"; a smaller sub-headline below it reading \"Produk teknologi terbaru resmi hadir\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "KANTONGI TKDN",
-      "image_subtitle": "Produk teknologi terbaru resmi hadir",
-      "image_entities": [
-        "Indonesia"
-      ],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nKantongi TKDN, RedMagic 12 Pro Bersiap Rilis Di Indonesia! - Jagat Gadget\n\nKenapa penting: kabar ini dibahas di 38 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"INDUSTRI FINTECH HADAPI PERIODE MENANTANG\"; a smaller sub-headline below it reading \"TradingView\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "INDUSTRI FINTECH HADAPI PERIODE MENANTANG",
+      "image_subtitle": "TradingView",
+      "image_entities": [],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nIndustri Fintech Hadapi Periode Menantang - TradingView\n\nKenapa penting: kabar ini dibahas di 38 media (CNBC Indonesia Tech, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
         "#AIIndonesia",
         "#StartupIndonesia",
         "#BeritaTeknologi",
-        "#Gadget",
-        "#Qoo10",
-        "#Rilis",
-        "#Jagat",
-        "#Album"
+        "#Fintech",
+        "#Umkm",
+        "#Pembiayaan",
+        "#Dorong",
+        "#Produktivitas"
       ]
     },
     {
       "rank": 4,
-      "slug": "easycash-perkuat-literasi-keuangan-digital-investor-id",
-      "topic": "digital",
-      "headline": "Easycash Perkuat Literasi Keuangan Digital - investor.id",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjE2VEFUSG5rUENCWlIteWZfNVdaeFhMNVBuMHg1WnVVSm5fZjNNOEY2TkptU0ZtTy1rQUhMMmp1VENlVDV2YWdiWVlZeVdhQ1A3ZVFiX1lKRWhGSXBZN3drM2ZwOVRFTHBnai1aVlBuTmduRE8yMmJkRktIdE1zQTVWbw?oc=5",
-      "article_count": 28,
+      "slug": "kupas-jeroan-teknologi-byd-titan-7-dm-uzone-id",
+      "topic": "teknologi",
+      "headline": "Kupas Jeroan Teknologi BYD TiTAN 7 DM - Uzone.id",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95N01xV2U4bVd5bVkyNDBzZFl2NmlhdmhQOFl2WFdlQjdKT1lFdkVjQVN0SHhYLU5EX0sxa2lEajBvSTY1WXE1TkhxX3kxTkRMLU53UnNNYUhTX1gtRXNJZzlDMDM?oc=5",
+      "article_count": 25,
       "sources": [
         "CNBC Indonesia Tech",
         "Detik Inet",
-        "Google News (Business)",
         "Google News (Search)",
         "Google News (Technology)",
         "Uzone"
       ],
       "keywords": [
+        "teknologi",
+        "diam",
+        "baru",
+        "pamer",
+        "berkembang",
+        "media"
+      ],
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"KUPAS JEROAN TEKNOLOGI BYD TITAN 7 DM\"; a smaller sub-headline below it reading \"Uzone.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "KUPAS JEROAN TEKNOLOGI BYD TITAN 7 DM",
+      "image_subtitle": "Uzone.id",
+      "image_entities": [],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nKupas Jeroan Teknologi BYD TiTAN 7 DM - Uzone.id\n\nKenapa penting: kabar ini dibahas di 25 media (CNBC Indonesia Tech, Detik Inet, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "hashtags": [
+        "#TeknologiIndonesia",
+        "#TechIndonesia",
+        "#AIIndonesia",
+        "#StartupIndonesia",
+        "#BeritaTeknologi",
+        "#Teknologi",
+        "#Diam",
+        "#Pamer",
+        "#Berkembang",
+        "#Media"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "kecerdasan-buatan-dan-manfaatnya-di-era-digital-rri-co-id",
+      "topic": "digital",
+      "headline": "Kecerdasan Buatan dan Manfaatnya di Era Digital - RRI.co.id",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdi1vS25VOGpxTG5vMUttRWtwYlNJcmJ6bi1CVVRhLU9iWjdQQlgydU5fWVZwZGJEN2lsR3IxWmRxanY2ZkU3ZF9wTWZDa28tRTdxSy1jYTEybjllZEM5d3hSOGRRSHc5TnA1amVkRHBfMDIyX3h2UWJWR0syQWlud1Zfemw4Rko0OWtDUHlNWF8?oc=5",
+      "article_count": 19,
+      "sources": [
+        "CNBC Indonesia Tech",
+        "Google News (Search)",
+        "Uzone"
+      ],
+      "keywords": [
         "digital",
         "perkuat",
-        "keuangan",
-        "transformasi",
-        "raih",
-        "cnbc"
+        "suara",
+        "merdeka",
+        "cnbc",
+        "keamanan"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a startup-funding moment: confident founders in a bright modern Jakarta office celebrating, a large screen showing a steep upward investment growth chart, stacks of Indonesian rupiah and venture-capital motifs. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"EASYCASH PERKUAT LITERASI KEUANGAN DIGITAL\"; a smaller sub-headline below it reading \"investor.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "EASYCASH PERKUAT LITERASI KEUANGAN DIGITAL",
-      "image_subtitle": "investor.id",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a glowing AI app interface on a smartphone, friendly digital-assistant motifs, dramatic studio lighting, modern Indonesian tech context. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"KECERDASAN BUATAN DAN MANFAATNYA DI ERA DIGITAL\"; a smaller sub-headline below it reading \"RRI.co.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "KECERDASAN BUATAN DAN MANFAATNYA DI ERA DIGITAL",
+      "image_subtitle": "RRI.co.id",
       "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nEasycash Perkuat Literasi Keuangan Digital - investor.id\n\nKenapa penting: kabar ini dibahas di 28 media (CNBC Indonesia Tech, Detik Inet, Google News (Business)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nKecerdasan Buatan dan Manfaatnya di Era Digital - RRI.co.id\n\nKenapa penting: kabar ini dibahas di 19 media (CNBC Indonesia Tech, Google News (Search), Uzone) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
@@ -151,152 +192,114 @@
         "#BeritaTeknologi",
         "#Digital",
         "#Perkuat",
-        "#Keuangan",
-        "#Transformasi",
-        "#Cnbc"
-      ]
-    },
-    {
-      "rank": 5,
-      "slug": "keamanan-siber-dalam-teknologi-ai-tvri-news",
-      "topic": "teknologi",
-      "headline": "Keamanan Siber dalam Teknologi AI - TVRI News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTkVaT0VRZmp3YllKYnFqY1hiRGxycnJ5bU5xamwxVENTRHBVS1Z5MEhRZlpUaDlxdDZmcjJsLWNmbTVEX3EtUXZLVTBmaWx3QV8tOWoyRlh2SjBVTWcwQnotTmNFTmhzSkw2alNFcVB1YlAxcUNNZG1sdnFndmxVakZzaUI?oc=5",
-      "article_count": 27,
-      "sources": [
-        "Detik Inet",
-        "Google News (Search)",
-        "Google News (Technology)",
-        "Google News (Top)",
-        "Uzone"
-      ],
-      "keywords": [
-        "teknologi",
-        "industri",
-        "kolaborasi",
-        "tvri",
-        "honda",
-        "hybrid"
-      ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a tech partnership concept: two business figures shaking hands, glowing network lines connecting two platforms, collaborative optimistic mood. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"KEAMANAN SIBER DALAM TEKNOLOGI AI\"; a smaller sub-headline below it reading \"TVRI News\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "KEAMANAN SIBER DALAM TEKNOLOGI AI",
-      "image_subtitle": "TVRI News",
-      "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nKeamanan Siber dalam Teknologi AI - TVRI News\n\nKenapa penting: kabar ini dibahas di 27 media (Detik Inet, Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
-      "hashtags": [
-        "#TeknologiIndonesia",
-        "#TechIndonesia",
-        "#AIIndonesia",
-        "#StartupIndonesia",
-        "#BeritaTeknologi",
-        "#Teknologi",
-        "#Industri",
-        "#Kolaborasi",
-        "#Tvri",
-        "#Honda",
-        "#Hybrid"
+        "#Suara",
+        "#Merdeka",
+        "#Cnbc",
+        "#Keamanan"
       ]
     },
     {
       "rank": 6,
-      "slug": "bahaya-institusi-kena-serangan-siber-tapi-tak-mau-lapor-kump",
-      "topic": "siber",
-      "headline": "Bahaya Institusi Kena Serangan Siber tapi Tak Mau Lapor - kumparan",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRThqNWRIZDZGcFFnREZaZEQ1ajBidnNieENiNlpqOHgwVnpkME5RMHRIeE9tS0d2N1Q0R2lDWUhLdF8zMHNpeHRZZDJ2OFpxZFQ5OEVxT1dCSmp2RGt2ejkxY1FhRFVTcEY0UA?oc=5",
-      "article_count": 18,
+      "slug": "daftar-10-hp-baru-rilis-di-indonesia-pada-november-2026-idn-",
+      "topic": "rilis",
+      "headline": "Daftar 10 HP Baru Rilis di Indonesia pada November 2026 - IDN Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOVVlcDExNEFRWnQ3VndiMEtHWjlvR1lFWXVFdmlpR0VPbTY2cDg5OGV5eXJQUEJvS0k1ZFpiN3ctcURQWlZHM19jd3ZzQXZ1RGxLNS01Ykg3N0ota2Nfc1lOc1VnWk8yOHc1Wkl0S3FDcFd5Q2d1ZFZsekhsQ0NaODhWMHBLaXhkbVNZdlhzV0RmRGt3SWtVd0JpNUU2aDJlblJGTUpBYk9jMjE0ZGfSAa4BQVVfeXFMUDlVZXAxMTRBUVp0N1Z3YjBLR1o5b0dZRVl1RXZpaUdFT202NnA4OThleXlyUFBCb0tJNWRaYjd3LXFEUFpWRzNfY3d2c0F2dURsSzUtNWJINzdKLWtjX3NZTnNVZ1pPMjh3NVpJdEtxQ3BXeUNndWRWbHpIbENDWjg4VjBwS2l4ZG1TWXZYc1dEZkRrd0lrVXdCaTVFNmgyZW5SRk1KQWJPYzIxNGRn?oc=5",
+      "article_count": 20,
       "sources": [
         "Google News (Search)",
-        "Google News (Technology)",
         "Uzone"
       ],
       "keywords": [
-        "siber",
-        "keamanan",
-        "ancaman",
-        "serangan",
-        "perkuat",
-        "soc"
+        "rilis",
+        "gadget",
+        "qoo10",
+        "jagat",
+        "pro",
+        "smartphone"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a dramatic cybersecurity breach scene: a hooded hacker silhouette facing glowing screens of code, red alert warnings, a cracked digital padlock, dark high-tension control-room lighting. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"BAHAYA INSTITUSI KENA SERANGAN SIBER TAPI TAK MAU LAPOR\"; a smaller sub-headline below it reading \"kumparan\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "BAHAYA INSTITUSI KENA SERANGAN SIBER TAPI TAK MAU LAPOR",
-      "image_subtitle": "kumparan",
-      "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nBahaya Institusi Kena Serangan Siber tapi Tak Mau Lapor - kumparan\n\nKenapa penting: kabar ini dibahas di 18 media (Google News (Search), Google News (Technology), Uzone) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a product-launch scene: a premium flagship smartphone revealed on a glowing launch-event stage under a dramatic spotlight, sleek hero product shot, audience silhouettes and a big screen. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"DAFTAR 10 HP BARU RILIS DI INDONESIA PADA NOVEMBER\"; a smaller sub-headline below it reading \"IDN Times\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "DAFTAR 10 HP BARU RILIS DI INDONESIA PADA NOVEMBER",
+      "image_subtitle": "IDN Times",
+      "image_entities": [
+        "Indonesia"
+      ],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nDaftar 10 HP Baru Rilis di Indonesia pada November 2026 - IDN Times\n\nKenapa penting: kabar ini dibahas di 20 media (Google News (Search), Uzone) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
         "#AIIndonesia",
         "#StartupIndonesia",
         "#BeritaTeknologi",
-        "#Siber",
-        "#Keamanan",
-        "#Ancaman",
-        "#Serangan",
-        "#Perkuat"
+        "#Rilis",
+        "#Gadget",
+        "#Qoo10",
+        "#Jagat",
+        "#Smartphone"
       ]
     },
     {
       "rank": 7,
-      "slug": "dpr-perkuat-pengawasan-industri-fintech-nasional-chatnews-id",
-      "topic": "fintech",
-      "headline": "DPR Perkuat Pengawasan Industri Fintech Nasional - ChatNews.id",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rYWFLMXViMURtd2FCRjJSbmU5SEtZMFMwTDBEVFhQR3JHbUlVcDM2WEdKcWNkSnhSYm1nLUxvMFFJazVJai1CTE1jS205YXVkd1hjaHlOdng2TEtfdDNNVA?oc=5",
+      "slug": "harga-saham-goto-hari-ini-jumat-27-november-2026-pintu",
+      "topic": "goto",
+      "headline": "Harga Saham GOTO Hari Ini, Jumat 27 November 2026 - Pintu",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTci1WZ3ZLRGREdEVjMjRqc0lvZE9JNUZOM0sxYkxxdmM2bGlTbHhQTUZuOVpBTjl3RW1pMXBaajRSY3JRSkRtczNBM2xQaWtPX0x1SzNEamlmZDdtbkJsNWw1eTd4bWhPUVh1YmFINkxielJ4SlFxU3hBVmhxWlU?oc=5",
       "article_count": 19,
       "sources": [
         "Google News (Search)"
       ],
       "keywords": [
-        "fintech",
-        "ojk",
-        "dpr",
-        "pembiayaan",
-        "lending",
-        "chatnews"
+        "goto",
+        "saham",
+        "ihsg",
+        "isat",
+        "dewa"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"DPR PERKUAT PENGAWASAN INDUSTRI FINTECH NASIONAL\"; a smaller sub-headline below it reading \"ChatNews.id\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "DPR PERKUAT PENGAWASAN INDUSTRI FINTECH NASIONAL",
-      "image_subtitle": "ChatNews.id",
-      "image_entities": [],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nDPR Perkuat Pengawasan Industri Fintech Nasional - ChatNews.id\n\nKenapa penting: kabar ini dibahas di 19 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean conceptual Indonesian tech-news scene relevant to the topic, modern devices and subtle data motifs on a studio backdrop. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: GoTo. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"HARGA SAHAM GOTO HARI\"; a smaller sub-headline below it reading \"Jumat 27 November 2026 - Pintu\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "HARGA SAHAM GOTO HARI",
+      "image_subtitle": "Jumat 27 November 2026 - Pintu",
+      "image_entities": [
+        "GoTo"
+      ],
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nHarga Saham GOTO Hari Ini, Jumat 27 November 2026 - Pintu\n\nKenapa penting: kabar ini dibahas di 19 media (Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
         "#AIIndonesia",
         "#StartupIndonesia",
         "#BeritaTeknologi",
-        "#Fintech",
-        "#Pembiayaan",
-        "#Lending",
-        "#Chatnews"
+        "#Goto",
+        "#Saham",
+        "#Ihsg",
+        "#Isat",
+        "#Dewa"
       ]
     },
     {
       "rank": 8,
-      "slug": "oecd-bongkar-5-hambatan-ri-masuk-rantai-pasok-chip-dunia-cnb",
+      "slug": "banyak-orang-mulai-tidak-percaya-ai-ini-kata-alibaba-cnbc-in",
       "topic": "cnbc",
-      "headline": "OECD Bongkar 5 Hambatan RI Masuk Rantai Pasok Chip Dunia - CNBC Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzZMMFpXa1NOXy0yWWZ4cFdJdmFCYXJBT2J3VThGa3lQdnE3ZnBacnRNU050cmlKdU5XbldFN1VtT1RRRjRlbTBORDEzV3dQSXloaHE2REtaX0NhaTFNbWNsX0hiYXY1Y1BIcExscHZnMTdWX3gyalQyQUlHUkNNc0J0ZUZnRzJBNWRTSFRYMG9Fc25OUjVhMnNEdXBhWlZtN1ZFWDRiMHZUU0lvZG0xek01a0VLYTQ?oc=5",
-      "article_count": 12,
+      "headline": "Banyak Orang Mulai Tidak Percaya AI, Ini Kata Alibaba - CNBC Indonesia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDJPQzEta3dKT1pEMDBvb0p2NXlHUVpNdWN0R0ZxZGVMVDlIcUlWSjJsblVXN0V5a01KYUxYeEZBLVNQRnJLOFpWYVF1eVJBWFNFM2tPRE1VOFhCMk1ibTNhd3pva3ZXNGpHRmwtYWdsYzd5TFhhMHRCNlRPbS00aGplNGNBczRONjBoOXRPUmVIQXRvTUhmejJZQVd0NWNhcnRia3R4S3hNWGtqaU9TRDR3?oc=5",
+      "article_count": 14,
       "sources": [
         "CNBC Indonesia Tech",
-        "Google News (Search)",
-        "Google News (Technology)"
+        "Google News (Search)"
       ],
       "keywords": [
         "cnbc",
-        "dunia",
-        "lewat",
-        "ramai",
-        "chip",
-        "tips"
+        "telkomsel",
+        "penipu",
+        "iphone",
+        "cara",
+        "satu"
       ],
-      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a glowing advanced semiconductor chip on a circuit board, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"OECD BONGKAR 5 HAMBATAN RI MASUK RANTAI PASOK CHIP\"; a smaller sub-headline below it reading \"CNBC Indonesia\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
-      "image_hook": "OECD BONGKAR 5 HAMBATAN RI MASUK RANTAI PASOK CHIP",
-      "image_subtitle": "CNBC Indonesia",
+      "image_prompt": "Editorial tech-news poster, 1:1 square, social-media cover. SCENE — depict this exact event: a clean editorial product scene featuring a premium flagship smartphone, dramatic studio lighting, modern Indonesian tech context. Clearly and recognizably feature these REAL brands/products/places so the audience instantly understands the story: Indonesia. Show their real product likeness, logos and colors accurately. TEXT ON IMAGE (render exactly, spelled correctly, no typos): top bold UPPERCASE headline reading \"BANYAK ORANG MULAI TIDAK PERCAYA AI\"; a smaller sub-headline below it reading \"Ini Kata Alibaba - CNBC Indonesia\". Put the headline in the top third over a semi-transparent dark gradient banner for readability; keep the main visual in the lower two-thirds. Style: bold modern tech-magazine cover, cinematic lighting, high contrast, blue/cyan palette with a strong Indonesian red accent, clean sans-serif type. Do not depict real private individuals' faces. No watermarks. --ar 1:1",
+      "image_hook": "BANYAK ORANG MULAI TIDAK PERCAYA AI",
+      "image_subtitle": "Ini Kata Alibaba - CNBC Indonesia",
       "image_entities": [
         "Indonesia"
       ],
-      "caption": "🚨 KABAR TEKNO INDONESIA\n\nOECD Bongkar 5 Hambatan RI Masuk Rantai Pasok Chip Dunia - CNBC Indonesia\n\nKenapa penting: kabar ini dibahas di 12 media (CNBC Indonesia Tech, Google News (Search), Google News (Technology)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
+      "caption": "🚨 KABAR TEKNO INDONESIA\n\nBanyak Orang Mulai Tidak Percaya AI, Ini Kata Alibaba - CNBC Indonesia\n\nKenapa penting: kabar ini dibahas di 14 media (CNBC Indonesia Tech, Google News (Search)) — sinyal yang layak dipantau buat kamu yang ngikutin dunia tech & AI Indonesia.\n\nSimpan 🔖 & follow buat update teknologi tiap hari. Menurut kamu gimana? 👇",
       "hashtags": [
         "#TeknologiIndonesia",
         "#TechIndonesia",
@@ -304,11 +307,11 @@
         "#StartupIndonesia",
         "#BeritaTeknologi",
         "#Cnbc",
-        "#Dunia",
-        "#Lewat",
-        "#Ramai",
-        "#Chip",
-        "#Tips"
+        "#Telkomsel",
+        "#Penipu",
+        "#Iphone",
+        "#Cara",
+        "#Satu"
       ]
     }
   ]
